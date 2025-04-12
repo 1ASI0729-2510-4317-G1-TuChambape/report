@@ -1,12 +1,19 @@
-# Reporte Grupo 1
 
-![LogoUPC](https://github.com/user-attachments/assets/5ee060a6-be50-4fb0-86fb-67fb83374e0e)
+<h1 align="center">
+  <strong style="font-size:25px;">Universidad Informe de Trabajo Final</strong>
+</h1>
 
-Universidad Peruana De Ciencias Aplicadas
+---
 
-<hr>
+<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/630b9d84-33e0-43e9-979c-961495c7363b"/>
+</p>
 
-# Proyecto Jobl
+<p align="center">Ingenieria de Software</p>
+<p align="center">5to ciclo</p>
+
+---
 
 Integrantes:
 
