@@ -92,3 +92,13 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 
 ## 1.1. Startup Profile
 Nuestra Startup “Chads” presenta una nueva aplicación llamada “TuChambape”, diseñada para conectar a personas con estudios técnicos con clientes que requieren servicios especializados, como electricidad, plomería, carpintería, entre otros. Esta plataforma busca brindar oportunidades laborales flexibles a técnicos calificados, permitiéndoles ofrecer sus servicios como freelancers y gestionar sus trabajos de forma independiente. Para ello, se investigarán plataformas similares y se diseñará una solución tecnológica funcional, centrada en la experiencia del usuario y la confianza entre las partes.
+
+### 1.1.1. Descripción de la Startup
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+#### 1.1.2.1 Diego Alonzo Mora Blas
+Estudiante de la carrera de ingeniería de software en la UPC, cuento con habilidades como el aprendizaje rápido el cual me ha llevado a practicar y conocer diversas áreas como lo son la programación, la ciberseguridad y redes. Tengo el honor de trabajar con mi equipo el cual estoy seguro que nos aseguraremos de presentar un trabajo al nivel.
+
+<img src="assets/images/profile-pictures/DiegoMora.PNG"  width="180" />
+
