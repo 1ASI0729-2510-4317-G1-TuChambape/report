@@ -24,3 +24,19 @@
 
 <p align="center"><strong>StartUp: </strong> Chads</p>
 <p align="center"><strong>Proyecto:</strong> TuChambape</p>
+
+
+
+## Integrantes:
+<div align="center">
+
+| Nombres y Apellidos                  | Codigo     |
+| ------------------------------------ | ---------- |
+| Eduardo Jose Cossar Sanchez          | U202312109 |
+| Mora Blas,  Diego Alonzo             | U20231c069 |
+| Daniel Valdizan Grijalba             | u202311566 |
+| Roy Linsh Fernandez Remon  | u20221b778 |
+| Jonseck Choque, Oliver | U202312912 |
+
+
+</div>
