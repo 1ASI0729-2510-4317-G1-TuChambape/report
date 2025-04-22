@@ -40,3 +40,26 @@
 
 
 </div>
+
+<p align="center">Abril 2025</p>
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| 1.0 | 22/04/2025 | Cossar, Mora, Valdizan, Jonseck, Fernandez | Creación del documento Markdown |
+| 1.1 | 22/04/2025 | Mora |Creacion y Organizacion de la presentacion del informe. |
+
+# Project Report Collaboration Insights
+
+## **TP1**
+
+Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+
+| Integrante | Tareas Asignadas |
+| :---- | :---- |
+|  |  |
+| |  |
+|  |  |
+|	 | |
+|  | |
