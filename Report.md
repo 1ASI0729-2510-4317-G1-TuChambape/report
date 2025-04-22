@@ -87,3 +87,8 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 | :---- | :---- | :---- |
 |  |  |  |
 |  |  |  |
+
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+Nuestra Startup “Chads” presenta una nueva aplicación llamada “TuChambape”, diseñada para conectar a personas con estudios técnicos con clientes que requieren servicios especializados, como electricidad, plomería, carpintería, entre otros. Esta plataforma busca brindar oportunidades laborales flexibles a técnicos calificados, permitiéndoles ofrecer sus servicios como freelancers y gestionar sus trabajos de forma independiente. Para ello, se investigarán plataformas similares y se diseñará una solución tecnológica funcional, centrada en la experiencia del usuario y la confianza entre las partes.
