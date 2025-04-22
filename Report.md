@@ -102,3 +102,60 @@ Estudiante de la carrera de ingeniería de software en la UPC, cuento con habili
 
 <img src="assets/images/profile-pictures/DiegoMora.PNG"  width="180" />
 
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1 Competidores.
+### 2.1.1 Análisis competitivo.
+
+| **Competitive Analysis Landscape** | **Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.** |
+| :---- | :---- |
+| ¿Por qué llevar a cabo este análisis?  | Deseamos analizar a nuestros competidores para buscar en qué puntos podemos mejorar, contra que nos estamos enfrentando en el mercado y como nos distinguimos de estos |
+
+|  |  |  | | | |
+| :---- | :---- | ----- | :---- | :---- | :---- |
+| Perfil | Overview Ventaja competitiva  |  |  |  |  |
+|  | ¿Qué valor ofrece a los clientes? | | |  |  |
+| Perfil de Marketing | Mercado objetivo  | | |  | |
+|  | Estrategias de marketing |  |  |  |  |
+| Perfil de Producto | • Productos & Servicios  |  | |  |  |
+|  | Precios & Costos  | | |  | |
+|  | Canales de distribución (Web y/o Móvil)  | | | |  |
+| Análisis SWOT | Fortalezas | |  |   | |
+|  | Debilidades |  |   |  | |
+|  | Oportunidades |  |  |  |  |
+|  | Amenazas |  | |  | |
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+### 1.2.3 Estrategias y Tácticas frente a Competidores
+
+Después de revisar lo que ofrecen otras plataformas de servicios freelance, y considerando el análisis FODA que realizamos, identificamos una serie de estrategias que nos diferencian y que vamos a aprovechar. Algunas ya están en marcha y otras forman parte de nuestras oportunidades de crecimiento.
+
+**1. Hacer que la plataforma sea fácil de entender y usar**  
+Detectamos que muchas apps actuales tienen buenas funciones, pero resultan confusas para usuarios nuevos o con poca experiencia digital. En TuChambape queremos que la experiencia sea intuitiva desde el registro hasta la contratación del servicio. Incluirá tutoriales, interfaz accesible y asistencia dentro de la app.
+
+**2. Enfocarnos en técnicos certificados y usuarios que valoran la calidad**  
+Mientras otros servicios permiten el registro de cualquier usuario, nosotros validaremos los estudios técnicos y experiencia laboral para garantizar confianza. Queremos posicionarnos como una app donde se sabe que el trabajo estará bien hecho.
+
+**3. Generar alianzas con instituciones educativas y centros técnicos**  
+Buscaremos acuerdos con institutos y centros de formación técnica para captar talento calificado, darles visibilidad y ofrecer beneficios exclusivos, como promociones en sus primeras contrataciones.
+
+**4. Ofrecer herramientas de gestión para los técnicos**  
+Una función diferencial será permitir que los técnicos lleven control de sus ingresos, historial de trabajos y horarios desde la misma plataforma. Esto mejora su autonomía y profesionalismo.
+
+**5. Garantizar confianza y seguridad en los pagos**  
+Usaremos intermediación segura para proteger tanto al cliente como al técnico. El pago se liberará solo cuando el cliente confirme que el trabajo fue completado, reduciendo riesgos de estafas o incumplimientos.
+
+**6. Soporte rápido y eficiente**  
+Uno de los puntos débiles de la competencia es el servicio de atención al cliente. En TuChambape ofreceremos soporte interno dentro de la app, con respuestas automatizadas y agentes disponibles en horarios clave.
+
+**7. Crecer de forma controlada y basada en la demanda**  
+No expandiremos el servicio de manera desordenada. Empezaremos por zonas con mayor demanda identificada (como zonas urbanas con alta concentración de viviendas), y escalaremos según feedback y análisis de uso real.
+
+**8. Evaluar la posibilidad de planes y suscripciones para usuarios frecuentes**  
+Pensamos implementar un sistema de fidelización para clientes que contraten servicios regularmente, brindándoles descuentos o beneficios, mientras los técnicos ganan mayor visibilidad en la plataforma.
+
+**9. Promociones cruzadas con negocios locales**  
+Proyectamos vincularnos con ferreterías, tiendas de herramientas o cafés donde nuestros técnicos suelen trabajar, para que funcionen como puntos de visibilidad o aliados comerciales.
+
+**10. Transparencia y reputación como ventaja competitiva**  
+Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones verificadas. Esto ayudará a construir reputación profesional y permitirá a los usuarios tomar decisiones informadas.
+
