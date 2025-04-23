@@ -169,7 +169,7 @@ El propósito de esta sección es establecer las pautas generales de estilo que 
 ➔ **Branding**
 El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta una fusión estilizada de las letras J y C en tonos blancos y naranja cálido (#FF7A00), sobre un fondo azul eléctrico (#0066FF), lo cual evoca una sensación de tecnología, profesionalismo y acción inmediata.
 
-**Figura 17**
+**Figura --**
 Logotipo de TuChambape
 
 A continuación, se detallan las decisiones relacionadas con su uso y aplicación:
