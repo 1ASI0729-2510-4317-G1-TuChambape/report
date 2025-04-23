@@ -159,3 +159,52 @@ Proyectamos vincularnos con ferreterías, tiendas de herramientas o cafés donde
 **10. Transparencia y reputación como ventaja competitiva**  
 Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones verificadas. Esto ayudará a construir reputación profesional y permitirá a los usuarios tomar decisiones informadas.
 
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+El propósito de esta sección es establecer las pautas generales de estilo que guiarán el desarrollo visual y de comunicación de TuChambape, una plataforma orientada a conectar técnicos independientes con clientes que necesitan servicios confiables y de calidad en distintos rubros del hogar y la tecnología. Estas directrices están diseñadas para asegurar la coherencia estética, funcional y de experiencia de usuario en todos los puntos de contacto con la plataforma, tanto en su versión web como móvil, utilizando herramientas de diseño como Figma. Esta sección funcionará como una guía centralizada para el equipo de diseño, desarrollo y marketing, garantizando que la identidad de TuChambape se mantenga consistente, profesional y alineada con los valores de cercanía, confianza y eficiencia.
+
+➔ **Branding**
+El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta una fusión estilizada de las letras J y C en tonos blancos y naranja cálido (#FF7A00), sobre un fondo azul eléctrico (#0066FF), lo cual evoca una sensación de tecnología, profesionalismo y acción inmediata.
+
+**Figura 17**
+Logotipo de TuChambape
+
+A continuación, se detallan las decisiones relacionadas con su uso y aplicación:
+- **Logo principal**: El logotipo debe ser utilizado siempre que sea posible en su versión completa, sobre un fondo blanco o de color suave que no interfiera con su legibilidad.
+- **Adaptación en Figma**: El logotipo debe estar guardado como un componente en Figma para facilitar su uso consistente en múltiples pantallas y dispositivos. Se deberán crear versiones de alta resolución y con transparencias, ajustadas para diferentes aplicaciones visuales.
+
+➔ **Typography**
+La tipografía es uno de los elementos más importantes en la creación de una identidad visual coherente. Para TuChambape, hemos seleccionado fuentes que transmiten tecnología, claridad y profesionalismo:
+- **Fuente principal**: La fuente seleccionada es "Poppins". Se trata de una tipografía moderna y versátil, con formas geométricas que refuerzan la estética tecnológica del logotipo. Se utilizará en sus diferentes tamaños, principalmente Bold para los encabezados y títulos principales, mientras que Regular para el cuerpo de texto.
+- **Fuente secundaria**: Se recomienda el uso de "Inter" para textos más pequeños, como subtítulos, descripciones y etiquetas de formularios. Esta fuente asegura alta legibilidad en pantalla y complementa la línea visual moderna y funcional de la marca.
+- **Aplicación en Figma**: Se deben crear Text Styles en Figma que incluyan los tamaños y pesos de Poppins e Inter previamente definidos, para garantizar un uso uniforme en todo el diseño. Los encabezados deben tener un tamaño de 32px, los subtítulos de 24px y el cuerpo de texto de 16px.
+
+➔ **Colors**
+El color es un aspecto central en la creación de la experiencia visual. Para TuChambape, la paleta de colores se basa en tonos que reflejan tecnología, dinamismo y confianza, valores esenciales en una plataforma orientada a conectar talento con oportunidades laborales. A continuación, se detalla la paleta principal y sus aplicaciones:
+- **Color primario**: #0066FF (Azul Eléctrico). Este color, tomado directamente del logotipo, será el color principal de la marca. Se utilizará para encabezados, botones primarios y elementos destacados que busquen transmitir profesionalismo, tecnología y confiabilidad.
+- **Color secundario**: #FFFFFF (Blanco). Este color aporta claridad, espacio visual y equilibrio. Se utilizará como fondo principal en la mayoría de las interfaces para facilitar la lectura y la navegación.
+- **Color terciario**: #1A1A1A (Negro Suave). Será utilizado principalmente para los textos sobre fondos claros. Su tono asegura una excelente legibilidad sin resultar demasiado agresivo visualmente.
+- **Color de realce**: #FF9900 (Naranja Cálido). Este color se utilizará para botones secundarios, íconos interactivos o llamadas a la acción que requieren captar la atención del usuario de forma inmediata y accesible.
+- **Aplicación en Figma**: En Figma, se deberá guardar estos colores como Estilos de color, de manera que sean fácilmente accesibles para todo el equipo. Estos estilos ayudarán a garantizar la consistencia en cada pantalla o componente que se diseña.
+
+➔ **Spacing**
+El uso del espacio es fundamental para asegurar que la plataforma transmita una sensación de orden, claridad y eficiencia, en línea con los valores de TuChambape. La distribución visual debe mantenerse ligera y bien estructurada, permitiendo una navegación intuitiva sin generar saturación visual.
+- **Padding y márgenes**: Para mantener una sensación de estructura y simplicidad, se recomienda utilizar 60px de padding entre secciones principales en pantallas de escritorio. Entre bloques de contenido debe haber un espacio de alrededor de 40px, asegurando que cada componente tenga espacio para "respirar" y que la información pueda ser escaneada visualmente con facilidad.
+- **Espaciado entre elementos**: El espacio entre elementos interactivos (botones, íconos y campos de entrada) debe ser de 20px. Esto mejora la legibilidad, facilita la interacción con el contenido y permite una experiencia fluida tanto en pantallas grandes como en resoluciones adaptativas.
+- **Aplicación en Figma**: En Figma, se utilizará el sistema de Auto Layout para mantener la consistencia en los espacios y asegurar que los elementos se ajusten correctamente en diferentes tamaños de pantalla. Los componentes deberán incluir valores predefinidos de padding y margen.
+
+➔ **Tono de comunicación**
+El tono de comunicación es un elemento clave para proporcionar una experiencia de usuario coherente con los objetivos y valores de TuChambape. Este tono debe reflejar cercanía, dinamismo y confianza, alineado con la misión de facilitar la conexión entre trabajadores técnicos y clientes a través de herramientas modernas, accesibles y seguras. Como plataforma creada por jóvenes emprendedores para impulsar la formalización y crecimiento de profesionales independientes, es importante que el tono inspire profesionalismo accesible, transmitiendo seguridad y oportunidades sin dejar de ser amigable.
+- **Tono general**:
+  - **Cercano y empático**: El lenguaje utilizado será amigable y accesible, con un enfoque que invita a la acción y a la confianza. Queremos que tanto los trabajadores técnicos como los clientes se sientan respaldados y comprendidos, promoviendo una interacción fluida y sin barreras.
+  - **Positivo y motivador**: El tono debe generar una sensación de optimismo, destacando que cada paso en la plataforma es una oportunidad para crecer profesionalmente. Transmitimos un mensaje claro de que la conexión con nuevos clientes, la mejora de la visibilidad y la formalización del trabajo son procesos alcanzables y fáciles de lograr. La actitud es siempre proactiva, asegurando que el usuario se sienta capaz de alcanzar sus metas y superar cualquier desafío.
+- **Aplicación en Figma**:
+  - **Textos y botones**: En elementos interactivos como botones y mensajes de ayuda, se utilizará el color naranja cálido (#FF7A00), elegido por su capacidad de captar la atención de forma amigable y proactiva. Este color comunica acción inmediata sin generar tensión, y refuerza el carácter accesible de la plataforma.
+  - **Mensajes de alerta**: Los mensajes de alerta serán claros pero no intrusivos. En lugar de generar presión, invitarán a la acción de manera suave, por ejemplo, "Explora nuevas oportunidades de trabajo" o "Actualiza tu perfil y consigue más clientes". Esto se logrará con una tipografía amigable y colores que denotan calma y seguridad, sin causar estrés ni urgencia innecesaria.
+
+En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de empoderamiento y conexión, permitiendo que usuarios de distintos niveles tecnológicos se sientan cómodos, confiados y apoyados en el uso de la plataforma. El lenguaje claro, positivo y directo será esencial para consolidar la identidad de la marca como un puente entre oportunidades y crecimiento profesional.
+
+
