@@ -209,4 +209,121 @@ El tono de comunicación es un elemento clave para proporcionar una experiencia 
 
 En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de empoderamiento y conexión, permitiendo que usuarios de distintos niveles tecnológicos se sientan cómodos, confiados y apoyados en el uso de la plataforma. El lenguaje claro, positivo y directo será esencial para consolidar la identidad de la marca como un puente entre oportunidades y crecimiento profesional.
 
+## 4.2. Style Guidelines
+
+## 4.3. Style Guidelines
+
+## 4.4 Web Applications UX/UI Design
+
+### **4.4.1 Web Applications Wireframes**
+
+### **4.4.2 Web Applications Wireflows Diagrams**
+
+En los Wireflow Diagrams de la plataforma TuChambape, se visualiza el recorrido completo que realiza el usuario, desde el registro hasta la utilización de todas las funciones disponibles. El flujo muestra cómo el usuario interactúa con la app en cada etapa, asegurando una experiencia intuitiva y fluida.
+
+**User Persona**  
+**Nombre:** Juan, Electricista  
+Juan es un técnico con experiencia que busca ampliar su red de clientes y conseguir trabajos de manera más eficiente. Desea encontrar oportunidades laborales cercanas, postularse rápidamente y hacer seguimiento a sus trabajos.
+
+**User Goal**  
+Para finales del primer trimestre de 2024, Juan podrá encontrar trabajos disponibles en su zona, postularse en menos de 2 minutos y recibir confirmaciones o rechazos con una tasa de respuesta superior al 90%.
+
+**Task Flow**
+
+1. **Abrir la plataforma TuChambape**  
+   a. **Acción:** Juan usa la plataforma  
+   b. **Propósito:** Accede al apartado de Buscar Ofertas donde se muestran los trabajos disponibles  
+   c. **Resultado Esperado:** En Buscar Ofertas, filtra los trabajos según sus preferencias (Ubicación, Disponibilidad, Rango de Pago Ofrecido, Medio de Pago, etc)
+
+2. **Buscar trabajos disponibles**  
+   a. **Acción:** Juan explora los trabajos disponibles en el apartado Buscar Ofertas, usando filtros como Rango de Pago Ofrecido  
+   b. **Propósito:** Encontrar rápidamente oportunidades laborales que se ajusten a sus preferencias  
+   c. **Resultado Esperado:** Se muestra una lista filtrada con ofertas de trabajo para un electricista, con un rango de precio, medio de pago y el estado de oferta
+
+3. **Postularse a un trabajo**  
+   a. **Acción:** Juan selecciona una oferta de trabajo que le ha gustado en el apartado de Buscar Ofertas y en el apartado de Ofertas postula a la que más le pareció  
+   b. **Propósito:** Enviar su solicitud al cliente  
+   c. **Resultado Esperado:** Se envía la postulación y queda a la espera de la respuesta del cliente
+
+4. **Revisar estado de sus postulaciones**  
+   a. **Acción:** Juan entra al apartado "Ofertas" y revisa la sección "Mis Postulaciones" para ver el estado de sus postulaciones  
+   b. **Propósito:** Monitorear el progreso de sus solicitudes y prepararse para aceptar la oferta  
+   c. **Resultado Esperado:** Se visualiza en la sección Pendiente el estado de la oferta mientras está en proceso
+
+5. **Realizar trabajo asignado**  
+   a. **Acción:** Al aceptar la oferta, Juan pasa a la sección de Pendiente en la que puede chatear con el cliente y ver detalles del trabajo  
+   b. **Propósito:** Ofrecer el servicio pedido por el cliente  
+   c. **Resultado Esperado:** Juan termina el trabajo y puede reseñar la obra
+
+**Flujo de tareas para postularse a una oferta en la plataforma TuChambape**
+
+A continuación, algunas de nuestras User Stories junto con su diagrama:  
+US01:  
+US02:  
+US03:
+
+### **4.4.3 Web Applications Mock-ups**
+
+### **4.4.4 Web Applications Wireflows User Flow Diagrams**
+
+En el User Flow de TuChambape, se detalla el happy path que sigue Juan, el electricista, para lograr su objetivo principal de encontrar una oferta que satisfaga sus preferencias. Este flujo asegura una experiencia de usuario clara y eficiente, facilitando el acceso a la información crítica y postularse a ofertas de manera sencilla. Cada paso ilustra cómo Juan interactúa con la aplicación sin encontrar obstáculos, desde el inicio de sesión hasta postularse a una oferta y culminarla.
+
+1. **Inicio de sesión en TuChambape**  
+   a. **Página:** Pantalla de inicio de sesión  
+   b. **Acción:** Juan abre la plataforma e ingresa sus credenciales para acceder  
+   c. **Lógica:** El sistema valida las credenciales ingresadas  
+   d. **Resultado:** Juan accede a la pantalla principal, donde puede explorar ofertas de trabajo disponibles
+
+2. **Acceso a Buscar Ofertas**  
+   a. **Página:** Panel principal - Buscar Ofertas  
+   b. **Acción:** Juan entra en la sección "Buscar Ofertas" desde el panel lateral  
+   c. **Lógica:** La aplicación carga las ofertas activas disponibles en su zona, basadas en su perfil y ubicación  
+   d. **Resultado:** Juan visualiza una lista de trabajos disponibles que puede filtrar según sus preferencias
+
+3. **Aplicación de Filtros de Búsqueda**  
+   a. **Página:** Buscar Ofertas  
+   b. **Acción:** Juan aplica filtros como "Ubicación", "Rango de pago", "Disponibilidad" y "Medio de pago"  
+   c. **Lógica:** El sistema filtra automáticamente las ofertas de trabajo según los criterios seleccionados  
+   d. **Resultado:** Juan visualiza una lista precisa de ofertas que se ajustan a sus necesidades y perfil
+
+4. **Revisión de Detalles de una Oferta**  
+   a. **Página:** Ofertas  
+   b. **Acción:** Juan selecciona una oferta específica y revisa la descripción del trabajo, condiciones, presupuesto y datos del cliente  
+   c. **Lógica:** La plataforma muestra los detalles de la oferta y un botón de “Postularse”  
+   d. **Resultado:** Juan evalúa si la oferta es adecuada y está listo para enviar su postulación
+
+5. **Postulación a la Oferta**  
+   a. **Página:** Ofertas  
+   b. **Acción:** Juan selecciona "Postularse"  
+   c. **Lógica:** La plataforma actualiza el estado de la postulación en tiempo real  
+   d. **Resultado:** Juan visualiza el estado actual de su solicitud
+
+6. **Seguimiento de la Postulación**  
+   a. **Página:** Sección "Ofertas" – Subsección "Pendientes"  
+   b. **Acción:** Juan ingresa a la sección de "Pendientes" para revisar el estado de la oferta a la que postuló  
+   c. **Lógica:** La plataforma muestra la sección Pendiente en la que se ve detalles de la oferta y se habilita la mensajería directa  
+   d. **Resultado:** Juan visualiza el estado actual de su solicitud y se mantiene informado sobre su avance
+
+7. **Confirmación de Trabajo Culminado**  
+   a. **Página:** Sección "Ofertas" – Subsección "Finalizado"  
+   b. **Acción:** Juan recibe la notificación de que el trabajo ha sido terminado por el cliente  
+   c. **Lógica:** La plataforma muestra la sección Finalizado y permite reseñar o culminar el trabajo  
+   d. **Resultado:** Juan reseña el trabajo que realizó y al cliente
+
+**Nota:** Este diagrama ilustra el flujo de usuario de Juan, el electricista, en la postulación y trabajo en una oferta. Se detalla el proceso optimizado que sigue para garantizar una respuesta rápida y eficiente al buscar ofertas según sus preferencias.
+
+**US01**: Como usuario, quiero iniciar sesión en la aplicación, para acceder a mi cuenta personal  
+**User Persona:** Clientes/Usuarios que requieren técnicos  
+- **Happy path:** El usuario completa sus datos correctamente en el formulario de iniciar sesión  
+- **Unhappy path:** El usuario completa sus datos incorrectamente en el formulario de iniciar sesión
+
+**US02**: Como nuevo usuario, quiero registrarme en la plataforma, para poder usar los servicios  
+**User Persona:** Clientes/Usuarios que requieren técnicos  
+- **Happy path:** El usuario completa sus datos correctamente en el formulario de registro  
+- **Unhappy path:** El usuario completa sus datos incorrectamente en el formulario de registro
+
+**US03**: Como usuario, quiero recuperar mi contraseña, para poder acceder si la olvido  
+**User Persona:** Clientes/Usuarios que requieren técnicos  
+- **Happy path:** El usuario valida su identidad satisfactoriamente y restablece su contraseña  
+- **Unhappy path:** El usuario no logra restablecer su contraseña por no validar su identidad
 
