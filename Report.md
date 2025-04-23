@@ -169,8 +169,10 @@ El propósito de esta sección es establecer las pautas generales de estilo que 
 ➔ **Branding**
 El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta 
 
-**Figura --**
-Logotipo de TuChambape
+<p align="center">
+  <img src="assets/logos/tuchambalogo.png" width="180" />
+</p>
+<p align="center">Logotipo de TuChambape (Fig.)</p>
 
 A continuación, se detallan las decisiones relacionadas con su uso y aplicación:
 - **Logo principal**: El logotipo debe ser utilizado siempre que sea posible en su versión completa, sobre un fondo blanco o de color suave que no interfiera con su legibilidad.
