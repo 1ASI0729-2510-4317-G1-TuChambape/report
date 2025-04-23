@@ -167,7 +167,7 @@ Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones 
 El propósito de esta sección es establecer las pautas generales de estilo que guiarán el desarrollo visual y de comunicación de TuChambape, una plataforma orientada a conectar técnicos independientes con clientes que necesitan servicios confiables y de calidad en distintos rubros del hogar y la tecnología. Estas directrices están diseñadas para asegurar la coherencia estética, funcional y de experiencia de usuario en todos los puntos de contacto con la plataforma, tanto en su versión web como móvil, utilizando herramientas de diseño como Figma. Esta sección funcionará como una guía centralizada para el equipo de diseño, desarrollo y marketing, garantizando que la identidad de TuChambape se mantenga consistente, profesional y alineada con los valores de cercanía, confianza y eficiencia.
 
 ➔ **Branding**
-El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta una fusión estilizada de las letras J y C en tonos blancos y naranja cálido (#FF7A00), sobre un fondo azul eléctrico (#0066FF), lo cual evoca una sensación de tecnología, profesionalismo y acción inmediata.
+El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta 
 
 **Figura --**
 Logotipo de TuChambape
