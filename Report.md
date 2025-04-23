@@ -167,7 +167,7 @@ Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones 
 El propósito de esta sección es establecer las pautas generales de estilo que guiarán el desarrollo visual y de comunicación de TuChambape, una plataforma orientada a conectar técnicos independientes con clientes que necesitan servicios confiables y de calidad en distintos rubros del hogar y la tecnología. Estas directrices están diseñadas para asegurar la coherencia estética, funcional y de experiencia de usuario en todos los puntos de contacto con la plataforma, tanto en su versión web como móvil, utilizando herramientas de diseño como Figma. Esta sección funcionará como una guía centralizada para el equipo de diseño, desarrollo y marketing, garantizando que la identidad de TuChambape se mantenga consistente, profesional y alineada con los valores de cercanía, confianza y eficiencia.
 
 ➔ **Branding**
-El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta 
+El logotipo de TuChambape es uno de los principales elementos de identificación de la marca y, por tanto, juega un papel clave en la consolidación de su identidad. El diseño del logo presenta las letras finales de la aplicacion "Pe" fusionadas en un ícono que asemeja a un maletín de color naranja cálido (#FF7A00) y azul eléctrico (#0066FF), lo cual evoca una sensación de tecnología, profesionalismo y acción inmediata. 
 
 <p align="center">
   <img src="assets/logos/tuchambalogo.png" width="180" />
@@ -186,7 +186,7 @@ La tipografía es uno de los elementos más importantes en la creación de una i
 
 ➔ **Colors**
 El color es un aspecto central en la creación de la experiencia visual. Para TuChambape, la paleta de colores se basa en tonos que reflejan tecnología, dinamismo y confianza, valores esenciales en una plataforma orientada a conectar talento con oportunidades laborales. A continuación, se detalla la paleta principal y sus aplicaciones:
-- **Color primario**: #0066FF (Azul Eléctrico). Este color, tomado directamente del logotipo, será el color principal de la marca. Se utilizará para encabezados, botones primarios y elementos destacados que busquen transmitir profesionalismo, tecnología y confiabilidad.
+- **Color primario**: #0066CC (Azul Eléctrico). Este color, tomado directamente del logotipo, será el color principal de la marca. Se utilizará para encabezados, botones primarios y elementos destacados que busquen transmitir profesionalismo, tecnología y confiabilidad.
 - **Color secundario**: #FFFFFF (Blanco). Este color aporta claridad, espacio visual y equilibrio. Se utilizará como fondo principal en la mayoría de las interfaces para facilitar la lectura y la navegación.
 - **Color terciario**: #1A1A1A (Negro Suave). Será utilizado principalmente para los textos sobre fondos claros. Su tono asegura una excelente legibilidad sin resultar demasiado agresivo visualmente.
 - **Color de realce**: #FF9900 (Naranja Cálido). Este color se utilizará para botones secundarios, íconos interactivos o llamadas a la acción que requieren captar la atención del usuario de forma inmediata y accesible.
