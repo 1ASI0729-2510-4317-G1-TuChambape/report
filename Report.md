@@ -159,3 +159,14 @@ Proyectamos vincularnos con ferreterías, tiendas de herramientas o cafés donde
 **10. Transparencia y reputación como ventaja competitiva**  
 Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones verificadas. Esto ayudará a construir reputación profesional y permitirá a los usuarios tomar decisiones informadas.
 
+## 2.3 Needfinding
+
+En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
+
+### 2.3.1 User Personas.
+
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
+**Segmento 1 - Trabajadores Técnicos Independientes:**  
+
+<img src="assets/images/ImgResources/Carlos%20Flores%20Medina.png"/>
