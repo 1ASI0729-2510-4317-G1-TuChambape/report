@@ -238,6 +238,8 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 
 <img src="assets/images/ImgResources/journey%20map%201.png"/>
 
+**Segmento 2 - Usuarios que requieren servicios técnicos:**
 
+<img src="assets/images/ImgResources/journey%20map%202.png"/>
 
 
