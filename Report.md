@@ -172,7 +172,7 @@ El logotipo de TuChambape es uno de los principales elementos de identificación
 <p align="center">
   <img src="assets/logos/tuchambalogo.png" width="180" />
 </p>
-<p align="center">Logotipo de TuChambape (Fig.)</p>
+<p align="center">Logotipo de TuChambape</p>
 
 A continuación, se detallan las decisiones relacionadas con su uso y aplicación:
 - **Logo principal**: El logotipo debe ser utilizado siempre que sea posible en su versión completa, sobre un fondo blanco o de color suave que no interfiera con su legibilidad.
