@@ -218,42 +218,42 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 ###4.3.2 Landing Page Mock-up
 
 <p align="center">
-  <img src="assets/Landing.Mockups/1.PNG" width="500" />
+  <img src="assets/Landing.Mockups/1.PNG" width="620" />
 </p>
 <p align="center">Ventana de inicio</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/2.PNG" width="230" />
+  <img src="assets/Landing.Mockups/2.PNG" width="620" />
 </p>
 <p align="center">Ventana de beneficios</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/3.PNG" width="230" />
+  <img src="assets/Landing.Mockups/3.PNG" width="620" />
 </p>
 <p align="center">Ventana de proceso para trabajadores y clientes</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/4.PNG" width="230" />
+  <img src="assets/Landing.Mockups/4.PNG" width="620" />
 </p>
 <p align="center">Ventana de elección de servicios</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/5.PNG" width="230" />
+  <img src="assets/Landing.Mockups/5.PNG" width="620" />
 </p>
 <p align="center">Ventana de testimonios de clientes</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/6.PNG" width="230" />
+  <img src="assets/Landing.Mockups/6.PNG" width="620" />
 </p>
 <p align="center">Ventana donde se evidencia nuestro impacto</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/7.PNG" width="230" />
+  <img src="assets/Landing.Mockups/7.PNG" width="620" />
 </p>
 <p align="center">Ventana de contacto con nuestro servicio</p>
 
 <p align="center">
-  <img src="assets/Landing.Mockups/8.PNG" width="230" />
+  <img src="assets/Landing.Mockups/8.PNG" width="620" />
 </p>
 <p align="center">Website Footer de TuChambape</p>
 
