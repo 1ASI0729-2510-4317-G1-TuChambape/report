@@ -21,3 +21,4 @@ Integrantes:
 - Oliver Jonseck Choque u202312912
 - Eduardo Cossar u202312109
 - Daniel Valdizan Grijalba u202311566
+- Roy Fernández Remón u20221b778
