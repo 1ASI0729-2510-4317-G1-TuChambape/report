@@ -274,7 +274,7 @@ _Sabremos que estamos en lo correcto cuando el 80% de los usuarios activos utili
 
 #### 1.2.2.4. Lean UX Canva
 
-<img src="img/leanUXcanvaJC.png" class="leanUXcanva" alt="">
+<img src="https://files.catbox.moe/4idol5.png"> alt="lean ux canva" width="200"
 
 #### 1.3. Segmento Objetivo
 
