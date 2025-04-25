@@ -213,9 +213,9 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 
 ## 4.3. Landing Page UI Design
 
-###4.3.1 Landing Page Wireframes
+### 4.3.1 Landing Page Wireframes
 
-###4.3.2 Landing Page Mock-up
+### 4.3.2 Landing Page Mock-up
 
 <p align="center">
   <img src="assets/Landing.Mockups/1.PNG" width="620" />
