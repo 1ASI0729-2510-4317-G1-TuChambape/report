@@ -209,9 +209,13 @@ El tono de comunicación es un elemento clave para proporcionar una experiencia 
 
 En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de empoderamiento y conexión, permitiendo que usuarios de distintos niveles tecnológicos se sientan cómodos, confiados y apoyados en el uso de la plataforma. El lenguaje claro, positivo y directo será esencial para consolidar la identidad de la marca como un puente entre oportunidades y crecimiento profesional.
 
-## 4.2. Style Guidelines
+## 4.2. Information Architecture
 
-## 4.3. Style Guidelines
+## 4.3. Landing Page UI Design
+
+###4.3.1 Landing Page Wireframes
+
+###4.3.2 Landing Page Mock-up
 
 ## 4.4 Web Applications UX/UI Design
 
