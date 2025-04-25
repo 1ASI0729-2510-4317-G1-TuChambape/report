@@ -230,4 +230,14 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 | **Gestión de horarios**    | Configuran su propia disponibilidad y calendarios                 | Seleccionan de entre slots ofrecidos por los técnicos             |
 | **Frustraciones**          | Citas canceladas, competencia de precios bajos, falta de soporte  | Técnicos que incumplen horario, falta de transparencia en costos  |
 
+### 2.3.3 User Journey Mapping.
+
+En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
+**Segmento 1 - Trabajadores Técnicos Independientes:**
+
+<img src="assets/images/ImgResources/journey%20map%201.png"/>
+
+
+
 
