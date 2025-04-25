@@ -170,3 +170,7 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 **Segmento 1 - Trabajadores Técnicos Independientes:**  
 
 <img src="assets/images/ImgResources/Carlos%20Flores%20Medina.png"/>
+
+**Segmento 2 - Usuarios que requieren servicios técnicos:**
+
+<img src="assets/images/ImgResources/María%20Quispe%20Mamani.png"/>
