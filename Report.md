@@ -231,35 +231,49 @@ A continuación, se evidencia el aspecto que TuChambape tendría al ser empleada
 </p>
 <p align="center">Ventana de beneficios</p>
 
+<br> </br>
+
 <p align="center">
   <img src="assets/Landing.Mockups/3.PNG" width="620" />
 </p>
 <p align="center">Ventana de proceso para trabajadores y clientes</p>
+
+<br> </br>
 
 <p align="center">
   <img src="assets/Landing.Mockups/4.PNG" width="620" />
 </p>
 <p align="center">Ventana de elección de servicios</p>
 
+<br> </br>
+
 <p align="center">
   <img src="assets/Landing.Mockups/5.PNG" width="620" />
 </p>
 <p align="center">Ventana de testimonios de clientes</p>
+
+<br> </br>
 
 <p align="center">
   <img src="assets/Landing.Mockups/6.PNG" width="620" />
 </p>
 <p align="center">Ventana donde se evidencia nuestro impacto</p>
 
+<br> </br>
+
 <p align="center">
   <img src="assets/Landing.Mockups/7.PNG" width="620" />
 </p>
 <p align="center">Ventana de contacto con nuestro servicio</p>
 
+<br> </br>
+
 <p align="center">
   <img src="assets/Landing.Mockups/8.PNG" width="620" />
 </p>
 <p align="center">Website Footer de TuChambape</p>
+
+<br> </br>
 
 ## 4.4 Web Applications UX/UI Design
 
