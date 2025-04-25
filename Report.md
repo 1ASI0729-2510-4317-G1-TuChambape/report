@@ -174,3 +174,26 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 **Segmento 2 - Usuarios que requieren servicios técnicos:**
 
 <img src="assets/images/ImgResources/María%20Quispe%20Mamani.png"/>
+
+### 2.3.2 User Task Matrix.
+
+Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de dos segmentos objetivos: Trabajadores Técnicos Independientes y los Usuarios que requieren servicios técnicos. Es importante destacar que estas tareas son actividades que los usuarios deben realizar independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
+
+| Tarea / Funcionalidad                                     | Trabajadores Técnicos Independientes - Frecuencia | Trabajadores Técnicos Independientes - Importancia | Usuarios que requieren servicios técnicos - Frecuencia | Usuarios que requieren servicios técnicos - Importancia |
+| --------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
+| Crear perfil profesional                                  | baja                                              | alta                                               | baja                                                   | media                                                   |
+| Verificar identidad                                       | baja                                              | alta                                               | baja                                                   | media                                                   |
+| Subir portafolio y fotos de trabajos                      | baja                                              | media                                              | N/A                                                    | N/A                                                     |
+| Gestionar disponibilidad (horarios)                       | media                                             | alta                                               | N/A                                                    | N/A                                                     |
+| Recibir notificaciones de nuevas solicitudes              | alta                                              | alta                                               | N/A                                                    | N/A                                                     |
+| Aceptar o rechazar solicitudes de servicio                | media                                             | alta                                               | N/A                                                    | N/A                                                     |
+| Comunicarse con el cliente (chat interno)                 | media                                             | media                                              | media                                                  | media                                                   |
+| Procesar pagos electrónicos                               | alta                                              | alta                                               | media                                                  | alta                                                    |
+| Consultar historial de servicios y ganancias              | media                                             | media                                              | media                                                  | media                                                   |
+| Buscar técnicos                                           | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
+| Filtrar resultados por especialidad, ubicación y precio   | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
+| Reservar cita y programar servicio                        | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
+| Calificar y dejar reseña al técnico                       | N/A                                               | N/A                                                | media                                                  | media                                                   |
+
+En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento objetivo:
+
