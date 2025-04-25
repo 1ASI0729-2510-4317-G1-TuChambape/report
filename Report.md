@@ -218,35 +218,35 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 ###4.3.2 Landing Page Mock-up
 
 <p align="center">
-  <img src="assets/Landing.Mockups/1.PNG" width="180" />
+  <img src="assets/Landing.Mockups/1.PNG" width="200" height="150" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/2.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/3.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/4.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/5.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/6.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/7.PNG" width="200" />
 </p>
 
 <p align="center">
-  <img src="assets/logos/tuchambalogo.png" width="180" />
+  <img src="assets/Landing.Mockups/8.PNG" width="200" />
 </p>
 
 ## 4.4 Web Applications UX/UI Design
