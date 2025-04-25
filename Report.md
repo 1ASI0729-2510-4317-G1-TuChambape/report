@@ -218,7 +218,7 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 ###4.3.2 Landing Page Mock-up
 
 <p align="center">
-  <img src="assets/Landing.Mockup/1.png" width="180" />
+  <img src="assets/Landing.Mockups/1.png" width="180" />
 </p>
 
 <p align="center">
