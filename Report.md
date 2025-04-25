@@ -197,3 +197,37 @@ Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las ta
 
 En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento objetivo:
 
+**Trabajadores Técnicos Independientes:**
+
+- Recibir notificaciones de nuevas solicitudes: Alertas en tiempo real cuando un cliente publica un pedido de servicio para que puedas responder al instante.
+- Gestión y confirmación de cobros a través de tarjeta, transferencia o monedero digital, sin efectivo.
+
+**Usuarios que requieren servicios técnicos:**
+
+- Buscar técnicos: Realizar búsquedas por palabra clave o tipo de servicio para encontrar profesionales disponibles en tu zona.
+- Filtrar resultados por especialidad, ubicación y precio: Ajustar la lista de técnicos según disciplina (electricista, plomero, etc.), distancia y rango tarifario.
+- Reservar cita y programar servicio: Seleccionar fecha y hora en un calendario integrado para agendar el trabajo con confirmación inmediata.
+
+### **Principales diferencias y coincidencias entre los User Personas:**
+
+**Coincidencias entre los Segmentos**
+
+- **Búsqueda de confianza y seguridad:** Ambos valoran perfiles verificados, calificaciones y garantías antes de comprometerse.
+- **Uso de dispositivos móviles:** Tanto técnicos como clientes manejan app/web desde smartphone para gestionar perfiles o solicitudes.
+- **Deseo de procesos sencillos:** Prefieren interfaces claras, con pocos pasos para completar la tarea (crear perfil, reservar servicio).
+- **Importancia de la comunicación:** Necesitan un canal ágil (chat interno o notificaciones) para coordinar fechas, detalles y resolver dudas.
+- **Pago digital:** Ambos esperan transacciones seguras y sin efectivo como parte del flujo de servicio.
+
+**Diferencias entre los Segmentos**
+
+| Aspecto                    | Técnicos Independientes                                           | Clientes de Servicios Técnicos                                    |
+| -------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Objetivo principal**     | Conseguir proyectos y aumentar sus ingresos                       | Resolver una necesidad puntual (reparación, instalación)          |
+| **Frecuencia de uso**      | Alta (revisan y responden a solicitudes varias veces al día)      | Puntual u ocasional (al necesitar un servicio)                    |
+| **Métricas de éxito**      | Nº de contrataciones, valoraciones recibidas, volumen de ingresos | Tiempo hasta contratar, transparencia de precios, garantía de calidad |
+| **Nivel de confort tech**  | Medio (buscan apps muy simples)                                   | Medio-alto (acostumbrados a filtrar y comparar en línea)          |
+| **Visibilidad**            | Necesitan promocionarse y diferenciarse frente a la competencia   | Necesitan descubrir y comparar opciones de forma rápida           |
+| **Gestión de horarios**    | Configuran su propia disponibilidad y calendarios                 | Seleccionan de entre slots ofrecidos por los técnicos             |
+| **Frustraciones**          | Citas canceladas, competencia de precios bajos, falta de soporte  | Técnicos que incumplen horario, falta de transparencia en costos  |
+
+
