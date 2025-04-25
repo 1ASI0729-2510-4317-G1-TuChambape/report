@@ -224,7 +224,7 @@ A continuación, se evidencia el aspecto que TuChambape tendría al ser empleada
 </p>
 <p align="center">Ventana de inicio</p>
 
-<br>
+<br> </br>
 
 <p align="center">
   <img src="assets/Landing.Mockups/2.PNG" width="620" />
