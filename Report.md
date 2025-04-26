@@ -185,6 +185,48 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>JobConnect</th>
+      <th>Chambea</th>
+      <th>Workana</th>
+      <th>Clic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fortalezas</th>
+      <td>Enfoque en servicios técnicos, confianza, formalización</td>
+      <td>App local, variedad de rubros, sencillez</td>
+      <td>Escala internacional, reputación, variedad de profesionales</td>
+      <td>Especialización en profesiones clave, facilidad de uso</td>
+    </tr>
+    <tr>
+      <th>Debilidades</th>
+      <td>Aún en etapa inicial, menor alcance</td>
+      <td>Menor formalidad y validación de perfiles</td>
+      <td>Competencia alta, dificultad para destacar</td>
+      <td>Enfocado solo en rubros específicos</td>
+    </tr>
+    <tr>
+      <th>Oportunidades</th>
+      <td>Ampliar servicios, alianzas con gremios y empresas</td>
+      <td>Monetización a futuro, expansión a otros países</td>
+      <td>Mayor presencia en mercados emergentes</td>
+      <td>Ampliar rubros profesionales, integrar IA</td>
+    </tr>
+    <tr>
+      <th>Amenazas</th>
+      <td>Imitación del modelo, entrada de grandes plataformas</td>
+      <td>Saturación de mercado, apps similares</td>
+      <td>Nuevas plataformas, cambios en la demanda</td>
+      <td>Poca diferenciación en rubros nuevos</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 Después de revisar lo que ofrecen otras plataformas de servicios freelance, y considerando el análisis FODA que realizamos, identificamos una serie de estrategias que nos diferencian y que vamos a aprovechar. Algunas ya están en marcha y otras forman parte de nuestras oportunidades de crecimiento.
