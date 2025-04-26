@@ -337,6 +337,6 @@ Empathy Mapping: Trabajadores independientes
 Empathy Mapping: Usuarios que requieren servicios técnicos
 <div align="center">
 
-<img src="img/Empathy-map-curstumer.png" alt="journey_mapping_2" />
+<img src="assets/images/ImgResources/Empathy-map-curstumer.png" alt="journey_mapping_2" />
 
 </div>
