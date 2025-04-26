@@ -260,7 +260,20 @@ Con el objetivo de comprender a profundidad las necesidades, expectativas y prob
 - ¿Cómo describe su estilo de trabajo actualmente?
 - ¿Prefiere recibir solicitudes de clientes por WhatsApp, llamadas o mensajes en un app?
 
+#### Entrevistas segmento 01: Usuarios que requieren servicios técnicos
 
+**Preguntas generales:**
+- ¿Cuál es su edad y distrito?
+- ¿Cada cuanto requiere servicios técnicos?
+- ¿Actualmente como suele encontrar técnicos (redes sociales, contactos, etc.)?
+- ¿Ha tenido malas experiencias al contratar técnicos informales?
+- ¿Qué datos considera al elegir un técnico (precio, reseñas, recomendaciones)?
+- ¿Qué información le genera confianza para contratar a alguien?
+- ¿Ha usado alguna app o plataforma para contratar servicios? ¿Cuál y por qué?
+
+**Preguntas complementarias:**
+- ¿Estaría dispuesto a pagar un precio más alto por un técnico verificado?
+- ¿Prefiere comparar opciones antes de contratar o elegir rápidamente?
 
 ## 2.3 Needfinding
 
