@@ -306,14 +306,21 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 ### 2.3.3 User Journey Mapping.
 
-En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+En esta sección, vamos a analizar el recorrido del uso de la plataforma con su correspondiente contrata de servicio.
+Desde el momento en el que un usuario se registra hasta lograr concretar realizar un servicio técnico, o en su caso contratar un servicio técnico, se puede observar que el usuario debe realizar una serie de acciones para poder lograrlo.
 
-**Segmento 1 - Trabajadores Técnicos Independientes:**
+User Journey Mapping: Trabajadores independientes
+<div align="center">
 
-<img src="assets/images/ImgResources/journey%20map%201.png"/>
+<img src="assets/images/ImgResources/Juan_Carlos_journey_mapping.png" alt="journey_mapping_1" />
 
-**Segmento 2 - Usuarios que requieren servicios técnicos:**
+</div>
 
-<img src="assets/images/ImgResources/journey%20map%202.png"/>
+User Journey Mapping: Usuarios que requieren servicios técnicos
+<div align="center">
+
+<img src="assets/images/ImgResources/Journey_mapping_custumer.png" alt="journey_mapping_1" />
+
+</div>
 
 
