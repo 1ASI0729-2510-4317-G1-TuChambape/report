@@ -323,4 +323,20 @@ User Journey Mapping: Usuarios que requieren servicios técnicos
 
 </div>
 
+### 2.3.4. Empathy Mapping.
+En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente. Además, se incluyen los pains y gains identificados en base a las preguntas: ¿Qué le preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo de que somos la alternativa correcta? ¿Qué dice? Los mapas de empatía se han desarrollado con la herramienta UXPressia.
 
+Empathy Mapping: Trabajadores independientes
+
+<div align="center">
+
+<img src="assets/images/ImgResources/Juan_Carlos_Empathy_Map.png" alt="journey_mapping_1" />
+
+</div>
+
+Empathy Mapping: Usuarios que requieren servicios técnicos
+<div align="center">
+
+<img src="img/Empathy-map-curstumer.png" alt="journey_mapping_2" />
+
+</div>
