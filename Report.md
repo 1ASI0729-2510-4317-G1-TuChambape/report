@@ -265,58 +265,44 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 ### 2.3.2 User Task Matrix.
 
-Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de dos segmentos objetivos: Trabajadores Técnicos Independientes y los Usuarios que requieren servicios técnicos. Es importante destacar que estas tareas son actividades que los usuarios deben realizar independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
+### Segmento objetivo #1: Juan Carlos (Gasfitero Independiente)
 
-| Tarea / Funcionalidad                                     | Trabajadores Técnicos Independientes - Frecuencia | Trabajadores Técnicos Independientes - Importancia | Usuarios que requieren servicios técnicos - Frecuencia | Usuarios que requieren servicios técnicos - Importancia |
-| --------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
-| Crear perfil profesional                                  | baja                                              | alta                                               | baja                                                   | media                                                   |
-| Verificar identidad                                       | baja                                              | alta                                               | baja                                                   | media                                                   |
-| Subir portafolio y fotos de trabajos                      | baja                                              | media                                              | N/A                                                    | N/A                                                     |
-| Gestionar disponibilidad (horarios)                       | media                                             | alta                                               | N/A                                                    | N/A                                                     |
-| Recibir notificaciones de nuevas solicitudes              | alta                                              | alta                                               | N/A                                                    | N/A                                                     |
-| Aceptar o rechazar solicitudes de servicio                | media                                             | alta                                               | N/A                                                    | N/A                                                     |
-| Comunicarse con el cliente (chat interno)                 | media                                             | media                                              | media                                                  | media                                                   |
-| Procesar pagos electrónicos                               | alta                                              | alta                                               | media                                                  | alta                                                    |
-| Consultar historial de servicios y ganancias              | media                                             | media                                              | media                                                  | media                                                   |
-| Buscar técnicos                                           | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
-| Filtrar resultados por especialidad, ubicación y precio   | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
-| Reservar cita y programar servicio                        | N/A                                               | N/A                                                | alta                                                   | alta                                                    |
-| Calificar y dejar reseña al técnico                       | N/A                                               | N/A                                                | media                                                  | media                                                   |
+| Tarea                                                    | Frecuencia | Importancia |
+|----------------------------------------------------------|------------|-------------|
+| Buscar nuevos clientes                                   | Alta       | Alta        |
+| Coordinar horarios con clientes                          | Alta       | Alta        |
+| Negociar precios y condiciones                           | Media      | Alta        |
+| Repartir volantes o buscar recomendaciones               | Media      | Media       |
+| Recordar fechas o compromisos laborales                  | Alta       | Media       |
+| Pedir reseñas o recomendaciones a clientes               | Baja       | Alta        |
+| Usar redes sociales o apps para promoción                | Muy baja   | Media       |
+| Hacer el trabajo técnico (reparaciones, instalaciones)   | Alta    | Alta        |
+| Dar seguimiento a clientes anteriores                    | Baja       | Media       |
+| Comprar materiales de ferretería                         | Media      | Alta        |
+| Coordinar el precio del servicio por WhatsApp o teléfono | Alta       | Alta        |
+| Transportarse entre un trabajo y otro                    | Alta       | Media       |
+| Resolver problemas imprevistos en trabajos               | Media      | Alta        |
+| Llevar el control de pagos recibidos y pendientes        | Media      | Alta        |
 
-En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento objetivo:
+### Segmento objetivo #2: Jesus Lujan (Usuario dependiente)
 
-**Trabajadores Técnicos Independientes:**
+| Tarea                                                    | Frecuencia | Importancia |
+|----------------------------------------------------------|------------|-------------|
+| Buscar profesionales para tareas del hogar o educación   | Alta       | Alta        |
+| Comparar precios, calificaciones y experiencia           | Media      | Alta        |
+| Contactar al proveedor de servicio                       | Media      | Alta        |
+| Coordinar horarios o agendar servicios                   | Media      | Alta        |
+| Solicitar presupuesto o cotización                       | Media      | Alta        |
+| Leer opiniones o referencias de otros usuarios           | Baja       | Media       |
+| Guardar perfiles o servicios favoritos                   | Baja       | Media       |
+| Cancelar o reagendar un servicio                         | Baja       | Media       |
+| Dejar una reseña luego del servicio                      | Baja       | Alta        |
+| Compartir el contacto con amigos o familiares            | Baja       | Baja        |
+| Revisar si el servicio tiene garantías o soporte         | Baja       | Media       |
+| Hacer seguimiento al estado del servicio contratado      | Baja       | Media       |
+| Comparar diferentes tipos de servicios                   | Baja       | Media       |
+| Evaluar si volvería a contratar al mismo proveedor       | Media      | Alta        |
 
-- Recibir notificaciones de nuevas solicitudes: Alertas en tiempo real cuando un cliente publica un pedido de servicio para que puedas responder al instante.
-- Gestión y confirmación de cobros a través de tarjeta, transferencia o monedero digital, sin efectivo.
-
-**Usuarios que requieren servicios técnicos:**
-
-- Buscar técnicos: Realizar búsquedas por palabra clave o tipo de servicio para encontrar profesionales disponibles en tu zona.
-- Filtrar resultados por especialidad, ubicación y precio: Ajustar la lista de técnicos según disciplina (electricista, plomero, etc.), distancia y rango tarifario.
-- Reservar cita y programar servicio: Seleccionar fecha y hora en un calendario integrado para agendar el trabajo con confirmación inmediata.
-
-### **Principales diferencias y coincidencias entre los User Personas:**
-
-**Coincidencias entre los Segmentos**
-
-- **Búsqueda de confianza y seguridad:** Ambos valoran perfiles verificados, calificaciones y garantías antes de comprometerse.
-- **Uso de dispositivos móviles:** Tanto técnicos como clientes manejan app/web desde smartphone para gestionar perfiles o solicitudes.
-- **Deseo de procesos sencillos:** Prefieren interfaces claras, con pocos pasos para completar la tarea (crear perfil, reservar servicio).
-- **Importancia de la comunicación:** Necesitan un canal ágil (chat interno o notificaciones) para coordinar fechas, detalles y resolver dudas.
-- **Pago digital:** Ambos esperan transacciones seguras y sin efectivo como parte del flujo de servicio.
-
-**Diferencias entre los Segmentos**
-
-| Aspecto                    | Técnicos Independientes                                           | Clientes de Servicios Técnicos                                    |
-| -------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Objetivo principal**     | Conseguir proyectos y aumentar sus ingresos                       | Resolver una necesidad puntual (reparación, instalación)          |
-| **Frecuencia de uso**      | Alta (revisan y responden a solicitudes varias veces al día)      | Puntual u ocasional (al necesitar un servicio)                    |
-| **Métricas de éxito**      | Nº de contrataciones, valoraciones recibidas, volumen de ingresos | Tiempo hasta contratar, transparencia de precios, garantía de calidad |
-| **Nivel de confort tech**  | Medio (buscan apps muy simples)                                   | Medio-alto (acostumbrados a filtrar y comparar en línea)          |
-| **Visibilidad**            | Necesitan promocionarse y diferenciarse frente a la competencia   | Necesitan descubrir y comparar opciones de forma rápida           |
-| **Gestión de horarios**    | Configuran su propia disponibilidad y calendarios                 | Seleccionan de entre slots ofrecidos por los técnicos             |
-| **Frustraciones**          | Citas canceladas, competencia de precios bajos, falta de soporte  | Técnicos que incumplen horario, falta de transparencia en costos  |
 
 ### 2.3.3 User Journey Mapping.
 
