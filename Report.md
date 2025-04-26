@@ -229,37 +229,16 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-Después de revisar lo que ofrecen otras plataformas de servicios freelance, y considerando el análisis FODA que realizamos, identificamos una serie de estrategias que nos diferencian y que vamos a aprovechar. Algunas ya están en marcha y otras forman parte de nuestras oportunidades de crecimiento.
+Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competidores requiere de un enfoque centrado en nuestras fortalezas tecnológicas, la experiencia del usuario y el conocimiento profundo del mercado peruano. A continuación, se presentan estrategias clave para obtener una ventaja competitiva:
 
-**1. Hacer que la plataforma sea fácil de entender y usar**  
-Detectamos que muchas apps actuales tienen buenas funciones, pero resultan confusas para usuarios nuevos o con poca experiencia digital. En TuChambape queremos que la experiencia sea intuitiva desde el registro hasta la contratación del servicio. Incluirá tutoriales, interfaz accesible y asistencia dentro de la app.
+- Diferenciación mediante la formalización de trabajadores técnicos: JobConnect puede posicionarse como la plataforma que impulsa la formalización laboral, brindando perfiles verificados, procesos seguros y herramientas de gestión para trabajadores técnicos como electricistas, plomeros, gasfiteros y otros oficios.
 
-**2. Enfocarnos en técnicos certificados y usuarios que valoran la calidad**  
-Mientras otros servicios permiten el registro de cualquier usuario, nosotros validaremos los estudios técnicos y experiencia laboral para garantizar confianza. Queremos posicionarnos como una app donde se sabe que el trabajo estará bien hecho.
+- Enfoque en la calidad y confiabilidad del servicio: Implementar un sistema robusto de calificaciones, reseñas y verificación de identidad, generando confianza tanto en usuarios como en profesionales técnicos.
 
-**3. Generar alianzas con instituciones educativas y centros técnicos**  
-Buscaremos acuerdos con institutos y centros de formación técnica para captar talento calificado, darles visibilidad y ofrecer beneficios exclusivos, como promociones en sus primeras contrataciones.
+- Plataforma centrada en servicios técnicos presenciales y por zonas: A diferencia de otras plataformas más generales o remotas, JobConnect puede optimizar su algoritmo para conectar por proximidad geográfica, asegurando rapidez en la atención y ahorro en costos de desplazamiento.
 
-**4. Ofrecer herramientas de gestión para los técnicos**  
-Una función diferencial será permitir que los técnicos lleven control de sus ingresos, historial de trabajos y horarios desde la misma plataforma. Esto mejora su autonomía y profesionalismo.
+- Educación y soporte a trabajadores independientes: Ofrecer contenido educativo, talleres gratuitos y herramientas de gestión (como control de ingresos o recordatorios de citas), que agreguen valor y fomenten el uso recurrente de la plataforma.
 
-**5. Garantizar confianza y seguridad en los pagos**  
-Usaremos intermediación segura para proteger tanto al cliente como al técnico. El pago se liberará solo cuando el cliente confirme que el trabajo fue completado, reduciendo riesgos de estafas o incumplimientos.
-
-**6. Soporte rápido y eficiente**  
-Uno de los puntos débiles de la competencia es el servicio de atención al cliente. En TuChambape ofreceremos soporte interno dentro de la app, con respuestas automatizadas y agentes disponibles en horarios clave.
-
-**7. Crecer de forma controlada y basada en la demanda**  
-No expandiremos el servicio de manera desordenada. Empezaremos por zonas con mayor demanda identificada (como zonas urbanas con alta concentración de viviendas), y escalaremos según feedback y análisis de uso real.
-
-**8. Evaluar la posibilidad de planes y suscripciones para usuarios frecuentes**  
-Pensamos implementar un sistema de fidelización para clientes que contraten servicios regularmente, brindándoles descuentos o beneficios, mientras los técnicos ganan mayor visibilidad en la plataforma.
-
-**9. Promociones cruzadas con negocios locales**  
-Proyectamos vincularnos con ferreterías, tiendas de herramientas o cafés donde nuestros técnicos suelen trabajar, para que funcionen como puntos de visibilidad o aliados comerciales.
-
-**10. Transparencia y reputación como ventaja competitiva**  
-Cada técnico tendrá un perfil con calificaciones, certificaciones y opiniones verificadas. Esto ayudará a construir reputación profesional y permitirá a los usuarios tomar decisiones informadas.
 
 ## 2.3 Needfinding
 
