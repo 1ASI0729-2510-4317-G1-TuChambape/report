@@ -104,6 +104,18 @@ Estudiante de la carrera de ingeniería de software en la UPC, cuento con habili
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores.
+
+Hemos identificado tres competidores clave en el mercado peruano que ofrecen soluciones para conectar a profesionales independientes con potenciales clientes:
+
+- **Chambea**  
+Aplicación móvil peruana diseñada para conectar a emprendedores y trabajadores independientes con posibles clientes en diversas categorías, como tecnología, comida, mascotas, delivery, automóviles y finanzas.
+
+- **Workana**  
+Plataforma en línea que opera en varios países de América Latina, incluyendo Perú, enfocada en conectar a freelancers con empresas que buscan profesionales para proyectos en áreas como programación, diseño, traducción, marketing y más.
+
+- **Clic**  
+Hub digital que ofrece servicios profesionales en diversos rubros, como medicina, psicología, nutrición, fisioterapia, derecho y consultoría. A través de su aplicación, las personas pueden contactar a especialistas y coordinar servicios según sus necesidades.
+
 ### 2.1.1 Análisis competitivo.
 
 | **Competitive Analysis Landscape** | **Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.** |
