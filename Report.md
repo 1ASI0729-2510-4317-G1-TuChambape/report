@@ -118,26 +118,74 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
 
 ### 2.1.1 Análisis competitivo.
 
-| **Competitive Analysis Landscape** | **Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.** |
-| :---- | :---- |
-| ¿Por qué llevar a cabo este análisis?  | Deseamos analizar a nuestros competidores para buscar en qué puntos podemos mejorar, contra que nos estamos enfrentando en el mercado y como nos distinguimos de estos |
-
-|  |  |  | | | |
-| :---- | :---- | ----- | :---- | :---- | :---- |
-| Perfil | Overview Ventaja competitiva  |  |  |  |  |
-|  | ¿Qué valor ofrece a los clientes? | | |  |  |
-| Perfil de Marketing | Mercado objetivo  | | |  | |
-|  | Estrategias de marketing |  |  |  |  |
-| Perfil de Producto | • Productos & Servicios  |  | |  |  |
-|  | Precios & Costos  | | |  | |
-|  | Canales de distribución (Web y/o Móvil)  | | | |  |
-| Análisis SWOT | Fortalezas | |  |   | |
-|  | Debilidades |  |   |  | |
-|  | Oportunidades |  |  |  |  |
-|  | Amenazas |  | |  | |
+<table>
+  <thead>
+    <tr>
+      <th>¿Por qué llevar a cabo este análisis?</th>
+      <td colspan="4">Se llevó a cabo este análisis porque queremos ofrecer un mejor servicio a través de la recopilación de información de nuestros competidores.</td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>JobConnect</th>
+      <th>Chambea</th>
+      <th>Workana</th>
+      <th>Clic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Perfil</th>
+      <td>Plataforma peruana que conecta trabajadores técnicos independientes con clientes</td>
+      <td>App móvil que conecta emprendedores y trabajadores independientes con clientes</td>
+      <td>Plataforma de freelancers para proyectos profesionales en LATAM</td>
+      <td>App que conecta profesionales de salud y consultoría con clientes</td>
+    </tr>
+    <tr>
+      <th>Ventaja competitiva</th>
+      <td>Formalización y crecimiento de técnicos</td>
+      <td>Diversidad en categorías y simplicidad</td>
+      <td>Alcance regional y sistema de reputación</td>
+      <td>Especialización en salud y profesiones específicas</td>
+    </tr>
+    <tr>
+      <th>Perfil de marketing</th>
+      <td>Clientes que requieren servicios técnicos y trabajadores independientes</td>
+      <td>Emprendedores, independiente y clientes generales</td>
+      <td>Empresas que requieren freelancers calificados</td>
+      <td>Personas que necesitan servicios profesionales específicos</td>
+    </tr>
+    <tr>
+      <th>Estrategias de marketing</th>
+      <td>Publicidad en redes sociales</td>
+      <td>Presencia en medios locales, redes sociales</td>
+      <td>SEO, anuncios pagos, recomendaciones</td>
+      <td>Promociones online</td>
+    </tr>
+    <tr>
+      <th>Perfil de producto</th>
+      <td>Directorio de técnicos, calificaciones - chat, pagos seguros</td>
+      <td>Directorio de emprendedores por categoría</td>
+      <td>Proyectos, perfiles, contrataciones y pagos</td>
+      <td>Agendamiento, perfiles profesionales, contacto directo</td>
+    </tr>
+    <tr>
+      <th>Precio & Costos</th>
+      <td>Modelo Freemium</td>
+      <td>Uso gratuito con modelos futuros de membresía</td>
+      <td>Comisión por proyecto y opciones premium</td>
+      <td>Tarifas por servicio profesional</td>
+    </tr>
+    <tr>
+      <th>Canales de Distribución</th>
+      <td>Web y app móvil</td>
+      <td>App móvil</td>
+      <td>Web</td>
+      <td>Web y app</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
-### 1.2.3 Estrategias y Tácticas frente a Competidores
 
 Después de revisar lo que ofrecen otras plataformas de servicios freelance, y considerando el análisis FODA que realizamos, identificamos una serie de estrategias que nos diferencian y que vamos a aprovechar. Algunas ya están en marcha y otras forman parte de nuestras oportunidades de crecimiento.
 
