@@ -250,11 +250,18 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 **Segmento 1 - Trabajadores Técnicos Independientes:**  
 
-<img src="assets/images/ImgResources/Carlos%20Flores%20Medina.png"/>
+<div align="center">
+
+<img src="img/Juan_Carlos_user_persona.png" alt="user_persona_1" />
+
+</div>
 
 **Segmento 2 - Usuarios que requieren servicios técnicos:**
 
-<img src="assets/images/ImgResources/María%20Quispe%20Mamani.png"/>
+<div align="center">
+<img src="img/USER-PERSONA-Jesús-Lujan.png" alt="user_persona_1" />
+</div>
+
 
 ### 2.3.2 User Task Matrix.
 
