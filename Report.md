@@ -252,14 +252,14 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 <div align="center">
 
-<img src="img/Juan_Carlos_user_persona.png" alt="user_persona_1" />
+<img src="assets/images/ImgResources/Juan_Carlos_user_persona.png" alt="user_persona_1" />
 
 </div>
 
 **Segmento 2 - Usuarios que requieren servicios técnicos:**
 
 <div align="center">
-<img src="img/USER-PERSONA-Jesús-Lujan.png" alt="user_persona_1" />
+<img src="assets/images/ImgResources/USER-PERSONA-Jesús-Lujan.png" alt="user_persona_1" />
 </div>
 
 
