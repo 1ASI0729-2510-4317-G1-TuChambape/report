@@ -239,6 +239,28 @@ Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competid
 
 - Educación y soporte a trabajadores independientes: Ofrecer contenido educativo, talleres gratuitos y herramientas de gestión (como control de ingresos o recordatorios de citas), que agreguen valor y fomenten el uso recurrente de la plataforma.
 
+## 2.2 Entrevistas
+
+Con el objetivo de comprender a profundidad las necesidades, expectativas y problemáticas de nuestros usuarios potenciales, se realizaron entrevistas semiestructuradas a representantes de los segmentos
+
+### 2.2.1 Diseño de entrevistas
+
+#### Entrevistas segmento 01: Trabajadores Técnicos Independientes
+
+**Preguntas generales:**
+- ¿Cuál es su edad y distrito?
+-  ¿Cuál es su ocupación principal y cuantos años de experiencia tiene en el rubro?
+- ¿De que forma consigue clientes actualmente o que métodos utiliza (redes sociales, contactos, etc.)?
+- ¿Ha tenia desconfianza por parte de los clientes? ¿Cómo los maneja?
+- ¿Qué dispositivos usa frecuente para gestionar su trabajo?
+- ¿Qué funcionalidades esperaría de una plataforma que lo conecto con clientes?
+- Qué información le gustaría incluir a su perfil para generar confianza?
+
+**Preguntas complementarias:**
+- ¿Cómo describe su estilo de trabajo actualmente?
+- ¿Prefiere recibir solicitudes de clientes por WhatsApp, llamadas o mensajes en un app?
+
+
 
 ## 2.3 Needfinding
 
