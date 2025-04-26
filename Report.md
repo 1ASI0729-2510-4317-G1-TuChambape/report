@@ -340,3 +340,11 @@ Empathy Mapping: Usuarios que requieren servicios técnicos
 <img src="assets/images/ImgResources/Empathy-map-curstumer.png" alt="journey_mapping_2" />
 
 </div>
+
+### 2.3.5. As-is Scenario Mapping.
+
+<div align="center">
+
+<img src="assets/images/ImgResources/AS-IS_ScenarioMappingCustumer.png" alt="journey_mapping_1" />
+
+</div>
