@@ -74,7 +74,7 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 
     Colores elegidos para la versión web
 
-      <img src="img/colors.png" width="50%">
+      <img src="assets/Style/colors.png" width="50%">
 
 - Spacing
 
@@ -84,7 +84,7 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 
     Espaciado elegido entre elementos de la plataforma web
 
-      <img src="img/spacing.png" width="30%">
+      <img src="assets/Style/spacing.png" width="30%">
 
 - Assets
 
@@ -94,43 +94,43 @@ En conclusión, el tono de comunicación de TuChambape debe crear un ambiente de
 
   Plantilla usada para la versión Desktop
 
-    <img src="img/Plantilla_Landing.png" width="60%">
+    <img src="assets/Style/Plantilla_Landing.png" width="60%">
 
   Figura 21
 
   Pantalla de inicio
 
-    <img src="img/LandingPage_Inicio.png" width="60%">
+    <img src="assets/Style/LandingPage_Inicio.png" width="60%">
 
   Figura 22
 
   Pantalla de Iniciar Sesión
 
-    <img src="img/IniciarSesion.png" width="60%">
+    <img src="assets/Style/IniciarSesion.png" width="60%">
 
   Figura 23
 
   Pantalla de Crear Cuenta
 
-    <img src="img/Registrarse.png" width="60%">
+    <img src="assets/Style/Registrarse.png" width="60%">
 
   Figura 24
 
   Pantalla de Menú principal del Cliente
 
-    <img src="img/InicioCliente.png" width="60%">
+    <img src="assets/Style/InicioCliente.png" width="60%">
 
   Figura 25
 
   Pantalla de Menú principal del Trabajador
 
-    <img src="img/InicioTrabajador.png" width="60%">
+    <img src="assets/Style/InicioTrabajador.png" width="60%">
 
   Figura 26
 
   Pantalla de Configuración de Cuenta
 
-    <img src="img/ConfiguraciónCliente.png" width="60%">
+    <img src="assets/Style/ConfiguraciónCliente.png" width="60%">
 
 ### **4.2. Information Architecture**
 
@@ -140,11 +140,11 @@ En esta sección, presentaremos las decisiones y las razones que guían la maner
 
   Cuadro de cómo se estructura la información del landing page
 
-    <img src="img/InformationArchitecture.png" width="60%">
+    <img src="assets/Style/InformationArchitecture.png" width="60%">
 
 - Figura 38
   Cuadro de cómo se estructura la información de la aplicación web
-  <img src="img/InformationArchitecture_App.png" width="60%">
+  <img src="assets/Style/InformationArchitecture_App.png" width="60%">
 
 ### 4.2.2. Labeling Systems
 
@@ -170,11 +170,11 @@ En esta sección, presentaremos las decisiones y las razones que guían la maner
 
   Cliente
 
-    <img src="img/navegaciónCliente.png" width="10%">
+    <img src="assets/Style/navegaciónCliente.png" width="10%">
 
   Trabajador
 
-    <img src="img/navegaciónTrabajador.png" width="10%">
+    <img src="assets/Style/navegaciónTrabajador.png" width="10%">
 
 ### 4.2.2. SEO Tags and Meta Tags
 
@@ -252,8 +252,8 @@ Figura 40
 
 Vistas en donde se integrará el sistema de búsqueda
 
-<img src="img/BuscarTecnicos.png" width="50%">  
-<img src="img/BuscarOfertas.png" width="50%">
+<img src="assets/Style/BuscarTecnicos.png" width="50%">  
+<img src="assets/Style/BuscarOfertas.png" width="50%">
 
 ### 4.2.5. Navigation Systems
 
@@ -297,16 +297,28 @@ Para que el usuario tenga una experiencia fluida, se han implementado dos tipos 
 
   Sistema de navegación de la web
 
-    <img src="img/SistemaNavegacionWeb.png" width="60%">
+    <img src="assets/Style/SistemaNavegacionWeb.png" width="60%">
 
   Sistema de navegación de la plataforma
 
-    <img src="img/navegaciónCliente.png" width="10%">
-    <img src="img/navegaciónTrabajador.png" width="10%">
+    <img src="assets/Style/navegaciónCliente.png" width="10%">
+    <img src="assets/Style/navegaciónTrabajador.png" width="10%">
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1 Landing Page Wireframes
+
+  <img src="assets/Landing.Wireframes/LandingInicio.png" width="620">
+  
+  <img src="assets/Landing.Wireframes/LandingComoFunciona.png" width="620">
+  
+  <img src="assets/Landing.Wireframes/LandingServicios.png" width="620">
+  
+  <img src="assets/Landing.Wireframes/LandingBeneficios.png" width="620">
+  
+  <img src="assets/Landing.Wireframes/LandingTestimonios.png" width="620">
+  
+  <img src="assets/Landing.Wireframes/LandingContacto.png" width="620">
 
 ### 4.3.2 Landing Page Mock-up
 
@@ -703,7 +715,7 @@ En el User Flow de TuChambape, se detalla el _happy path_ que sigue Juan, el ele
 
 _Ahora procederemos a mostrar el User Flow Diagram de TuChambape, detallando el happy path que sigue Juan, el electricista, para postularse a una oferta y culminarla de la manera más rápida y eficiente._
 
-<img src="img/foto1.jpg"  width="100%">
+<img src="assets/WebApps/foto1.jpg"  width="100%">
 
 Nota. Este diagrama ilustra el flujo de usuario de Juan, elelectricista, en la postularse y trabajar en una oferta. Se detalla el proceso optimizado que sigue para garantizar una respuesta rápida y eficiente acción de buscar ofertas según sus preferencias.
 
@@ -749,35 +761,35 @@ Enlace: https://youtu.be/9PC1qOfyiXI
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![C4 Context Diagram](./img/c4-context-diagram.png)
+![C4 Context Diagram](./assets/C4/c4-context-diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![C4 Container Diagram](./img/c4-container-diagram.png)
+![C4 Container Diagram](./assets/C4/c4-container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 #### Auth component
 
-![C4 Component Diagram](./img/c4-auth-component.png)
+![C4 Component Diagram](./assets/C4/c4-auth-component.png)
 
 #### User component
 
-![C4 Component Diagram](./img/c4-user-component.png)
+![C4 Component Diagram](./assets/C4/c4-user-component.png)
 
 #### Payment component
 
-![C4 Component Diagram](./img/c4-payment-component.png)
+![C4 Component Diagram](./assets/C4/c4-payment-component.png)
 
 #### Proposal component
 
-![C4 Component Diagram](./img/c4-proposal-component.png)
+![C4 Component Diagram](./assets/C4/c4-proposal-component.png)
 
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-![Class Diagram](./img/class-diagram.png)
+![Class Diagram](./assets/Diagrams/class-diagram.png)
 
 ### 4.7.2. Class Dictionary.
 
@@ -856,5 +868,5 @@ Enlace: https://youtu.be/9PC1qOfyiXI
 ### 4.8.1. Database Diagram.
 
 <div align="center">
-<img src="img/Base_de_datos.png" alt="data_base" />
+<img src="assets/Diagrams/Base_de_datos.png" alt="data_base" />
 </div>
