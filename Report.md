@@ -1,55 +1,55 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
-El equipo ha definido un conjunto de herramientas para garantizar una configuración de entorno de desarrollo coherente; de esta manera, se facilita una colaboración eficiente y el cumplimiento de los objetivos del proyecto. Estas herramientas abarcan diversas fases del ciclo de vida del producto MVP.
+El equipo ha definido una serie de herramientas para asegurar una configuración coherente del entorno de desarrollo. Esto facilita una colaboración eficiente y contribuye al cumplimiento de los objetivos del proyecto. Estas herramientas abarcan distintas fases del ciclo de vida del producto MVP.
 
 ## 5.1. Software Configuration Management.
 
 # Gestión de Proyectos
 
-**Pivotal Tracker** es la herramienta principal que utiliza el equipo para gestionar el proyecto de manera ágil. Facilita la planificación, organización y el seguimiento del progreso de las historias de usuario, tareas y errores, empleando un enfoque basado en historias y priorización colaborativa.  
+**Pivotal Tracker** es la herramienta principal utilizada para gestionar el proyecto de manera ágil. Permite planificar, organizar y hacer seguimiento al progreso de las historias de usuario, tareas y errores, mediante un enfoque basado en historias y priorización colaborativa.
 Ruta de referencia: [https://www.pivotaltracker.com](https://www.pivotaltracker.com)
 
-**Whatsapp** es la plataforma que usamos para la comunicación en tiempo real entre los miembros del equipo. A través de grupos organizados por temas y funciones, realizamos reuniones, coordinaciones diarias y soporte instantáneo durante todo el proceso de desarrollo.
+**Whatsapp** es la plataforma de comunicación en tiempo real que emplea el equipo. A través de grupos organizados por temas y funciones, realizamos reuniones, coordinaciones diarias y soporte instantáneo durante todo el proceso de desarrollo.
 
 ## Diseño de Producto UX/UI
 
-**Figma** se utiliza como la herramienta principal para el diseño de interfaces gráficas (UI) y la experiencia de usuario (UX). Permite la colaboración simultánea entre varios miembros del equipo en la creación de prototipos interactivos, estructuras visuales y pruebas de diseño.  
+**Figma** es la herramienta principal para diseñar las interfaces gráficas (UI) y optimizar la experiencia de usuario (UX). Permite la colaboración simultánea entre varios miembros en la creación de prototipos interactivos, estructuras visuales y pruebas de diseño.
 Ruta de referencia: [https://www.figma.com](https://www.figma.com)
 
-**UXPressia** complementa el trabajo de UX al posibilitar la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Esto ayuda al equipo a comprender mejor a los usuarios finales y a alinear las decisiones de diseño con sus necesidades.  
+**UXPressia** complementa el trabajo de UX permitiendo la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Estas herramientas ayudan al equipo a comprender mejor al usuario final y orientar las decisiones de diseño según sus necesidades.
 Ruta de referencia: [https://uxpressia.com](https://uxpressia.com)
 
 ## Desarrollo de Software
 
-**WebStorm** es el entorno de desarrollo integrado (IDE) que emplean los desarrolladores del equipo para escribir y depurar código en tecnologías web. Su integración con sistemas de control de versiones, linters y herramientas modernas de desarrollo lo convierte en un entorno robusto.  
+**WebStorm** es el entorno de desarrollo integrado (IDE) utilizado por el equipo para programar y depurar código web. Su integración con sistemas de control de versiones, linters y herramientas modernas de desarrollo lo convierte en un entorno robusto y eficiente.
 Ruta de referencia: [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)
 
 ## Despliegue de Software
 
-**Git** es el sistema de control de versiones utilizado para gestionar el historial de cambios en el código fuente. Permite a varios desarrolladores colaborar en paralelo, con control total sobre ramas, merges y versiones del proyecto.  
+**Git** es el sistema de control de versiones adoptado para gestionar el historial de cambios del código fuente. Facilita la colaboración de varios desarrolladores en paralelo, permitiendo el manejo de ramas, fusiones y versiones de manera controlada.
 Ruta de referencia: [https://git-scm.com](https://git-scm.com)
 
 ## Documentación de Software y Gestión del Proyecto
 
-**GitHub** se utiliza como repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También se emplea para la revisión del código (pull requests), registro de incidencias, documentación del proyecto y automatización de tareas de despliegue.  
+**GitHub** actúa como el repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También es utilizado para la revisión de código (pull requests), el registro de incidencias, la documentación del proyecto y la automatización de tareas de despliegue.
 Ruta de referencia: [https://github.com](https://github.com)
 
 ## Pruebas de Software
 
-**Gherkin** es un sistema de etiquetado utilizado para describir los criterios de aceptación de la estructura de una user story.  
+**Gherkin** es el sistema de etiquetado empleado para describir los criterios de aceptación de las historias de usuario de forma estructurada.
 Ruta de referencia: [https://cucumber.io/docs/gherkin](https://cucumber.io/docs/gherkin)
 
 ## 5.1.1. Software Development Environment Configuration.
 
-El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como WorkFlow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page.
+El proyecto adoptará las convenciones de flujo de trabajo del modelo GitFlow para la gestión de versiones, empleando GitHub como plataforma de control de versiones. A continuación, se detalla cómo se implementará GitFlow como flujo de trabajo, junto con los enlaces a los repositorios de GitHub correspondientes, en este caso para la Landing Page.
 
 ### 5.1.2. Source Code Management.
 
-Hemos empleado Git Flow (<<cita>), para el desarrollo y mantenimiento de nuestro proyecto. Para ello, hemos creado 5 ramas principales, las cuale son Main, Hotfix, Release, Develop y feature. En este sentido, al inicializar el primer commit es en el main, desde el cual parte la rama develop, cada sección de nuestra landing page es una feature tiene su propia rama con la nomenclatura feature/<nombre_de_feature>, en donde se desarrolla cada sección por separado, como por ejemplo el Header, el footer o las secciones de nuestra landing. Luego, terminado el desarrollo de cada feature se hace un merge a la rama develop, donde se hace la unión de las secciones de la web, ya con la rama con un avance significativo (suele ser al termino de un sprint), se crea un nuevo release con nomenclatura semver (semantic versioning 2.0.0), donde
-FORMA
-122
-se hace el testeo y documentación del código dentro del README.md. Además, utilizamos la rama HotFix para la solución de problemas en la rama main. Para esto, creamos una rama
-hotfix/<nombre_de_hotfix>. Para finalizar, se sube a la rama main para la salida a producción.
+Se ha implementado GitFlow (<<cita>>) para el desarrollo y mantenimiento del proyecto. Para ello, se han creado cinco ramas principales: Main, Hotfix, Release, Develop y Feature. Inicialmente, el primer commit se realiza en la rama Main, de la cual se desprende la rama Develop.
+Cada sección de la landing page se desarrolla en su propia rama Feature bajo la nomenclatura feature/<nombre_de_feature>, como por ejemplo feature/Header, feature/Footer o feature/Seccion.
+Una vez finalizado el desarrollo de cada Feature, se realiza un merge hacia Develop, donde se integran todas las secciones de la web. Cuando Develop alcanza un avance significativo (habitualmente al finalizar un sprint), se crea una nueva Release siguiendo la nomenclatura semver (Semantic Versioning 2.0.0).
+Durante esta etapa se lleva a cabo el testeo y la documentación del código en el archivo README.md.
+Además, la rama Hotfix se utiliza para corregir problemas detectados en Main, creando ramas hotfix/<nombre_de_hotfix>. Finalmente, los cambios se integran en Main para su despliegue en producción.
 
 Repositorios de GitHub:
 
@@ -60,28 +60,28 @@ Enlace para acceder a repositorio de la Landing Page: https://github.com/PaxTech
 
 #### Nomenclatura
 
-- **Pascal Case**: Utilizaremos la nomenclatura Pascal Case para el nombramiento de nuestros componentes.
-- **Camel Case**: Utilizaremos la nomenclatura Camel Case para el nombramiento de variables, funciones y otros elementos de programación.
+- **Pascal Case**: Será utilizado para nombrar componentes.
+- **Camel Case**: Será utilizado para nombrar variables, funciones y otros elementos de programación.
 
 #### HTML
 
-- Crearemos nuestros componentes utilizando código HTML semántico.
-- Seguiremos las convenciones estándar de HTML, tales como:
-  - Declarar el documento HTML correctamente.
-  - Utilizar **lowercase** para las etiquetas.
-  - Asegurarnos de cerrar todas las etiquetas HTML.
-  - Especificar los atributos **width** y **height** en las imágenes.
-  - Mantener un buen formateo del código.
+- Se desarrollarán los componentes utilizando código HTML semántico.
+- Se seguirán las convenciones estándar de HTML, como:
+  - Declarar correctamente el documento HTML.
+  - Utilizar minúsculas para las etiquetas.
+  - Cerrar adecuadamente todas las etiquetas.
+  - Especificar atributos width y height en las imágenes.
+  - Mantener un formateo limpio del código.
 
 #### CSS
 
-- Adoptaremos los principios de **utility-first** y **mobile-first** para la creación de nuestras clases.
-- Emplearemos **Tailwind CSS** para este propósito.
-- Además, seguiremos las convenciones estándar de CSS, como:
-  - Mantener una buena indentación.
-  - Realizar el reinicio de estilos.
+- Se adoptarán los principios utility-first y mobile-first en la creación de clases.
+- Se utilizará Tailwind CSS para la construcción de los estilos.
+- Se respetarán las convenciones estándar de CSS, tales como:
+  - Mantener una correcta indentación.
+  - Aplicar un reseteo de estilos.
   - Respetar la regla de cascada.
-  - Gestionar correctamente la especificidad de los estilos.
+  - Gestionar adecuadamente la especificidad de los estilos.
 
 #### Gherkin
 
@@ -91,9 +91,10 @@ Enlace para acceder a repositorio de la Landing Page: https://github.com/PaxTech
 
 ### 5.1.4. Software Deployment Configuration.
 
-Hemos empleado el uso de un Software as Service llamado Netlify para el despliegue de nuestra landing page. Para esto, nos creamos una cuenta en Netlify y la conectamos con la cuenta de GitHub, la cual es creadora del repositorio. Después de esto, enlazamos el repositorio al hosting para que así tenga acceso al código. Para finalizar, configuramos tanto los comandos de inicialización como las variables de entorno y hacemos el deploy de nuestro proyecto.
+Para el despliegue de la landing page, se ha utilizado un servicio de Software as a Service llamado Netlify.
+Primero, se creó una cuenta en Netlify y se vinculó con la cuenta de GitHub donde se aloja el repositorio. Posteriormente, se enlazó el repositorio al hosting para permitir el acceso al código. Finalmente, se configuraron los comandos de inicialización, las variables de entorno y se realizó el despliegue del proyecto.
 
-Además, mediante Github Actions logramos implementar CI/CD en Netlify, el cual escucha los cambios en la rama main y hace un deploy a producción.
+Además, mediante la integración de GitHub Actions, se implementó un flujo CI/CD en Netlify que detecta cambios en la rama Main y ejecuta el despliegue automático a producción.
 
 ![Netifly deploy](./img/netifly-deploy.png)
 
@@ -202,7 +203,7 @@ Para este sprint no fue contemplada la evidencia de documentación de los servic
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa en Netlify. Se configuró para que la rama principal utilizada fuera "main", ubicada en la raíz, siguiendo una estructura organizada de carpetas y archivos.
 
-![Netifly deploy](./assets/images/chapter-5//netifly-deploy.png)
+![Netifly deploy](./assets/images/chapter-5/netifly-deploy.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
