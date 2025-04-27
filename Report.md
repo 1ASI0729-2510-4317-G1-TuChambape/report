@@ -305,6 +305,26 @@ Informe del resumen de la entrevista:
 
 Maryori Atanacio Cruces requiere servicios técnicos aproximadamente cada seis meses o cuando surge una urgencia. Actualmente suele encontrar técnicos a través de recomendaciones de amigos, familiares o en grupos de Facebook. Ha tenido malas experiencias con técnicos informales, por lo que ahora prioriza elegir basándose en precios, reseñas y recomendaciones. Le genera confianza que el técnico tenga un perfil bien presentado, reseñas reales y que ofrezca alguna identificación. Ha utilizado la app "Homy" porque ofrece técnicos verificados y respaldo en caso de problemas. Está dispuesta a pagar un precio más alto por un técnico verificado y prefiere comparar varias opciones antes de contratar para evitar riesgos.
 
+**Entrevista 2:**
+
+Datos del entrevistador:
+
+- Nombres: Roy
+- Apellidos: Fernández Remón
+
+Datos del entrevistado:
+
+- Nombres: Jefry
+- Apellidos: Prado Remón
+- Edad: 23
+- Distrito de Residencia: San Juan de Lurigancho
+- Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESij9AMyjV5DpwHE_0XF-TQB9Sscnhl5mBJErQdk-8MRFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PbEcZg)
+- Duración de la entrevista: 2:55
+
+<img src="assets/images/ImgResources/Entrevista%20Jefry.png"/>
+
+
+
 
 ## 2.3 Needfinding
 
