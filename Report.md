@@ -316,7 +316,7 @@ Datos del entrevistado:
 
 - Nombres: Jefry
 - Apellidos: Prado Remón
-- Edad: 23
+- Edad: 24
 - Distrito de Residencia: San Juan de Lurigancho
 - Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESij9AMyjV5DpwHE_0XF-TQB9Sscnhl5mBJErQdk-8MRFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PbEcZg)
 - Duración de la entrevista: 2:55
@@ -326,6 +326,25 @@ Datos del entrevistado:
 Informe del resumen de la entrevista:
 
 Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, generalmente cuando tiene problemas con su laptop o el internet. Suele encontrar técnicos a través de recomendaciones de amigos o buscando en Facebook, aunque es más cuidadoso al hacerlo. Ha tenido malas experiencias con técnicos informales, por lo que ahora se fija en recomendaciones, precios y la experiencia antes de contratar. Le genera confianza que el técnico tenga buenas reseñas, un perfil serio y que demuestre conocimiento. Ha utilizado la app "Homy" para contratar servicios, valorando la verificación de técnicos y la facilidad de uso. Está dispuesto a pagar un precio más alto por un técnico verificado y prefiere comparar opciones antes de tomar una decisión para asegurarse de hacer una buena elección.
+
+### 2.2.3. Análisis de entrevistas
+
+**Datos Generales de los Entrevistados**
+
+| Nombre                  | Edad     | Distrito de Residencia     | Ciudad   | País  |
+|:-------------------------|:---------|:----------------------------|:---------|:------|
+| Maryori Atanacio Cruces   | 23 años  | San Juan de Lurigancho       | Lima     | Perú  |
+| Jefry Prado Remón         | 24 años  | San Juan de Lurigancho       | Lima     | Perú  |
+
+- **Promedio de edad:** 23.5 años
+- **Residencia:** 100% en San Juan de Lurigancho
+
+#### - Necesidad de Servicios Técnicos
+
+- **Maryori:** Cada 6 meses o cuando surge una urgencia.
+- **Jefry:** Cada 4 a 5 meses, principalmente por fallas en laptop o internet.
+
+**Frecuencia promedio estimada:** Cada 5 meses.
 
 
 
