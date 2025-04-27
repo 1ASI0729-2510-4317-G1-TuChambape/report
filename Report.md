@@ -126,6 +126,9 @@ Mi nombre es Daniel Valdizán Grijalba, tengo 19 años y estoy cursando la carre
 
 <img src="assets/images/profile-pictures/DanielV.PNG"  width="180" />
 
+Mi nombre es Oliver Jonseck Choque, estudio ingenieria de software y poseo 19 años. Soy una persona algo distraida, pero sin embargo siempre trato de dar lo mejor que puedo. Soy autodidacta, alegre y llego a ser responsable.
+
+<img src="assets/images/profile-pictures/Integrante-Oliver.jpeg" width="180"/>
 
 ## 1.2. Solution Profile
 
