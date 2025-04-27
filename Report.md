@@ -421,81 +421,95 @@ Carol prefiere comparar opciones antes de tomar una decisión, aunque en ocasion
 
 **Datos Generales de los Entrevistados**
 
-| Nombre                  | Edad     | Distrito de Residencia     | Ciudad   | País  |
-|:-------------------------|:---------|:----------------------------|:---------|:------|
-| Maryori Atanacio Cruces   | 23 años  | San Juan de Lurigancho       | Lima     | Perú  |
-| Jefry Prado Remón         | 24 años  | San Juan de Lurigancho       | Lima     | Perú  |
+| Nombre                          | Edad     | Distrito de Residencia     | Ciudad   | País  |
+|:---------------------------------|:---------|:----------------------------|:---------|:------|
+| Maryori Atanacio Cruces          | 23 años  | San Juan de Lurigancho       | Lima     | Perú  |
+| Jefry Prado Remón                | 24 años  | San Juan de Lurigancho       | Lima     | Perú  |
+| Carol Vega                       | 39 años  | El Agustino                  | Lima     | Perú  |
+| Jorge Videla                     | 27 años  | Lima                         | Lima     | Perú  |
+| Carlos Alberto Almeyda Romero    | 47 años  | Santa                        | Santa    | Perú  |
+| Fabiola Saldaña                  | 24 años  | Surquillo                    | Lima     | Perú  |
 
-- **Promedio de edad:** 23.5 años
-- **Residencia:** 100% en San Juan de Lurigancho
+- **Promedio de edad:** 30.6 años
+- **Residencia:** 100% en Perú (mayoría en Lima Metropolitana)
 
 #### - Necesidad de Servicios Técnicos
 
 - **Maryori:** Cada 6 meses o cuando surge una urgencia.
 - **Jefry:** Cada 4 a 5 meses, principalmente por fallas en laptop o internet.
+- **Carol:** Cada 2 años, pero puede requerirlo antes por urgencias.
+- **Jorge:** Consigue clientes regularmente a través de redes sociales, no mencionó frecuencia de necesitar servicios, sino de ofrecerlos.
+- **Carlos:** Trabaja de forma continua, prestando servicios automotrices.
+- **Fabiola:** Brinda clases regularmente; su demanda depende de estudiantes nuevos o recurrentes.
 
-**Frecuencia promedio estimada:** Cada 5 meses.
+**Frecuencia promedio estimada (usuarios que requieren técnicos):** Cada 5-6 meses.
 
-#### - Medios Utilizados para Encontrar Técnicos
+#### - Medios Utilizados para Encontrar Técnicos o Clientes
 
 - **Recomendaciones de amigos o familiares:** 100%
-- **Búsqueda en redes sociales (Facebook y Marketplace):** 100%
+- **Búsqueda en redes sociales (Facebook, Marketplace):** 100%
+- **Anuncios físicos:** (Carol) 33%
+- **Plataformas educativas especializadas:** (Fabiola) sí
 
 #### - Experiencias con Técnicos Informales
 
-- Ambos entrevistados han tenido **malas experiencias** (100%):
-    - Problemas no resueltos o empeorados.
-    - Falta de garantía posterior al servicio.
+- **Maryori y Jefry:** Han tenido malas experiencias (100%).
+- **Carol:** Ha tenido tanto malas como buenas experiencias.
+- **Jorge, Carlos y Fabiola:** Han enfrentado desconfianza de clientes y la superan demostrando su experiencia y transparencia.
 
-#### - Criterios para Elegir Técnicos
+#### - Criterios para Elegir Técnicos o Conectar con Clientes
 
 | Criterio                     | % de Entrevistados que lo Consideran Importante |
 |:-------------------------------|:-----------------------------------------------|
 | Recomendaciones                | 100% |
 | Reseñas o comentarios positivos| 100% |
 | Precio                         | 100% |
-| Experiencia previa             | 50% (mencionado explícitamente por Jefry) |
+| Experiencia previa             | 100% |
+| Perfil profesional sólido      | 100% |
 
 #### - Información que Genera Confianza
 
 - Buenas reseñas reales.
-- Perfil profesional y bien presentado.
-- Identificación o documento de respaldo.
-- Atención rápida y formal.
+- Perfil profesional con certificaciones, muestras de trabajo o testimonios.
+- Identificación o respaldo documentario.
+- Comunicación rápida, directa y formal.
 
 #### - Uso de Apps o Plataformas
 
-- Ambos han usado **Homy** para contratar servicios técnicos verificados.
-- **Motivo:** Verificación de técnicos y respaldo de la plataforma en caso de problemas.
+- **Maryori y Jefry:** Han usado Homy para contratar técnicos verificados.
+- **Jorge y Fabiola:** Sugieren plataformas que permitan portafolios, pagos seguros y conexión directa con clientes.
+- **Carol:** No ha usado plataformas, pero está dispuesta si garantizan verificación.
 
 #### - Disposición a Pagar Más por Técnicos Verificados
 
-- 100% de los entrevistados están dispuestos a pagar un precio más alto si el técnico es verificado.
+- 100% de los entrevistados relacionados a servicios técnicos están dispuestos a pagar más por verificación y respaldo.
 
-#### - Método de Decisión al Contratar
+#### - Método de Decisión al Contratar o Aceptar Clientes
 
-- Ambos prefieren **comparar varias opciones** antes de decidir contratar.
+- Comparan varias opciones antes de decidir (usuarios).
+- En el caso de los trabajadores técnicos, prefieren recibir solicitudes por WhatsApp o apps especializadas, evitando comunicaciones improvisadas.
 
 #### - Resumen Rápido
 
 | Aspecto Evaluado                         | % de Coincidencia entre Entrevistados |
 |:-----------------------------------------|:--------------------------------------|
-| Viven en San Juan de Lurigancho           | 100% |
-| Edad promedio joven (23-24 años)          | 100% |
-| Requieren servicio cada 4-6 meses         | 100% |
-| Usan redes sociales y contactos           | 100% |
-| Han tenido malas experiencias             | 100% |
-| Buscan técnicos con buenas referencias    | 100% |
-| Han usado apps como Homy                  | 100% |
+| Viven en Lima Metropolitana              | 83% |
+| Edad promedio joven-adulto (24-47 años)   | 100% |
+| Requieren servicios técnicos cada 4-6 meses (usuarios) | 66% |
+| Usan redes sociales o recomendaciones    | 100% |
+| Han tenido malas experiencias            | 66% (usuarios) |
+| Buscan confianza mediante perfil y reseñas| 100% |
+| Han usado o usarían apps especializadas   | 83% |
 | Dispuestos a pagar más por verificación   | 100% |
-| Prefieren comparar antes de contratar     | 100% |
+| Prefieren comparar antes de contratar o aceptar clientes | 100% |
 
 #### - Conclusiones del Análisis
 
-- Los entrevistados pertenecen a un **segmento joven-adulto urbano**, altamente activo digitalmente y con desconfianza hacia servicios informales.
-- Existe una **alta preferencia por técnicos verificados**, incluso a costa de pagar un precio más alto.
-- **Facebook** sigue siendo un canal importante para encontrar técnicos, aunque las **plataformas especializadas** están ganando preferencia.
-- La forma de contratar es **reflexiva y comparativa**, no impulsiva.
+- Se observa un **segmento joven-adulto urbano**, digitalmente activo, con alta preocupación por la confiabilidad del servicio técnico.
+- Tanto usuarios como trabajadores técnicos valoran **perfiles completos, reseñas y garantías**.
+- **Redes sociales** siguen siendo fundamentales, pero existe **apertura hacia plataformas especializadas** que aseguren verificación, transparencia y facilidad de comunicación.
+- La **decisión de contratación o aceptación de clientes es reflexiva**, priorizando calidad y confianza sobre el precio más bajo.
+
 
 
 
