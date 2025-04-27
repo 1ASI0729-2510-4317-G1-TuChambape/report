@@ -376,106 +376,103 @@ En el diseño de la interfaz de usuario de nueestra aplicación web "TuChambape"
 
   Wireframe de Iniciar Sesión
 
-    <img src="img/WireframeInicioSesion.png" width="60%">
+    <img src="assets/WebApps/Wireframes/1.jpg" width="60%">
 
 - Figura 55
 
   Wireframe de Crear Cuenta
 
-    <img src="img/WireframeCrearCuenta.png" width="60%">
+    <img src="assets/WebApps/Wireframes/2.jpg" width="60%">
 
 - Figura 56
 
   Wireframes para Recuperar contraseña
 
-    <img src="img/WireframeRecuperarContraseña.png" width="60%">
-
-    <img src="img/WireframeCodigoVerificacion.png" width="60%">
-
-    <img src="img/WireframeRestablecerContraseña.png" width="60%">
+    <img src="assets/WebApps/Wireframes/3.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/4.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/5.jpg" width="60%">
 
 - Figura 57
 
   Wireframes de error al iniciar Sesión o registrarse
 
-    <img src="img/WireframeErrorIniciar.png" width="60%">
-
-    <img src="img/WireframeErrorCrearCuenta.png" width="60%">
-
+    <img src="assets/WebApps/Wireframes/6.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/7.jpg" width="60%">
+    
 - Figura 58
 
   Vista de inicio del cliente
 
-    <img src="img/WireframeClienteInicio.png" width="60%">
+    <img src="assets/WebApps/Wireframes/8.jpg" width="60%">
 
 - Figura 59
 
   Vista de Buscar Técnicos
 
-    <img src="img/WireframeClienteBuscar.png" width="60%">
+    <img src="assets/WebApps/Wireframes/9.jpg" width="60%">
 
 - Figura 60
 
   Vista de Comparar Perfiles
 
-    <img src="img/WireframeClienteComparar.png" width="60%">
+    <img src="assets/WebApps/Wireframes/10.jpg" width="60%">
 
 - Figura 61
 
   Vistas relacionadas con Ofertas
 
-    <img src="img/WireframeClienteOferta1.png" width="60%">
-    <img src="img/WireframeClienteOferta2.png" width="60%">
-    <img src="img/WireframeClienteOferta3.png" width="60%">
-    <img src="img/WireframeClienteOferta4.png" width="60%">
-    <img src="img/WireframeClienteOferta5.png" width="60%">
+    <img src="assets/WebApps/Wireframes/11.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/12.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/13.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/14.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/15.jpg" width="60%">
 
 - Figura 62
 
   Vista de configuración
 
-    <img src="img/WireframeClienteConfiguracion.png" width="60%">
+    <img src="assets/WebApps/Wireframes/16.jpg" width="60%">
 
 - Figura 63
 
   Vistas de Personalizar Perfil
 
-    <img src="img/WireframeClientePersonalizar1.png" width="60%">
-    <img src="img/WireframeClientePersonalizar2.png" width="60%">
+    <img src="assets/WebApps/Wireframes/17.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/18.jpg" width="60%">>
 
 - Figura 64
 
   Vista de inicio del trabajador
 
-    <img src="img/WireframeTrabajadorInicio.png" width="60%">
+    <img src="assets/WebApps/Wireframes/19.jpg" width="60%">
 
 - Figura 65
 
   Vista de buscar ofertas del trabajador
 
-    <img src="img/WireframeTrabajadorBuscarOfert.png" width="60%">
+    <img src="assets/WebApps/Wireframes/20.jpg" width="60%">
 
 - Figura 66
 
   Vistas relacionadas con las ofertas del trabajador
 
-    <img src="img/WireframeTrabajadorOferta1.png" width="60%">
-    <img src="img/WireframeTrabajadorOferta2.png" width="60%">
-    <img src="img/WireframeTrabajadorOferta3.png" width="60%">
-    <img src="img/WireframeTrabajadorOferta4.png" width="60%">
+    <img src="assets/WebApps/Wireframes/21.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/22.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/23.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/24.jpg" width="60%">
 
 - Figura 67
 
   Vista de reputacion del trabajador
 
-    <img src="img/WireframeTrabajadorReputacion.png" width="60%">
+    <img src="assets/WebApps/Wireframes/25.jpg" width="60%">
 
 - Figura 68
 
   Vistas de personalizar perfil del trabajador
 
-    <img src="img/WireframeTrabajadorPerfil1.png" width="60%">
-    <img src="img/WireframeTrabajadorPerfil2.png" width="60%">
+    <img src="assets/WebApps/Wireframes/26.jpg" width="60%">
+    <img src="assets/WebApps/Wireframes/27.jpg" width="60%">
 
 ### 4.4.2. Web Applications Wireflows Diagrams
 
@@ -549,106 +546,108 @@ https://www.figma.com/design/py3rabYJzPcLJN8k0b92su/Aplicaciones-Web?node-id=0-1
 
   Iniciar Sesión
 
-    <img src="img/MockupIniciarsesion.png" width="60%">
+    <img src="assets/WebApps/Mockups/1.jpg" width="60%">
 
 - Figura 70
 
   Crear Cuenta
 
-    <img src="img/MockupCrearCuenta.png" width="60%">
+    <img src="assets/WebApps/Mockups/2.jpg" width="60%">
 
 - Figura 71
 
   Vistas para Recuperar contraseña
 
-    <img src="img/MockupRecuperarContr.png" width="60%">
+    <img src="assets/WebApps/Mockups/3.jpg" width="60%">
 
-    <img src="img/MockupIngresarcodigo.png" width="60%">
+    <img src="assets/WebApps/Mockups/4.jpg" width="60%">
 
-    <img src="img/MockupRestablecerContr.png" width="60%">
+    <img src="assets/WebApps/Mockups/5.jpg" width="60%">
 
 - Figura 72
 
   Mockups de error al iniciar Sesión o registrarse
 
-    <img src="img/MockupErrorIniciarS.png" width="60%">
+    <img src="assets/WebApps/Mockups/6.jpg" width="60%">
 
-    <img src="img/MockupErrorCrearCuenta.png" width="60%">
+    <img src="assets/WebApps/Mockups/7.jpg" width="60%">
 
 - Figura 73
 
   Vista de inicio del cliente
 
-    <img src="img/MockupClienteInicio.png" width="60%">
+    <img src="assets/WebApps/Mockups/8.jpg" width="60%">
 
 - Figura 74
 
   Vista de Buscar Técnicos
 
-    <img src="img/MockupClienteBuscarTec.png" width="60%">
+    <img src="assets/WebApps/Mockups/9.jpg" width="60%">
 
 - Figura 75
 
   Vista de Comparar Perfiles
 
-    <img src="img/MockupClienteComparar.png" width="60%">
+    <img src="assets/WebApps/Mockups/10.jpg" width="60%">
 
 - Figura 76
 
   Vistas relacionadas con Ofertas
 
-    <img src="img/MockupClienteOferta1.png" width="60%">
-    <img src="img/MockupClienteOferta2.png" width="60%">
-    <img src="img/MockupClienteOferta3.png" width="60%">
-    <img src="img/MockupClienteOferta4.png" width="60%">
-    <img src="img/MockupClienteOferta5.png" width="60%">
+    <img src="assets/WebApps/Mockups/11.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/12.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/13.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/14.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/15.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/16.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/17.jpg" width="60%">
 
 - Figura 77
 
   Vista de configuración
 
-    <img src="img/MockupClienteConfiguracion.png" width="60%">
+    <img src="assets/WebApps/Mockups/18.jpg" width="60%">
 
 - Figura 78
 
   Vistas de Personalizar Perfil
 
-    <img src="img/MockupClientePerfil1.png" width="60%">
-    <img src="img/MockupClientePerfil2.png" width="60%">
+    <img src="assets/WebApps/Mockups/19.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/20.jpg" width="60%">
 
 - Figura 79
 
   Vista de inicio del trabajador
 
-    <img src="img/MockupTrabajadorInicio.png" width="60%">
+    <img src="assets/WebApps/Mockups/22.jpg" width="60%">
 
 - Figura 80
 
   Vista de buscar ofertas del trabajador
 
-    <img src="img/MockupTrabajadorBuscarOfert.png" width="60%">
+    <img src="assets/WebApps/Mockups/23.jpg" width="60%">
 
 - Figura 81
 
   Vistas relacionadas con las ofertas del trabajador
 
-    <img src="img/MockupTrabajadorOferta1.png" width="60%">
-    <img src="img/MockupTrabajadorOferta2.png" width="60%">
-    <img src="img/MockupTrabajadorOferta3.png" width="60%">
-    <img src="img/MockupTrabajadorOferta4.png" width="60%">
+    <img src="assets/WebApps/Mockups/24.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/25.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/26.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/27.jpg" width="60%">
 
 - Figura 82
 
   Vista de reputacion del trabajador
 
-    <img src="img/MockupTrabajadorReputacion.png" width="60%">
+    <img src="assets/WebApps/Mockups/28.jpg" width="60%">
 
 - Figura 83
 
   Vistas de personalizar perfil del trabajador
 
-    <img src="img/MockupTrabajadorPerfil1.png" width="60%">
-    <img src="img/MockupTrabajadorPerfil2.png" width="60%">
+    <img src="assets/WebApps/Mockups/29.jpg" width="60%">
+    <img src="assets/WebApps/Mockups/30.jpg" width="60%">
 
 ### 4.4.4. Web Applications Wireflows User Flow Diagrams
 
