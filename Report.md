@@ -396,6 +396,27 @@ Informe del resumen de la entrevista:
 
 Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, generalmente cuando tiene problemas con su laptop o el internet. Suele encontrar técnicos a través de recomendaciones de amigos o buscando en Facebook, aunque es más cuidadoso al hacerlo. Ha tenido malas experiencias con técnicos informales, por lo que ahora se fija en recomendaciones, precios y la experiencia antes de contratar. Le genera confianza que el técnico tenga buenas reseñas, un perfil serio y que demuestre conocimiento. Ha utilizado la app "Homy" para contratar servicios, valorando la verificación de técnicos y la facilidad de uso. Está dispuesto a pagar un precio más alto por un técnico verificado y prefiere comparar opciones antes de tomar una decisión para asegurarse de hacer una buena elección.
 
+**Entrevista 3:**
+
+Nombre: Carol Vega
+Género: Femenino
+Edad: 39 años
+Distrito: El Agustino
+Duración: 5:21
+Inicio: 0:00
+Fin: 5:21
+Screenshot:
+
+<img src="assets/images/ImgResources/Entrevista3-Segmento2.PNG"/>
+
+**Resumen:**
+Carol, de 39 años, vive en el distrito de El Agustino y requiere servicios técnicos aproximadamente cada dos años.
+Para encontrar técnicos, utiliza principalmente redes sociales, anuncios en la calle y recomendaciones de conocidos.
+Aunque ha tenido malas experiencias en el pasado al contratar de manera informal, también ha tenido trabajos satisfactorios.
+Considera más importantes las recomendaciones de otras personas y las reseñas de los técnicos en redes sociales, así como la presencia de una tarjeta de presentación como una señal de profesionalismo.
+Aunque no ha utilizado plataformas específicas para contratar estos servicios, estaría dispuesta a pagar un precio más alto por un técnico verificado, dado que experiencias anteriores con precios bajos no siempre resultaron en trabajos de calidad.
+Carol prefiere comparar opciones antes de tomar una decisión, aunque en ocasiones contrata rápidamente si la necesidad es urgente.
+
 ### 2.2.3. Análisis de entrevistas
 
 **Datos Generales de los Entrevistados**
