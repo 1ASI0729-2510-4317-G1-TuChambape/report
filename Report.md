@@ -1,6 +1,6 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
-El equipo ha definido un conjunto de herramientas para garantizar una configuración de entorno de desarrollo coherente; de esta maenra, se facilita una colaboración eficiente y el cumplimiento de los objetivos del proyecto. Estas herramientas abarcan diversas fases del ciclo de vida del producto MVP.
+El equipo ha definido un conjunto de herramientas para garantizar una configuración de entorno de desarrollo coherente; de esta manera, se facilita una colaboración eficiente y el cumplimiento de los objetivos del proyecto. Estas herramientas abarcan diversas fases del ciclo de vida del producto MVP.
 
 ## 5.1. Software Configuration Management.
 
@@ -111,7 +111,7 @@ En el marco de Scrum, un Sprint es un periodo de tiempo fijo y breve en el que u
 **Location**: Reunión virtual mediante la aplicación Whatsapp  
 **Prepare By**: Alejandro Oroncoy  
 
-**Attendees (to planning meeting)**: Alejandro Oroncoy, JobCoonnect  
+**Attendees (to planning meeting)**: Alejandro Oroncoy, TuChambape  
 
 ###### Sprint n - 1 Review Summary
 Este es el primer sprint del proyecto, por lo tanto, no hay resultados de un sprint anterior para revisar.  
