@@ -49,4 +49,6 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 <img src="assets/images/ImageResources/Impact%20map%201.png"/>
 
+#### Segmento 2: Usuarios que requieren servicios técnicos
 
+<img src="assets/images/ImageResources/Impact%20map%202.png"/>
