@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80a9e4d8-1e6b-46e3-9697-56de0478d6ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/chapter-2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RTPX26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/1ASI0729-2510-4317-G1-TuChambape/report.git&quot;,
+    &quot;accountId&quot;: &quot;b09902fa-cb82-4412-8599-d1aee6a0038b&quot;
+  }
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wDJMEnkJzLSnvXVZkTvwTrItbJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/chapter-3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a9e4d8-1e6b-46e3-9697-56de0478d6ee" name="Changes" comment="" />
+      <created>1745570161695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745570161695</updated>
+      <workItem from="1745570165418" duration="6463000" />
+      <workItem from="1745598941100" duration="638000" />
+      <workItem from="1745653541394" duration="144000" />
+      <workItem from="1745701834105" duration="1802000" />
+      <workItem from="1745741248548" duration="2776000" />
+      <workItem from="1745744062589" duration="666000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat(Commit): &#10;made my first commit">
+      <option name="closed" value="true" />
+      <created>1745570289971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745570289971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(UP): add user person 1">
+      <option name="closed" value="true" />
+      <created>1745573016940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745573016940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(UP2): add user person 2">
+      <option name="closed" value="true" />
+      <created>1745573893429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745573893429</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(UM): add user task matrix">
+      <option name="closed" value="true" />
+      <created>1745574619016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745574619016</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(UM2): add more information in user task matrix">
+      <option name="closed" value="true" />
+      <created>1745575448941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745575448941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(UserJourney): add user journey map 1">
+      <option name="closed" value="true" />
+      <created>1745577590083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745577590083</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat(UserJourney2): add more information in user journey map">
+      <option name="closed" value="true" />
+      <created>1745577639862</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745577639862</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat(Interview): add interview design 1 in this project">
+      <option name="closed" value="true" />
+      <created>1745702362744</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745702362744</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat(Interview2):add more questions in interview design">
+      <option name="closed" value="true" />
+      <created>1745703282265</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745703282265</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat(Interviews): add Interview register">
+      <option name="closed" value="true" />
+      <created>1745742007077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745742007077</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat(Int): add interview 1">
+      <option name="closed" value="true" />
+      <created>1745742288515</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745742288515</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat(int1): add review of interview 1">
+      <option name="closed" value="true" />
+      <created>1745742345542</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745742345542</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(int2): add interview 2">
+      <option name="closed" value="true" />
+      <created>1745742589116</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745742589116</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat(inter2): add review of interview 2">
+      <option name="closed" value="true" />
+      <created>1745742644864</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745742644864</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(Analisis1): add analisis of interviews">
+      <option name="closed" value="true" />
+      <created>1745743281007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1745743281007</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat(Analisis2): add more information in analisis of interviews">
+      <option name="closed" value="true" />
+      <created>1745743340227</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1745743340227</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(Analisis3): add review of interviews in analisis section">
+      <option name="closed" value="true" />
+      <created>1745743395148</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745743395148</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat(first): Its my first commit in branch 3">
+      <option name="closed" value="true" />
+      <created>1745744154672</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1745744154672</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat(Commit): &#10;made my first commit" />
+    <MESSAGE value="feat(UP): add user person 1" />
+    <MESSAGE value="feat(UP2): add user person 2" />
+    <MESSAGE value="feat(UM): add user task matrix" />
+    <MESSAGE value="feat(UM2): add more information in user task matrix" />
+    <MESSAGE value="feat(UserJourney): add user journey map 1" />
+    <MESSAGE value="feat(UserJourney2): add more information in user journey map" />
+    <MESSAGE value="feat(Interview): add interview design 1 in this project" />
+    <MESSAGE value="feat(Interview2):add more questions in interview design" />
+    <MESSAGE value="feat(Interviews): add Interview register" />
+    <MESSAGE value="feat(Int): add interview 1" />
+    <MESSAGE value="feat(int1): add review of interview 1" />
+    <MESSAGE value="feat(int2): add interview 2" />
+    <MESSAGE value="feat(inter2): add review of interview 2" />
+    <MESSAGE value="feat(Analisis1): add analisis of interviews" />
+    <MESSAGE value="feat(Analisis2): add more information in analisis of interviews" />
+    <MESSAGE value="feat(Analisis3): add review of interviews in analisis section" />
+    <MESSAGE value="feat(first): Its my first commit in branch 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(first): Its my first commit in branch 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
