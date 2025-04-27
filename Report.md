@@ -167,31 +167,31 @@ En el primer sprint backlog, el equipo tenía como objetivo iniciar y finalizar 
 En el Sprint 1, se logró un avance parcial en el desarrollo y despliegue de la landing page. Esta página presenta diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas evidencias de este progreso.
 
 Hero: La sección principal invita al usuario a ver más información sobre el servicio y probar el producto
-![Hero](./img/Hero.png)
+![Hero](./assets/images/chapter-5/Hero.png)
 
 Beneficios: Esta sección presenta las principales ventajas que ofrece la plataforma tanto para trabajadores técnicos como para clientes que buscan servicios, destacando la facilidad de uso, seguridad y eficiencia
 
-![Beneficios](./img/Beneficios.png)
+![Beneficios](./assets/images/chapter-5/Beneficios.png)
 
 Categorías de servicios: Esta sección muestra los tipos de servicios técnicos que se pueden encontrar en la plataforma, ayudando al usuario a identificar qué profesionales puede contratar
 
-![Categorías de servicios](./img/Categorias.png)
+![Categorías de servicios](./assets/images/chapter-5/Categorias.png)
 
 Cómo funciona: Se explica el proceso paso a paso para utilizar la plataforma, tanto para trabajadores técnicos como para clientes
 
-![Cómo funciona](./img/ComoFunciona.png)
+![Cómo funciona](./assets/images/chapter-5/ComoFunciona.png)
 
 Testimonios: Esta sección muestra experiencias de usuarios reales que han utilizado la plataforma, generando confianza en nuevos visitantes
 
-![Testimonios](./img/Testimonios.png)
+![Testimonios](./assets/images/chapter-5/Testimonios.png)
 
 Estadísticas: Esta sección muestra con datos cuantitativos el impacto positivo de la plataforma en términos de usuarios registrados, servicios completados y satisfacción del cliente
 
-![Estadísticas](./img/Estadisticas.png)
+![Estadísticas](./assets/images/chapter-5/Estadisticas.png)
 
 Contacto: Formulario que permite a los usuarios enviar consultas o solicitudes directamente desde la landing page
 
-![Contacto](./img/Contacto.png)
+![Contacto](./assets/images/chapter-5/Contacto.png)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -202,6 +202,7 @@ Para este sprint no fue contemplada la evidencia de documentación de los servic
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa en Netlify. Se configuró para que la rama principal utilizada fuera "main", ubicada en la raíz, siguiendo una estructura organizada de carpetas y archivos.
 
-![Netifly deploy](./img/netifly-deploy.png)
+![Netifly deploy](./assets/images/chapter-5//netifly-deploy.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
