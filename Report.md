@@ -123,7 +123,7 @@ Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, 
 
 Mi nombre es Daniel Valdizán Grijalba, tengo 19 años y estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona que trabaja bien en equipo y maneja estar bajo presión. Me comprometo a apoyar de la mejor manera al grupo en este trabajo.
 
-<img src="assets/images/profile-pictures/DanielV.jpg"  width="180" />
+<img src="assets/images/profile-pictures/DanielV.PNG"  width="180" />
 
 
 ## 1.2. Solution Profile
