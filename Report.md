@@ -323,6 +323,9 @@ Datos del entrevistado:
 
 <img src="assets/images/ImgResources/Entrevista%20Jefry.png"/>
 
+Informe del resumen de la entrevista:
+
+Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, generalmente cuando tiene problemas con su laptop o el internet. Suele encontrar técnicos a través de recomendaciones de amigos o buscando en Facebook, aunque es más cuidadoso al hacerlo. Ha tenido malas experiencias con técnicos informales, por lo que ahora se fija en recomendaciones, precios y la experiencia antes de contratar. Le genera confianza que el técnico tenga buenas reseñas, un perfil serio y que demuestre conocimiento. Ha utilizado la app "Homy" para contratar servicios, valorando la verificación de técnicos y la facilidad de uso. Está dispuesto a pagar un precio más alto por un técnico verificado y prefiere comparar opciones antes de tomar una decisión para asegurarse de hacer una buena elección.
 
 
 
