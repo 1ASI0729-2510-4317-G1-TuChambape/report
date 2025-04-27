@@ -293,6 +293,30 @@ Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista1-Segmento1.PNG" width=800px />
 
+**Entrevista 2:**
+
+Nombre: Carlos Alberto Almeyda Romero
+Género: Masculino
+Edad: 47 años
+Distrito: Santa
+Duración: 09:27
+Inicio: 05:22
+Fin: 14:49
+Screenshot:
+
+<img src="assets/images/ImgResources/Entrevista2-Segmento1.PNG" width=800px />
+
+**Resumen:**
+Carlos, un técnico automotriz con 30 años de experiencia, trabaja de manera independiente después de haber sido parte de una empresa durante 20 años.
+Consigue clientes a través de recomendaciones y redes sociales.
+Aunque ha enfrentado casos de desconfianza de nuevos clientes, utiliza su experiencia para generar confianza explicando sus procesos de trabajo.
+Carlos utiliza Excel para gestionar su trabajo y cotizaciones.
+Cree que una plataforma que lo conecte con clientes podría ayudarle a expandir su alcance.
+Entre las funcionalidades que espera de la plataforma, menciona la opción de pago seguro y la posibilidad de ofrecer diagnósticos mediante videos del trabajo realizado en los autos, lo que aumenta la transparencia con el cliente.
+En cuanto a la información que debería incluir su perfil, destaca la importancia de mostrar su experiencia, los videos de trabajo realizados y las recomendaciones de otros clientes.
+Prefiere recibir solicitudes de clientes principalmente por WhatsApp y llamadas, ya que la mayoría de sus clientes lo contactan por estos medios, especialmente en la fase inicial de su negocio independiente.
+Él considera que la honestidad y la transparencia son clave para el éxito de su emprendimiento.
+
 #### Segmento 02: Usuarios que requieren servicios técnicos
 
 **Entrevista 1:**
