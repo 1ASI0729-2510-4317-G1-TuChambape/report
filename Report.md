@@ -282,13 +282,14 @@ Link de la grabación : <a href="https://upcedupe-my.sharepoint.com/:v:/g/person
 #### Segmento 01: Trabajadores Técnicos Independientes
 **Entrevista 1:**
 
-Nombre: Jorge Videla
-Género: Masculino
-Edad: 27 años
-Distrito: Lima, Perú
-Duración: 07:39
-Inicio: 22:06
-Fin: 29:28
+- Nombre: Jorge Videla
+- Género: Masculino
+- Edad: 27 años
+- Distrito: Lima, Perú
+- Duración: 07:39
+- Inicio: 22:06
+- Fin: 29:28
+
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista1-Segmento1.PNG" width=800px />
@@ -304,13 +305,14 @@ Finalmente, prefiere recibir solicitudes de clientes a través de mensajes en un
 
 **Entrevista 2:**
 
-Nombre: Carlos Alberto Almeyda Romero
-Género: Masculino
-Edad: 47 años
-Distrito: Santa
-Duración: 09:27
-Inicio: 12:36
-Fin: 22:06
+- Nombre: Carlos Alberto Almeyda Romero
+- Género: Masculino
+- Edad: 47 años
+- Distrito: Santa
+- Duración: 09:27
+- Inicio: 12:36
+- Fin: 22:06
+
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista2-Segmento1.PNG" width=800px />
@@ -328,13 +330,14 @@ Prefiere recibir solicitudes de clientes principalmente por WhatsApp y llamadas,
 
 **Entrevista 3:**
 
-Nombre: Fabiola Saldaña
-Género: Femenino
-Edad: 24 años
-Distrito: Surquillo
-Duración: 05:21
-Inicio: 29:28
-Fin: 34:49
+- Nombre: Fabiola Saldaña
+- Género: Femenino
+- Edad: 24 años
+- Distrito: Surquillo
+- Duración: 05:21
+- Inicio: 29:28
+- Fin: 34:49
+- 
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista3-Segmento1.PNG" width=800px />
@@ -398,13 +401,14 @@ Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, gener
 
 **Entrevista 3:**
 
-Nombre: Carol Vega
-Género: Femenino
-Edad: 39 años
-Distrito: El Agustino
-Duración: 5:20
-Inicio: 6:56
-Fin: 12:36
+- Nombre: Carol Vega
+- Género: Femenino
+- Edad: 39 años
+- Distrito: El Agustino
+- Duración: 5:20
+- Inicio: 6:56
+- Fin: 12:36
+  
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista3-Segmento2.PNG"/>
