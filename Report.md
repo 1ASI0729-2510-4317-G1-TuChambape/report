@@ -283,6 +283,25 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 
 #### Entrevistas segmento 02: Usuarios que requieren servicios técnicos
 
+**Entrevista 1:**
+
+Datos del entrevistador:
+
+- Nombres: Roy
+- Apellidos: Fernández Remón
+
+Datos del entrevistado:
+
+- Nombres: Maryori
+- Apellidos: Atanacio Cruces
+- Edad: 23
+- Distrito de Residencia: San Juan de Lurigancho
+- Enlace de la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdUeE7izJJBMn0vMLfylqa4BGsEBOuqfFs6dDLnIGrVBaQ?e=0sXdti)
+- Duración de la entrevista: 4:01
+
+<img src="assets/images/ImgResources/Entrevista%20Maryori.png"/>
+
+
 
 
 ## 2.3 Needfinding
