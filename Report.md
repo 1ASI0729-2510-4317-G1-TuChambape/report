@@ -280,8 +280,20 @@ Con el objetivo de comprender a profundidad las necesidades, expectativas y prob
 En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
 
 #### Segmento 01: Trabajadores Técnicos Independientes
+**Entrevista 1:**
 
-#### Entrevistas segmento 02: Usuarios que requieren servicios técnicos
+Nombre: Jorge Videla
+Género: Masculino
+Edad: 27 años
+Distrito: Lima, Perú
+Duración: 07:39
+Inicio: 14:50
+Fin: 22:29
+Screenshot:
+
+<img src="assets/images/ImgResources/Entrevista1-Segmento1.PNG" width=800px />
+
+#### Segmento 02: Usuarios que requieren servicios técnicos
 
 **Entrevista 1:**
 
