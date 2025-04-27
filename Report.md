@@ -206,4 +206,3 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa en N
 ![Netifly deploy](./assets/images/chapter-5/netifly-deploy.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-
