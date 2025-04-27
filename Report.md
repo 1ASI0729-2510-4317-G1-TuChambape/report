@@ -52,3 +52,32 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 #### Segmento 2: Usuarios que requieren servicios técnicos
 
 <img src="assets/images/ImageResources/Impact%20map%202.png"/>
+
+## 3.4. Product Backlog.
+
+| #Orden | User Story Id | Título                                 | Descripción                                                                                   | StoryPoints (1/2/3/5/8) |
+|-------:|--------------:|---------------------------------------|-----------------------------------------------------------------------------------------------|------------------------:|
+| 1      | US01          | Registro de nuevo usuario             | Como visitante quiero registrarme proporcionando email y contraseña para usar la plataforma.  |                       3 |
+| 2      | US02          | Inicio de sesión                      | Como usuario quiero iniciar sesión con mis credenciales para acceder a mi cuenta.            |                       3 |
+| 3      | US03          | Recuperación de contraseña            | Como usuario quiero restablecer mi contraseña si la olvido para recuperar el acceso.          |                       5 |
+| 4      | US04          | Creación de perfil técnico            | Como técnico quiero completar mis datos personales y experiencia para mostrar mi portafolio. |                       5 |
+| 5      | US05          | Subida de documentos de verificación  | Como técnico quiero subir mi DNI y certificaciones para ser un profesional verificado.       |                       5 |
+| 6      | US06          | Edición de perfil técnico             | Como técnico quiero modificar mis datos y portafolio para mantener mi perfil actualizado.    |                       3 |
+| 7      | US07          | Búsqueda por especialidad             | Como cliente quiero buscar técnicos por especialidad para encontrar el servicio adecuado.     |                       3 |
+| 8      | US08          | Filtrado por ubicación                | Como cliente quiero aplicar filtro de ubicación para ver técnicos cerca de mí.                |                       3 |
+| 9      | US09          | Filtrado por rango de precio          | Como cliente quiero filtrar técnicos por rango de precio para ajustarme a mi presupuesto.     |                       3 |
+| 10     | US10          | Búsqueda por nombre                   | Como cliente quiero buscar un técnico por nombre si ya conozco a alguien.                     |                       2 |
+| 11     | US11          | Selección de fecha y hora             | Como cliente quiero elegir fecha y hora en un calendario para mi servicio.                    |                       5 |
+| 12     | US12          | Confirmación de reserva               | Como cliente quiero confirmar mi reserva y recibir comprobante.                               |                       3 |
+| 13     | US13          | Cancelación de reserva                | Como cliente quiero cancelar una reserva antes del servicio sin penalidad.                    |                       3 |
+| 14     | US14          | Historial de reservas                 | Como cliente quiero ver un historial de mis servicios contratados.                            |                       3 |
+| 15     | US15          | Integración con pasarela de pago      | Como cliente quiero pagar con tarjeta o billetera digital de forma segura.                    |                       8 |
+| 16     | US16          | Generación de recibo digital          | Como cliente quiero recibir un comprobante PDF tras el pago.                                  |                       5 |
+| 17     | US17          | Gestión de métodos de pago            | Como usuario quiero agregar, editar y eliminar mis métodos de pago.                           |                       5 |
+| 18     | US18          | Calificar técnico                      | Como cliente quiero asignar una puntuación al técnico tras el servicio.                       |                       3 |
+| 19     | US19          | Dejar comentario en reseña            | Como cliente quiero añadir un comentario para describir mi experiencia.                        |                       3 |
+| 20     | US20          | Visualizar calificaciones             | Como cliente quiero ver la calificación promedio de un técnico antes de contratarlo.          |                       2 |
+| 21     | US21          | Notificación de nuevas solicitudes    | Como técnico quiero recibir alertas en tiempo real de nuevos pedidos de servicio.             |                       5 |
+| 22     | US22          | Chat interno entre técnico y cliente   | Como usuario quiero comunicarme con el otro para coordinar detalles del servicio.             |                       8 |
+| 23     | US23          | Recordatorio de servicio vía notificación | Como cliente quiero recibir recordatorios previos a la cita para no olvidarla.           |                       5 |
+

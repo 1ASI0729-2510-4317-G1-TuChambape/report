@@ -237,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745749251399</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feat(IM2): add Impact map 2">
+      <option name="closed" value="true" />
+      <created>1745749674658</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1745749674658</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +276,8 @@
     <MESSAGE value="feat(TB): add information in To Be Scenario Mapping" />
     <MESSAGE value="feat(US): add user stories" />
     <MESSAGE value="feat(IM): add Impact map 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(IM): add Impact map 1" />
+    <MESSAGE value="feat(IM2): add Impact map 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(IM2): add Impact map 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
