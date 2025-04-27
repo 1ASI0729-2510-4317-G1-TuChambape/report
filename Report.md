@@ -346,6 +346,46 @@ Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, gener
 
 **Frecuencia promedio estimada:** Cada 5 meses.
 
+#### - Medios Utilizados para Encontrar Técnicos
+
+- **Recomendaciones de amigos o familiares:** 100%
+- **Búsqueda en redes sociales (Facebook y Marketplace):** 100%
+
+#### - Experiencias con Técnicos Informales
+
+- Ambos entrevistados han tenido **malas experiencias** (100%):
+    - Problemas no resueltos o empeorados.
+    - Falta de garantía posterior al servicio.
+
+#### - Criterios para Elegir Técnicos
+
+| Criterio                     | % de Entrevistados que lo Consideran Importante |
+|:-------------------------------|:-----------------------------------------------|
+| Recomendaciones                | 100% |
+| Reseñas o comentarios positivos| 100% |
+| Precio                         | 100% |
+| Experiencia previa             | 50% (mencionado explícitamente por Jefry) |
+
+#### - Información que Genera Confianza
+
+- Buenas reseñas reales.
+- Perfil profesional y bien presentado.
+- Identificación o documento de respaldo.
+- Atención rápida y formal.
+
+#### - Uso de Apps o Plataformas
+
+- Ambos han usado **Homy** para contratar servicios técnicos verificados.
+- **Motivo:** Verificación de técnicos y respaldo de la plataforma en caso de problemas.
+
+#### - Disposición a Pagar Más por Técnicos Verificados
+
+- 100% de los entrevistados están dispuestos a pagar un precio más alto si el técnico es verificado.
+
+#### - Método de Decisión al Contratar
+
+- Ambos prefieren **comparar varias opciones** antes de decidir contratar.
+
 
 
 ## 2.3 Needfinding
