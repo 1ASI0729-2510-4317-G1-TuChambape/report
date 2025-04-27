@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a9e4d8-1e6b-46e3-9697-56de0478d6ee" name="Changes" comment="" />
+    <list default="true" id="80a9e4d8-1e6b-46e3-9697-56de0478d6ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Report.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745744154672</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat(TB): add information in To Be Scenario Mapping">
+      <option name="closed" value="true" />
+      <created>1745745735828</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1745745735828</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +250,8 @@
     <MESSAGE value="feat(Analisis2): add more information in analisis of interviews" />
     <MESSAGE value="feat(Analisis3): add review of interviews in analisis section" />
     <MESSAGE value="feat(first): Its my first commit in branch 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(first): Its my first commit in branch 3" />
+    <MESSAGE value="feat(TB): add information in To Be Scenario Mapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(TB): add information in To Be Scenario Mapping" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
