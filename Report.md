@@ -386,6 +386,27 @@ Jefry Prado Remón requiere servicios técnicos cada cuatro o cinco meses, gener
 
 - Ambos prefieren **comparar varias opciones** antes de decidir contratar.
 
+#### - Resumen Rápido
+
+| Aspecto Evaluado                         | % de Coincidencia entre Entrevistados |
+|:-----------------------------------------|:--------------------------------------|
+| Viven en San Juan de Lurigancho           | 100% |
+| Edad promedio joven (23-24 años)          | 100% |
+| Requieren servicio cada 4-6 meses         | 100% |
+| Usan redes sociales y contactos           | 100% |
+| Han tenido malas experiencias             | 100% |
+| Buscan técnicos con buenas referencias    | 100% |
+| Han usado apps como Homy                  | 100% |
+| Dispuestos a pagar más por verificación   | 100% |
+| Prefieren comparar antes de contratar     | 100% |
+
+#### - Conclusiones del Análisis
+
+- Los entrevistados pertenecen a un **segmento joven-adulto urbano**, altamente activo digitalmente y con desconfianza hacia servicios informales.
+- Existe una **alta preferencia por técnicos verificados**, incluso a costa de pagar un precio más alto.
+- **Facebook** sigue siendo un canal importante para encontrar técnicos, aunque las **plataformas especializadas** están ganando preferencia.
+- La forma de contratar es **reflexiva y comparativa**, no impulsiva.
+
 
 
 ## 2.3 Needfinding
