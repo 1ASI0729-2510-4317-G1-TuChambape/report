@@ -113,6 +113,12 @@ Mi nombre es Eduardo Cossar. Soy estudiante de la carrera de Ingeniería de Soft
 
 <img src="https://files.catbox.moe/v1iqn9.png" alt="gael image" width="200"> 
 
+#### 1.1.2.4 Roy Fernández Remón
+
+Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.
+
+<img src="assets/images/profile-pictures/Roy%20Fernandez%20Remon.jpg"  width="180" />
+
 
 ## 1.2. Solution Profile
 
