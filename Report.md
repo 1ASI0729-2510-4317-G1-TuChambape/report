@@ -276,7 +276,8 @@ Con el objetivo de comprender a profundidad las necesidades, expectativas y prob
 
 ### 2.2.2. Registro de entrevistas
 
-En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
+Link de la grabación : <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313397_upc_edu_pe/EfFiVNLecsRFhBVuapqPFY8BQ-eBSanNyg_cHUXJrR1WWw?e=zOfNFQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevistas TuChambape </a>
+
 
 #### Segmento 01: Trabajadores Técnicos Independientes
 **Entrevista 1:**
