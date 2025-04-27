@@ -287,8 +287,8 @@ Género: Masculino
 Edad: 27 años
 Distrito: Lima, Perú
 Duración: 07:39
-Inicio: 14:50
-Fin: 22:29
+Inicio: 22:06
+Fin: 29:28
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista1-Segmento1.PNG" width=800px />
@@ -309,8 +309,8 @@ Género: Masculino
 Edad: 47 años
 Distrito: Santa
 Duración: 09:27
-Inicio: 05:22
-Fin: 14:49
+Inicio: 12:36
+Fin: 22:06
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista2-Segmento1.PNG" width=800px />
@@ -333,8 +333,8 @@ Género: Femenino
 Edad: 24 años
 Distrito: Surquillo
 Duración: 05:21
-Inicio: 00:51
-Fin: 05:21
+Inicio: 29:28
+Fin: 34:49
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista3-Segmento1.PNG" width=800px />
@@ -402,9 +402,9 @@ Nombre: Carol Vega
 Género: Femenino
 Edad: 39 años
 Distrito: El Agustino
-Duración: 5:21
-Inicio: 0:00
-Fin: 5:21
+Duración: 5:20
+Inicio: 6:56
+Fin: 12:36
 Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista3-Segmento2.PNG"/>
