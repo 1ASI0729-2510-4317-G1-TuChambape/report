@@ -2014,3 +2014,30 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa en N
 ![Netifly deploy](./assets/images/chapter-5/netifly-deploy.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+![Insights](./assets/images/chapter-5/Insights.PNG)
+
+# Conclusiones
+
+*6.1 Conclusiones y Recomendaciones*
+
+*Conclusiones*  
+El proyecto Chamba.pe reveló una necesidad real y no satisfecha en el mercado de la contratación de servicios, particularmente en el sector de la tecnología, relacionado con la gestión eficiente de perfiles de trabajadores.
+
+La colaboración interdisciplinaria dentro del equipo de desarrollo fue esencial para abordar el proyecto de manera integral, combinando habilidades técnicas, de diseño y análisis de usuarios.
+
+El uso de metodologías ágiles (Scrum), la documentación detallada y una arquitectura basada en dominios garantizaron que la solución fuera escalable y mantenible.
+
+El avance en el desarrollo de Chamba.pe ha reforzado la comprensión del ciclo completo de diseño y desarrollo de plataformas digitales, desde la investigación de usuarios hasta la implementación y despliegue.
+
+Se ha logrado un progreso significativo en la creación de una base sólida, tanto conceptual como técnica, que permitirá un desarrollo más ágil en las siguientes fases del proyecto.
+
+*Recomendaciones*  
+- Ampliar la validación de las necesidades del usuario utilizando métodos adicionales, como encuestas o pruebas de concepto, para fortalecer la base de diseño centrada en el usuario.
+
+- Asegurar una documentación más detallada de las decisiones de diseño y arquitectura, para facilitar la comprensión del proyecto por parte de los evaluadores y compañeros de clase.
+
+- Evaluar críticamente los avances realizados, comparándolos con los entregables definidos en el sílabo del curso, garantizando que cada parte del proyecto cumpla con los criterios de evaluación establecidos.
+
+
+
