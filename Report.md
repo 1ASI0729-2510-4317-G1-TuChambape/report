@@ -326,6 +326,30 @@ En cuanto a la información que debería incluir su perfil, destaca la importanc
 Prefiere recibir solicitudes de clientes principalmente por WhatsApp y llamadas, ya que la mayoría de sus clientes lo contactan por estos medios, especialmente en la fase inicial de su negocio independiente.
 Él considera que la honestidad y la transparencia son clave para el éxito de su emprendimiento.
 
+**Entrevista 3:**
+
+Nombre: Fabiola Saldaña
+Género: Femenino
+Edad: 24 años
+Distrito: Surquillo
+Duración: 05:21
+Inicio: 00:51
+Fin: 05:21
+Screenshot:
+
+<img src="assets/images/ImgResources/Entrevista3-Segmento1.PNG" width=800px />
+
+**Resumen:**
+Fabiola, una profesora freelance con 10 años de experiencia enseñando inglés, trabaja de manera independiente luego de haber sido parte de una academia durante 6 años.
+Consigue estudiantes a través de recomendaciones, redes sociales y plataformas educativas.
+Aunque ha enfrentado dudas de nuevos alumnos sobre la efectividad de sus clases, utiliza su experiencia para generar confianza ofreciendo clases demostrativas y mostrando avances de otros estudiantes.
+Fabiola utiliza Excel y Google Calendar para gestionar su agenda y pagos.
+Cree que una plataforma que la conecte con más alumnos podría ayudarle a ampliar su clientela.
+Entre las funcionalidades que espera de la plataforma, menciona la opción de clases en línea integradas, pagos seguros y la posibilidad de mostrar fragmentos de sus clases para que los futuros estudiantes puedan ver su método de enseñanza.
+En su perfil considera fundamental destacar su experiencia, certificaciones, testimonios de alumnos satisfechos y videos cortos de sus clases.
+Prefiere recibir solicitudes de clases principalmente por WhatsApp y correo electrónico, ya que son los canales donde organiza sus primeras entrevistas y seguimiento con potenciales alumnos.
+Fabiola considera que la paciencia, la personalización del aprendizaje y la transparencia en el avance del alumno son claves para el éxito de su trabajo independiente.
+
 #### Segmento 02: Usuarios que requieren servicios técnicos
 
 **Entrevista 1:**
