@@ -263,7 +263,7 @@ Para que el usuario tenga una experiencia fluida, se han implementado dos tipos 
 
   En la web se presenta un menú de navegación superior fijo, que se extiende horizontalmente en la parte superior de la página. Este menú ofrece un acceso organizado y visualmente limpio a las secciones principales del sitio:
 
-  - **¿Cómo funciona?:** Guía paso a paso sobre cómo usar JobConnect, orientada tanto a técnicos como a clientes.
+  - **¿Cómo funciona?:** Guía paso a paso sobre cómo usar TuChambape, orientada tanto a técnicos como a clientes.
 
   - **Servicios:** Descripción de los profesionales en diversas áreas técnicas que se encuentran en la plataforma.
 
@@ -273,9 +273,9 @@ Para que el usuario tenga una experiencia fluida, se han implementado dos tipos 
 
   - **Iniciar sesión:** Botón destacado para que los usuarios existentes accedan rápidamente a la aplicación.
 
-  - **Registrarse:** Llamado a la acción claro y visible para nuevos usuarios que desean unirse a JobConnect.
+  - **Registrarse:** Llamado a la acción claro y visible para nuevos usuarios que desean unirse a TuChambape.
 
-- **Menú de navegación de JobConnect:**
+- **Menú de navegación de TuChambape:**
 
   En la plataforma, los usuarios cuentan con un menú de navegación lateral fijo a la izquierda. Este menú permite el acceso directo a las funcionalidades principales según el tipo de usuario (cliente o trabajador). Las secciones incluyen:
 
@@ -368,7 +368,7 @@ A continuación, se evidencia el aspecto que TuChambape tendría al ser empleada
 
 ### 4.4. Web Applications UX/UI Design
 
-En el diseño de la interfaz de usuario de nueestra aplicación web "JobConnect", nos enfocamos en ofrecer una experiencia intuitiva, eficiente y visualmente atractiva. Asimismo, seguimos las guías de diseño para optimizar el rendimiento y garantizar que cada parte de la aplicación se adapte de manera fluida a los clientes y trabajadores.
+En el diseño de la interfaz de usuario de nueestra aplicación web "TuChambape", nos enfocamos en ofrecer una experiencia intuitiva, eficiente y visualmente atractiva. Asimismo, seguimos las guías de diseño para optimizar el rendimiento y garantizar que cada parte de la aplicación se adapte de manera fluida a los clientes y trabajadores.
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -479,7 +479,7 @@ En el diseño de la interfaz de usuario de nueestra aplicación web "JobConnect"
 
 ### 4.4.2. Web Applications Wireflows Diagrams
 
-En los Wireflow Diagrams de la plataforma JobConnect, se visualiza el recorrido completo que realiza el usuario, desde el registro hasta la utilización de todas las funciones disponibles. El flujo muestra cómo el usuario interactúa con la app en cada etapa, asegurando una experiencia intuitiva y fluida.
+En los Wireflow Diagrams de la plataforma TuChambape, se visualiza el recorrido completo que realiza el usuario, desde el registro hasta la utilización de todas las funciones disponibles. El flujo muestra cómo el usuario interactúa con la app en cada etapa, asegurando una experiencia intuitiva y fluida.
 
 ### User Persona
 
@@ -493,7 +493,7 @@ Para finales del primer trimestre de 2024, Juan podrá encontrar trabajos dispon
 
 ### Task Flow
 
-1. **Abrir la plataforma JobConnect**
+1. **Abrir la plataforma TuChambape**
 
    - **Acción:** Juan usa la plataforma
    - **Propósito:** Accede al apartado de Buscar Ofertas donde se muestran los trabajos disponibles
@@ -522,7 +522,7 @@ Para finales del primer trimestre de 2024, Juan podrá encontrar trabajos dispon
    - **Propósito:** Ofrecer el servicio pedido por el cliente.
    - **Resultado esperado:** Juan termina el trabajo y puede reseñar la obra.
 
-_Flujo de tareas para postularse a una oferta en la plataforma JobConnect_
+_Flujo de tareas para postularse a una oferta en la plataforma TuChambape_
 
 <img src="https://files.catbox.moe/rcv4rr.png" alt="angie image" width="900">
 
@@ -652,9 +652,9 @@ https://www.figma.com/design/py3rabYJzPcLJN8k0b92su/Aplicaciones-Web?node-id=0-1
 
 ### 4.4.4. Web Applications Wireflows User Flow Diagrams
 
-En el User Flow de JobConnect, se detalla el _happy path_ que sigue Juan, el electricista, para lograr su objetivo principal de encontrar una oferta que satisfaga sus preferencias. Este flujo asegura una experiencia de usuario clara y eficiente, facilitando el acceso a la información crítica y postularse a ofertas de manera sencilla. Cada paso ilustra como Juan interactúa con la aplicación sin encontrar obstáculos, desde el inicio de sesión hasta postularse a una oferta y culminarla.
+En el User Flow de TuChambape, se detalla el _happy path_ que sigue Juan, el electricista, para lograr su objetivo principal de encontrar una oferta que satisfaga sus preferencias. Este flujo asegura una experiencia de usuario clara y eficiente, facilitando el acceso a la información crítica y postularse a ofertas de manera sencilla. Cada paso ilustra como Juan interactúa con la aplicación sin encontrar obstáculos, desde el inicio de sesión hasta postularse a una oferta y culminarla.
 
-1. **Inicio de sesión en JobConnect**
+1. **Inicio de sesión en TuChambape**
 
    - **Página:** Pantalla de inicio de sesión
    - **Acción:** Juan abre la plataforma e ingresa sus credenciales para acceder.
@@ -702,7 +702,7 @@ En el User Flow de JobConnect, se detalla el _happy path_ que sigue Juan, el ele
    - **Lógica:** La plataforma muestra la sección Finalizado y permite reseñar o culminar el trabajo.
    - **Resultado:** Juan reseña el trabajo que realizó y al cliente.
 
-_Ahora procederemos a mostrar el User Flow Diagram de JobConnect, detallando el happy path que sigue Juan, el electricista, para postularse a una oferta y culminarla de la manera más rápida y eficiente._
+_Ahora procederemos a mostrar el User Flow Diagram de TuChambape, detallando el happy path que sigue Juan, el electricista, para postularse a una oferta y culminarla de la manera más rápida y eficiente._
 
 <img src="img/foto1.jpg"  width="100%">
 
