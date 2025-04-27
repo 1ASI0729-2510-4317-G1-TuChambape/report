@@ -293,6 +293,15 @@ Screenshot:
 
 <img src="assets/images/ImgResources/Entrevista1-Segmento1.PNG" width=800px />
 
+**Resumen:**
+Jorge es un desarrollador web independiente con un año de experiencia.
+Principalmente, consigue clientes a través de redes sociales, especialmente el Marketplace de Facebook. En su último trabajo, enfrentó desconfianza de un cliente, lo que lo llevó a reunirse presencialmente para explicar el proyecto y generar mayor confianza, ofreciendo un precio más bajo.
+Utiliza su laptop Asus para desarrollar los sitios web y su teléfono para la gestión del marketing y ventas.
+En cuanto a las funcionalidades que esperaría de una plataforma que lo conecte con clientes, sugiere la opción de publicar solicitudes de manera privada.
+Además, destacaría la posibilidad de adjuntar archivos o documentos como portafolios para mostrar su experiencia.
+Su estilo de trabajo es flexible, controlando sus tiempos, ya que no está sujeto a un horario estricto.
+Finalmente, prefiere recibir solicitudes de clientes a través de mensajes en una aplicación dedicada.
+
 **Entrevista 2:**
 
 Nombre: Carlos Alberto Almeyda Romero
