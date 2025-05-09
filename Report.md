@@ -350,7 +350,7 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
     </tr>
     <tr>
       <th></th>
-      <th>JobConnect</th>
+      <th>JobI</th>
       <th>Chambea</th>
       <th>Workana</th>
       <th>Clic</th>
@@ -413,7 +413,7 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
   <thead>
     <tr>
       <th></th>
-      <th>JobConnect</th>
+      <th>JobI</th>
       <th>Chambea</th>
       <th>Workana</th>
       <th>Clic</th>
