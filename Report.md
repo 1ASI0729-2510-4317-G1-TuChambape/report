@@ -110,7 +110,7 @@ Mi nombre es Eduardo Cossar. Soy estudiante de la carrera de Ingeniería de Soft
 
 
 #### 1.1.2.3 Alejandro Daniel Oroncoy Almeyda
->Mi nombre es Alejandro Oroncoy. Tengo 19 años, soy estudiante de la carrera de ingeniería de software, estoy en 5to ciclo. Me considero una persona proactiva, autodidacta y orientada a objetivos. 
+Mi nombre es Alejandro Oroncoy. Tengo 19 años, soy estudiante de la carrera de ingeniería de software, estoy en 5to ciclo. Me considero una persona proactiva, autodidacta y orientada a objetivos. 
 
 <img src="https://files.catbox.moe/v1iqn9.png" alt="gael image" width="200"> 
 
