@@ -138,7 +138,7 @@ Lean UX
 
 ### 1.2.1 Antecedentes y problemática
 
-En el Perú, una gran cantidad de trabajadores técnicos ofrecen sus servicios de manera informal, sin una plataforma que los respalde ni que facilite su visibilidad profesional. Esto genera desconfianza entre los clientes, dificulta el crecimiento de estos profesionales y reduce las oportunidades de empleo de calidad. JobI surge como una solución digital que busca formalizar esta relación, conectando a técnicos con clientes de forma segura, eficiente y profesional.
+En el Perú, una gran cantidad de trabajadores técnicos ofrecen sus servicios de manera informal, sin una plataforma que los respalde ni que facilite su visibilidad profesional. Esto genera desconfianza entre los clientes, dificulta el crecimiento de estos profesionales y reduce las oportunidades de empleo de calidad. TuChambaPE surge como una solución digital que busca formalizar esta relación, conectando a técnicos con clientes de forma segura, eficiente y profesional.
 
 **What (Qué)**
 
@@ -148,7 +148,7 @@ El problema principal es la falta de una plataforma especializada que conecte de
 
 ##### ¿Cuál es la relación con la persona en cuestión?
 
-JobI busca resolver este problema proporcionando una plataforma digital que conecte a técnicos verificados con clientes en busca de servicios confiables. A través de la digitalización del proceso de búsqueda, solicitud y pago, JobI no solo mejora la experiencia del cliente, sino que también permite a los trabajadores técnicos formalizar sus servicios, aumentar su visibilidad y acceder a más oportunidades laborales. Según un informe del BID (2021), las plataformas digitales que promueven el empleo formal pueden incrementar hasta en 40% los ingresos de trabajadores independientes en América Latina.
+TuChambaPE busca resolver este problema proporcionando una plataforma digital que conecte a técnicos verificados con clientes en busca de servicios confiables. A través de la digitalización del proceso de búsqueda, solicitud y pago, TuChambaPE no solo mejora la experiencia del cliente, sino que también permite a los trabajadores técnicos formalizar sus servicios, aumentar su visibilidad y acceder a más oportunidades laborales. Según un informe del BID (2021), las plataformas digitales que promueven el empleo formal pueden incrementar hasta en 40% los ingresos de trabajadores independientes en América Latina.
 
 
 **Who (Quién)**
@@ -179,7 +179,7 @@ El problema se presenta cada vez que un cliente requiere un servicio técnico y 
 
 ##### ¿Cuándo utiliza el cliente el producto?
 
-El cliente utilizaría JobI al momento de necesitar un servicio técnico específico. La plataforma permitirá buscar por tipo de servicio, ubicación y disponibilidad. Del lado del técnico, el producto será utilizado tanto para gestionar sus citas como para visualizar reseñas, actualizar su disponibilidad y recibir pagos.
+El cliente utilizaría TuChambaPe al momento de necesitar un servicio técnico específico. La plataforma permitirá buscar por tipo de servicio, ubicación y disponibilidad. Del lado del técnico, el producto será utilizado tanto para gestionar sus citas como para visualizar reseñas, actualizar su disponibilidad y recibir pagos.
 
 **Why (Por qué)**
 
@@ -205,7 +205,7 @@ Un estudio de la CAF (Banco de Desarrollo de América Latina, 2021), indica que 
 
 ### 1.2.2. Lean UX Process
 
-El Lean UX es un enfoque de diseño centrado en la colaboración, la retroalimentación continua y la mejora iterativa. Se enfoca en construir productos útiles y funcionales desde etapas tempranas, validando constantemente las ideas con los usuarios reales. En el caso de JobI, este enfoque es esencial para crear una plataforma eficiente y confiable que conecte a trabajadores técnicos con clientes que necesitan servicios de calidad.
+El Lean UX es un enfoque de diseño centrado en la colaboración, la retroalimentación continua y la mejora iterativa. Se enfoca en construir productos útiles y funcionales desde etapas tempranas, validando constantemente las ideas con los usuarios reales. En el caso de TuChambaPE, este enfoque es esencial para crear una plataforma eficiente y confiable que conecte a trabajadores técnicos con clientes que necesitan servicios de calidad.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
@@ -223,7 +223,7 @@ Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de trab
 
 #### 1.2.2.2. Lean UX Assumptions
 
-JobI está diseñado para facilitar el contacto entre trabajadores técnicos e independientes y personas que necesitan servicios confiables en el hogar o el negocio. Asumimos que la plataforma debe ser intuitiva, permitir mostrar portafolios y valoraciones, y ofrecer filtros eficientes para encontrar al profesional adecuado.
+TuChambaPE está diseñado para facilitar el contacto entre trabajadores técnicos e independientes y personas que necesitan servicios confiables en el hogar o el negocio. Asumimos que la plataforma debe ser intuitiva, permitir mostrar portafolios y valoraciones, y ofrecer filtros eficientes para encontrar al profesional adecuado.
 
 #### a. Assumption Worksheet
 
@@ -252,7 +252,7 @@ Debe tener un diseño simple, visual y amigable. Fluido, con perfiles claros, fi
 
 #### b. Business Outcomes
 
-- JobI se posicionará como una plataforma confiable para contratar servicios técnicos.  
+- TuChambaPE se posicionará como una plataforma confiable para contratar servicios técnicos.  
 - Aumentará el número de trabajadores técnicos formales registrados en el país.  
 - Reducirá la tasa de clientes insatisfechos al contar con perfiles verificados.  
 - Generará ingresos por comisiones y suscripciones premium para técnicos.  
@@ -269,12 +269,12 @@ Debe tener un diseño simple, visual y amigable. Fluido, con perfiles claros, fi
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 **Hipótesis 1:**  
-Creemos que los trabajadores técnicos aumentarán su visibilidad y número de contrataciones al crear un perfil profesional en JobI.  
+Creemos que los trabajadores técnicos aumentarán su visibilidad y número de contrataciones al crear un perfil profesional en TuChambaPE.  
 _Sabremos que estamos en lo correcto cuando, en los primeros 3 meses, al menos el 60% de los técnicos registrados reporten haber conseguido nuevos clientes a través de la plataforma._
 
 **Hipótesis 2:**  
 Creemos que los clientes se sentirán más seguros al contratar técnicos con perfiles verificados y reseñas visibles.  
-_Sabremos que estamos en lo correcto cuando el 70% de los usuarios encuestados manifiesten sentirse más confiados al contratar mediante JobI que por medios tradicionales._
+_Sabremos que estamos en lo correcto cuando el 70% de los usuarios encuestados manifiesten sentirse más confiados al contratar mediante TuChambaPE que por medios tradicionales._
 
 **Hipótesis 3:**  
 Creemos que incluir un sistema de calificaciones y comentarios mejorará la calidad del servicio prestado por los técnicos.  
@@ -285,7 +285,7 @@ Creemos que permitir a los clientes filtrar técnicos por especialidad, ubicaci�
 _Sabremos que estamos en lo correcto cuando el tiempo promedio que toma contratar a un técnico se reduzca en un 40%._
 
 **Hipótesis 5:**  
-Creemos que ofrecer una versión móvil optimizada de JobI aumentará la frecuencia de uso y retención.  
+Creemos que ofrecer una versión móvil optimizada de TuChambaPE aumentará la frecuencia de uso y retención.  
 _Sabremos que estamos en lo correcto cuando el 80% de los usuarios activos utilicen la app desde el celular y la tasa de retención mensual supere el 50%._
 
 #### 1.2.2.4. Lean UX Canva
@@ -350,7 +350,7 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
     </tr>
     <tr>
       <th></th>
-      <th>JobI</th>
+      <th>TuChambaPE</th>
       <th>Chambea</th>
       <th>Workana</th>
       <th>Clic</th>
@@ -413,7 +413,7 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
   <thead>
     <tr>
       <th></th>
-      <th>JobI</th>
+      <th>TuChambaPE</th>
       <th>Chambea</th>
       <th>Workana</th>
       <th>Clic</th>
