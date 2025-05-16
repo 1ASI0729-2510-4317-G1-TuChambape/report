@@ -37,6 +37,7 @@
 | Daniel Valdizan Grijalba             | u202311566 |
 | Roy Linsh Fernandez Remon  | u20221b778 |
 | Jonseck Choque, Oliver | U202312912 |
+| Oroncoy Almeyda, Alejandro Daniel | U202313397 |
 
 
 </div>
@@ -45,10 +46,10 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :---- | :---- | :---- | :---- |
-| 1.0 | 22/04/2025 | Cossar, Mora, Valdizan, Jonseck, Fernandez | Creación del documento Markdown |
-| 1.1 | 22/04/2025 | Mora |Creacion y Organizacion de la presentacion del informe. |
+| Version | Fecha      | Autor                                          | Descripción de modificación                                                |
+| ------- | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------- |
+| 1ra     | 25/04/2025 | Oroncoy, Mora, Valdizan, Fernandez, Jonseck | TB1: Se realizo los capitulos 1, 2, 3, 4 y el primer sprint del capitulo 5 |
+| 2da     | 15/05/2025 | Oroncoy, Mora, Valdizan, Fernandez, Jonseck | TP1: Se realizo el segundo sprint del capitulo 5 y las vistas de la aplicacion a partir de sus bounded context con angular |
 
 # Project Report Collaboration Insights
 
@@ -56,13 +57,14 @@
 
 Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
 
-| Integrante | Tareas Asignadas |
-| :---- | :---- |
-|  |  |
-| |  |
-|  |  |
-|	 | |
-|  | |
+| Integrantes            | Tareas Asignadas                                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Oliver Jonseck            |    Realizo las vistas de iniciar sesion, registrarse y recuperar contraseña                                                                          |
+| Diego Mora          |  Realizo las vistas de buscar tecnico para el cliente y el apartado del pago de los planes para el tecnico|
+|Roy Fernandez         |  Realizo el inicio para el cliente y el trabajador, tambien hizo la vista buscar oferta                                                                                                      |
+| Alejandro Oroncoy      |   Realizo las vistas de todo el apartado de ofertas para el cliente y para el trabajador                                                                         |
+| Eduardo Cossar         |   Realizo la vista de comparar perfiles de tecnicos y las vistas de la configuracion y el perfil para el trabajador                    |
+| Daniel Valdizan |   Realizo la vista de configuracion y perfil para el cliente                                    |
 
 
 # Tabla de contenidos
@@ -81,13 +83,13 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-# Student Outcomes
-
 **Student Outcome 3**
 
 | Criterio específico                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Capacidad de comunicarse efectivamente con un rango de audiencias.   | **TB1**<br><br>**Alejandro Oroncoy:** Durante el desarrollo del TB1, participé activamente en las reuniones grupales, donde compartí mis ideas y opiniones de forma oral. Además, colaboré en la redacción del documento, asegurándome de que todas las decisiones acordadas fueran plasmadas de manera clara y precisa.<br><br>**Roy Fernandez:** En el TB1, trabajé junto al equipo expresando mis propuestas durante las reuniones y escuchando las opiniones de los demás. También contribuí a la elaboración escrita del informe, donde dejamos constancia de las decisiones tomadas de manera colaborativa.<br><br>**Diego Mora:** Mi aporte en el TB1 se basó en mantener una comunicación fluida con el equipo, participando de manera activa en cada reunión. Posteriormente, ayudé en la redacción del documento, organizando las ideas de forma ordenada para una mejor comprensión de los acuerdos alcanzados.<br><br>**Eduardo Cossar:** Para el TB1, intervine en las reuniones grupales proponiendo ideas y discutiendo alternativas con mis compañeros. Asimismo, participé en la redacción del documento final, reflejando correctamente el consenso logrado entre todos.<br><br>**Daniel Valdizan:** Durante la preparación del TB1, contribuí expresando mis puntos de vista y escuchando las sugerencias de los demás en las reuniones orales. También colaboré en la comunicación escrita, detallando de forma clara las decisiones que se tomaron en equipo.<br><br>**Oliver Jonseck:** En el desarrollo del TB1, trabajé activamente en las reuniones, aportando ideas de forma oral y respetando las opiniones del grupo. Además, participé en la elaboración del documento escrito, asegurándome de que cada acuerdo estuviera debidamente registrado. | **TB1**<br>Para la TB1, el equipo trabajó colaborativamente y se logró una participación activa de cada uno de los integrantes. Se realizaron reuniones grupales en la que cada miembro compartió sus ideas de manera oral o escrita y, a partir de ello, se logró una toma de decisiones en conjunto la cual benefició al equipo en la toma de decisiones y en la ejecución de tareas. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **TB1**<br><br>**Oliver Jonseck:** Durante el desarrollo del TB1, participé activamente en las reuniones grupales, donde compartí mis ideas y opiniones de forma oral. Además, colaboré en la redacción del documento, asegurándome de que todas las decisiones acordadas fueran plasmadas de manera clara y precisa.<br><br>**Diego Mora :** En el TB1, trabajé junto al equipo expresando mis propuestas durante las reuniones y escuchando las opiniones de los demás. También contribuí a la elaboración escrita del informe, donde dejamos constancia de las decisiones tomadas de manera colaborativa.<br><br>**Roy Fernandez :** Mi aporte en el TB1 se basó en mantener una comunicación fluida con el equipo, participando de manera activa en cada reunión. Posteriormente, ayudé en la redacción del documento, organizando las ideas de forma ordenada para una mejor comprensión de los acuerdos alcanzados.<br><br>**Eduardo Cossar:** Para el TB1, intervine en las reuniones grupales proponiendo ideas y discutiendo alternativas con mis compañeros. Asimismo, participé en la redacción del documento final, reflejando correctamente el consenso logrado entre todos.<br><br>**Alejandro Oroncoy :** Durante la preparación del TB1, contribuí expresando mis puntos de vista y escuchando las sugerencias de los demás en las reuniones orales. También colaboré en la comunicación escrita, detallando de forma clara las decisiones que se tomaron en equipo.<br><br>**Daniel Valdizan :** En el desarrollo del TB1, trabajé activamente en las reuniones, aportando ideas de forma oral y respetando las opiniones del grupo. Además, participé en la elaboración del documento escrito, asegurándome de que cada acuerdo estuviera debidamente registrado. <br><br>**TP1**<br><br>**Diego Mora** presentó en la reunión de equipo las vistas de “Iniciar sesión”, “Registrarse” y “Recuperar contraseña”, explicando el flujo de navegación y los mensajes de validación.<br> **Daniel Valdizan:** expuso la lógica y el diseño de la vista de “Buscar técnico” para el cliente y detalló el proceso de pago de los planes para el técnico.<br> **Roy Fernandez:** describió ante el grupo el diseño de las pantallas de inicio para cliente y trabajador, así como la funcionalidad de “Buscar oferta”.<br> **Oliver Jonseck** explicó el comportamiento y la estructura de todas las vistas de ofertas, tanto para el cliente como para el trabajador.<br> **Eduardo Cossar** mostró las pantallas de “Comparar perfiles de técnicos” y las vistas de configuración y perfil del trabajador, respondiendo preguntas sobre casos de uso.<br> **Alejandro Oroncoy:** presentó las vistas de configuración y perfil del cliente, aclarando estilos CSS y componentes reusables. |**TB1**<br>Para la TB1, el equipo trabajó colaborativamente y se logró una participación activa de cada uno de los integrantes. Se realizaron reuniones grupales en la que cada miembro compartió sus ideas de manera oral o escrita y, a partir de ello, se logró una toma de decisiones en conjunto la cual benefició al equipo en la toma de decisiones y en la ejecución de tareas.  <br>**TP1**<br> Durante TP1, el equipo demostró una comunicación oral clara y estructurada al exponer cada uno sus implementaciones, facilitando el feedback inmediato y la coordinación efectiva para alinear el diseño y la funcionalidad del producto.|
+|   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **TB1**<br><br>**Oliver Jonseck:** En el TB1, aporté en la redacción del documento, plasmando de manera clara las ideas que fueron acordadas en las reuniones.<br><br>**Diego Mora :** Durante el TB1, contribuí a la elaboración escrita del informe, explicando de forma precisa los acuerdos logrados en equipo.<br><br>**Roy Fernandez :** Mi participación en el TB1 incluyó el desarrollo de habilidades de comunicación escrita, dejando registradas las ideas consensuadas durante las reuniones.<br><br>**Eduardo Cossar:** En el desarrollo del TB1, colaboré en redactar el documento final, explicando adecuadamente las ideas discutidas en las sesiones de grupo.<br><br>**Alejandro Oroncoy :** Para el TB1, me enfoqué en la redacción de las ideas trabajadas en equipo, asegurando que estuvieran correctamente explicadas en el documento.<br><br>**Daniel Valdizan :** En el TB1, participé en la redacción del documento, comunicando de manera efectiva los acuerdos logrados en nuestras reuniones de trabajo.    <br><br>**TP1**<br><br>   **Diego Mora :** redactó la documentación técnica de las vistas de inicio de sesión, registro y recuperación de contraseña, incluyendo diagramas de flujo y validaciones.<br> **Daniel Valdizan :** elaboró el manual de usuario para la búsqueda de técnicos y el proceso de pago, con capturas de pantalla anotadas.<br> **Roy Fernandez :** documentó los casos de uso y los requisitos funcionales de las pantallas de inicio cliente/trabajador y la búsqueda de ofertas.<br> **Oliver Jonseck** preparó un Informe de Diseño de Interfaz para las vistas de ofertas, detallando la interacción y los componentes reutilizados.<br> **Eduardo Cossar** escribió especificaciones para la funcionalidad de “Comparar perfiles” y las pantallas de configuración y perfil de trabajador, con guías de estilo.<br> **Alejandro Oroncoy:** entregó un documento con las descripciones de las vistas de configuración y perfil del cliente, describiendo props y estados de los componentes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **TB1**<br>Para el TB1, el equipo comunicó las ideas tomadas en el documento de manera conjunta y equitativa, siendo todos parte y responsables del desarrollo del informe.  <br>**TB1**<br>   La comunicación escrita en TP1 fue efectiva: cada integrante produjo documentación clara y detallada de sus secciones, lo que aseguró la comprensión compartida de los requisitos y facilitó la continuidad del desarrollo por parte de todo el equipo.     
 
 # Capítulo I: Introducción
 
@@ -125,6 +127,8 @@ Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, 
 Mi nombre es Daniel Valdizán Grijalba, tengo 19 años y estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona que trabaja bien en equipo y maneja estar bajo presión. Me comprometo a apoyar de la mejor manera al grupo en este trabajo.
 
 <img src="assets/images/profile-pictures/DanielV.PNG"  width="180" />
+
+#### 1.1.2.6 Oliver Jonseck Choque
 
 Mi nombre es Oliver Jonseck Choque, estudio ingenieria de software y poseo 19 años. Soy una persona algo distraida, pero sin embargo siempre trato de dar lo mejor que puedo. Soy autodidacta, alegre y llego a ser responsable.
 
@@ -271,7 +275,7 @@ _Sabremos que esto es cierto cuando la tasa de cancelaciones de servicios dismin
 
 #### 1.2.2.4. Lean UX Canva
 
-<img src="https://files.catbox.moe/4idol5.png" alt="lean ux canva" width="200">
+<img src="https://files.catbox.moe/9b3tux.jpg" alt="lean ux canva" width="200">
 
 #### 1.3. Segmento Objetivo
 
@@ -837,7 +841,7 @@ Empathy Mapping: Usuarios que requieren servicios técnicos
 
 Aquí se expone el análisis del escenario, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben.
 
-<img src="assets/images/ImageResources/To-Be%20Scenario%20Mapping.jpg"/>
+<img src="https://files.catbox.moe/xf4nty.jpg"/>
 
 ## 3.2. User Stories.
 
@@ -880,11 +884,11 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 #### Segmento 1: Trabajadores Técnicos Independientes
 
-<img src="assets/images/ImageResources/Impact%20map%201.png"/>
+<img src="https://files.catbox.moe/l9h33u.png"/>
 
 #### Segmento 2: Usuarios que requieren servicios técnicos
 
-<img src="assets/images/ImageResources/Impact%20map%202.png"/>
+<img src="https://files.catbox.moe/o7spd9.png"/>
 
 ## 3.4. Product Backlog.
 
@@ -1056,11 +1060,11 @@ En esta sección, presentaremos las decisiones y las razones que guían la maner
 
   Cuadro de cómo se estructura la información del landing page
 
-    <img src="assets/Style/InformationArchitecture.png" width="60%">
+    <img src="https://files.catbox.moe/l2wfbt.png" width="60%">
 
 - Figura 38
   Cuadro de cómo se estructura la información de la aplicación web
-  <img src="assets/Style/InformationArchitecture_App.png" width="60%">
+  <img src="https://files.catbox.moe/5306xn.jpg" width="60%">
 
 ### 4.2.2. Labeling Systems
 
@@ -1480,7 +1484,7 @@ https://www.figma.com/design/py3rabYJzPcLJN8k0b92su/Aplicaciones-Web?node-id=0-1
 
   Crear Cuenta
 
-    <img src="assets/WebApps/Mockups/2.jpg" width="60%">
+    <img src="https://files.catbox.moe/boh7ie.jpg" width="60%">
 
 - Figura 71
 
@@ -1677,7 +1681,7 @@ Enlace: https://youtu.be/9PC1qOfyiXI
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![C4 Context Diagram](./assets/C4/c4-context-diagram.png)
+![C4 Context Diagram](https://files.catbox.moe/w8d272.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
@@ -1885,7 +1889,7 @@ Primero, se creó una cuenta en Netlify y se vinculó con la cuenta de GitHub do
 
 Además, mediante la integración de GitHub Actions, se implementó un flujo CI/CD en Netlify que detecta cambios en la rama Main y ejecuta el despliegue automático a producción.
 
-![Netifly deploy](./img/netifly-deploy.png)
+![Netifly deploy](https://files.catbox.moe/bunapo.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -2019,6 +2023,5 @@ Se ha logrado un progreso significativo en la creación de una base sólida, tan
 - Asegurar una documentación más detallada de las decisiones de diseño y arquitectura, para facilitar la comprensión del proyecto por parte de los evaluadores y compañeros de clase.
 
 - Evaluar críticamente los avances realizados, comparándolos con los entregables definidos en el sílabo del curso, garantizando que cada parte del proyecto cumpla con los criterios de evaluación establecidos.
-
 
 
