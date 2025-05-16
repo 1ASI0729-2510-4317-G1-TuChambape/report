@@ -209,15 +209,11 @@ El Lean UX es un enfoque de diseño centrado en la colaboración, la retroalimen
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual del mercado de servicios técnicos en Perú se ha centrado principalmente en redes informales de recomendación, donde los trabajadores independientes carecen de visibilidad digital, credibilidad y acceso a clientes de manera formal. Por su parte, los clientes enfrentan dificultades para verificar la calidad y confiabilidad del servicio, lo que genera desconfianza y pérdida de oportunidades.
+En el mercado peruano de servicios técnicos, predomina actualmente la informalidad. La mayoría de contrataciones se da a través de redes personales o recomendaciones boca a boca, lo que deja a muchos trabajadores sin presencia digital y limita su acceso a clientes. A la vez, los clientes enfrentan una gran incertidumbre respecto a la calidad, confiabilidad y seguridad del servicio.
 
-Lo que los servicios existentes no logran abordar es la necesidad de una plataforma accesible y confiable que cierre la brecha entre trabajadores técnicos informales y clientes que buscan servicios verificados y seguros.
+Aunque existen aplicaciones de contratación de servicios, estas no han logrado resolver la necesidad de verificación, confianza y facilidad de uso, especialmente en el segmento de técnicos independientes. Esta falta de soluciones efectivas genera una gran oportunidad para una plataforma especializada que conecte de forma formal, accesible y confiable a técnicos con clientes.
 
-Nuestro servicio abordará esta brecha mediante la creación de una plataforma digital que permita a los trabajadores técnicos mostrar perfiles verificados, facilitar la comunicación transparente y contratar de forma segura mediante calificaciones y reseñas.
-
-Nuestro enfoque inicial será los trabajadores técnicos independientes en zonas urbanas del Perú, así como clientes individuales que requieran servicios técnicos para el hogar o de uso personal.
-
-Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de trabajadores que crean perfiles verificados, un flujo constante de solicitudes de servicios a través de la plataforma y altos niveles de satisfacción reflejados en calificaciones positivas y uso recurrente.
+JobI tiene como proposito cerrar esta brecha mediante una plataforma que permita a los técnicos visibilizar sus habilidades y construir reputación digital, mientras ofrece a los clientes confianza, rapidez y seguridad en la contratación.
 
 **¿Cómo podemos diseñar una plataforma accesible que permita a los trabajadores técnicos visibilizar sus habilidades y a los clientes encontrar y contratar profesionales de forma confiable y segura?**
 
@@ -225,68 +221,53 @@ Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de trab
 
 JobI está diseñado para facilitar el contacto entre trabajadores técnicos e independientes y personas que necesitan servicios confiables en el hogar o el negocio. Asumimos que la plataforma debe ser intuitiva, permitir mostrar portafolios y valoraciones, y ofrecer filtros eficientes para encontrar al profesional adecuado.
 
-#### a. Assumption Worksheet
+a. Supuestos sobre usuarios (Target Groups):
+- Técnicos independientes (electricistas, gasfiteros, técnicos en refrigeración, etc.) en zonas urbanas del Perú.
+- Clientes residenciales y pequeños negocios que requieren servicios técnicos ocasionales.
 
-**¿Quién será nuestro usuario?**  
-Trabajadores técnicos independientes (electricistas, gasfiteros, técnicos en refrigeración, etc.) y clientes residenciales o comerciales que requieren estos servicios.
+b. Objetivos de los usuarios:
+- Técnicos: conseguir más clientes, mejorar su reputación, obtener ingresos estables.
+- Clientes: encontrar profesionales confiables, contratar con rapidez, evitar malas experiencias.
 
-**¿Dónde encaja nuestro producto en su vida?**  
-Para los técnicos, como herramienta para conseguir más clientes y mejorar su reputación profesional. Para los clientes, como solución práctica para contratar servicios de forma segura y rápida.
+c. Características clave del producto para satisfacer objetivos:
+- Perfiles profesionales verificados (identidad y experiencia).
+- Sistema de calificaciones y comentarios de clientes.
+- Filtros por ubicación, especialidad y precios.
+- Interfaz simple y optimizada para móviles.
+- Chat interno seguro para comunicación directa.
 
-**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
-La informalidad del sector, la baja visibilidad de los trabajadores y la desconfianza del cliente. Esto se puede resolver brindando perfiles verificables, reseñas de otros clientes y un sistema de búsqueda simple pero eficaz.
-
-**¿Cómo y cuándo es usado nuestro producto?**  
-La plataforma se usa mediante computadoras y celulares, en el momento en que un cliente necesita contratar un técnico o cuando un trabajador quiere mejorar su presencia digital.
-
-**¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
-Debe tener un diseño simple, visual y amigable. Fluido, con perfiles claros, filtros rápidos, sistema de valoraciones, y opción de contactar al profesional dentro de la app.
-
-**¿Qué características son importantes?**
-- Creación fácil de perfiles para técnicos.
-- Sistema de calificaciones y comentarios.
-- Filtros por ubicación, especialidad y precio.
-- Seguridad en la verificación de identidad.
-- Plataforma optimizada para móviles.
-- Sistema de mensajes o contacto directo.
-
-#### b. Business Outcomes
-
-- JobI se posicionará como una plataforma confiable para contratar servicios técnicos.  
-- Aumentará el número de trabajadores técnicos formales registrados en el país.  
-- Reducirá la tasa de clientes insatisfechos al contar con perfiles verificados.  
-- Generará ingresos por comisiones y suscripciones premium para técnicos.  
-- Obtendrá buenas calificaciones en tiendas de apps por su facilidad y utilidad.
-
-#### c. User Outcomes
-
-- Los técnicos mejorarán su visibilidad y conseguirán más clientes.  
-- Los clientes se sentirán más seguros al contratar servicios verificados.  
-- Aumentará la confianza y satisfacción gracias al sistema de reseñas.  
-- Los usuarios encontrarán al profesional adecuado en menos tiempo.  
-- Se reducirá el número de incidentes o malas experiencias en contrataciones.
+d. Definition of Done y Métricas de Éxito (Business Outcomes):
+- Al menos 1,000 técnicos registrados con perfiles completos en los primeros 6 meses.
+- 70% de satisfacción del cliente medida por calificaciones y encuestas.
+- Reducción del 50% en incidentes de servicio reportados en los primeros 4 meses.
+- 60% de retención mensual de usuarios activos.
+- Generación de ingresos sostenibles a través de comisiones y cuentas premium.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 **Hipótesis 1:**  
-Creemos que los trabajadores técnicos aumentarán su visibilidad y número de contrataciones al crear un perfil profesional en JobI.  
-_Sabremos que estamos en lo correcto cuando, en los primeros 3 meses, al menos el 60% de los técnicos registrados reporten haber conseguido nuevos clientes a través de la plataforma._
+Creemos que permitir la creación de perfiles verificados para trabajadores técnicos logrará aumentar su visibilidad y la cantidad de contrataciones.
+_Sabremos que esto es cierto cuando al menos el 60% de los técnicos registrados reporten haber conseguido nuevos clientes a través de JobI en los primeros 3 meses._
 
 **Hipótesis 2:**  
-Creemos que los clientes se sentirán más seguros al contratar técnicos con perfiles verificados y reseñas visibles.  
-_Sabremos que estamos en lo correcto cuando el 70% de los usuarios encuestados manifiesten sentirse más confiados al contratar mediante JobI que por medios tradicionales._
+Creemos que implementar un sistema de calificaciones y reseñas para clientes logrará que se sientan más seguros al contratar a un técnico.
+_Sabremos que esto es cierto cuando el 70% de los clientes encuestados indiquen sentirse más confiados al contratar mediante JobI que por medios tradicionales._
 
 **Hipótesis 3:**  
-Creemos que incluir un sistema de calificaciones y comentarios mejorará la calidad del servicio prestado por los técnicos.  
-_Sabremos que estamos en lo correcto cuando las calificaciones promedio de los técnicos aumenten en un 20% en los primeros seis meses._
+Creemos que ofrecer filtros de búsqueda por ubicación, especialidad y precio para clientes logrará reducir el tiempo necesario para encontrar al técnico adecuado.
+_Sabremos que esto es cierto cuando el tiempo promedio desde la búsqueda hasta la contratación disminuya en un 40%._
 
 **Hipótesis 4:**  
-Creemos que permitir a los clientes filtrar técnicos por especialidad, ubicación y precio facilitará el proceso de búsqueda y contratación.  
-_Sabremos que estamos en lo correcto cuando el tiempo promedio que toma contratar a un técnico se reduzca en un 40%._
+Creemos que contar con una plataforma optimizada para móviles para técnicos y clientes logrará incrementar la frecuencia de uso y la retención mensual de usuarios.
+_Sabremos que esto es cierto cuando el 80% de los usuarios activos accedan desde el celular y la tasa de retención mensual supere el 50%._
 
 **Hipótesis 5:**  
-Creemos que ofrecer una versión móvil optimizada de JobI aumentará la frecuencia de uso y retención.  
-_Sabremos que estamos en lo correcto cuando el 80% de los usuarios activos utilicen la app desde el celular y la tasa de retención mensual supere el 50%._
+Creemos que mostrar reseñas verificadas y puntuaciones de reputación para técnicos logrará mejorar la calidad del servicio ofrecido.
+_Sabremos que esto es cierto cuando las calificaciones promedio de los técnicos aumenten en un 20% durante los primeros 6 meses._
+
+**Hipótesis 6:**
+Creemos que ofrecer un sistema de mensajería segura dentro de la aplicación para clientes y técnicos logrará mejorar la comunicación y reducir los errores en la prestación del servicio.
+_Sabremos que esto es cierto cuando la tasa de cancelaciones de servicios disminuya en un 30% y los reportes por mala comunicación se reduzcan notablemente._
 
 #### 1.2.2.4. Lean UX Canva
 
