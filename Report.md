@@ -191,7 +191,7 @@ Las principales causas del problema incluyen la informalidad del sector técnico
 
 ##### ¿En qué condiciones los clientes usan nuestro producto?
 
-A través de una aplicación web o móvil ligera y fácil de usar, disponible en dispositivos con conexión a internet. JobI ofrecerá funcionalidades como búsqueda por cercanía, perfiles verificados, historial de servicios, sistema de pago seguro y soporte post-servicio. Para los técnicos, la interfaz permitirá recibir solicitudes, programar citas, subir evidencias de trabajos y recibir evaluaciones de clientes.
+A través de una aplicación web o móvil ligera y fácil de usar, disponible en dispositivos con conexión a internet. TuChambaPe ofrecerá funcionalidades como búsqueda por cercanía, perfiles verificados, historial de servicios, sistema de pago seguro y soporte post-servicio. Para los técnicos, la interfaz permitirá recibir solicitudes, programar citas, subir evidencias de trabajos y recibir evaluaciones de clientes.
 
 **How much (Cuánto)**
 
