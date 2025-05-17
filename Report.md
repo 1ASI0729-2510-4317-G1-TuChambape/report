@@ -2348,7 +2348,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 | Frontend-Web-Applications   | develop           | 13/05/2025| feat:add myprofile-myplans-configuration                                      | 13/05/2025         |
 | Frontend-Web-Applications   | develop           | 13/05/2025| feat: fix filtro de busqueda                                                  | 13/05/2025         |
 | Frontend-Web-Applications   | develop           | 13/05/2025| feat: fix searchTec                                                           | 13/05/2025         |
-| Frontend-Web-Applications   | develop           | 13/05/2025| feat: add json-server for mock API and configure routes                       | 13/05/2025         |
+
 
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
