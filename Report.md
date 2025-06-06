@@ -2400,7 +2400,7 @@ Permite manejar errores con catchError y hacer reintentos con retry.
 
 Para realizar el deployment de la aplicación web, se utilizó la plataforma de Netlify.
 
-<img src="img/netlify.png" alt="Netlify">
+<img src="https://files.catbox.moe/d596ph.png" alt="Netlify">
 
 Link de la aplicación desplegada: https://tuchamba-pe.netlify.app/
 
@@ -2408,7 +2408,7 @@ Link de la aplicación desplegada: https://tuchamba-pe.netlify.app/
 
 Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
 
-<img src="https://files.catbox.moe/d596ph.png" alt="Network Graph">
+<img src="https://files.catbox.moe/5mh548.png" alt="Network Graph">
 
 ![Insights](./assets/images/chapter-5/Insights.PNG)
 
