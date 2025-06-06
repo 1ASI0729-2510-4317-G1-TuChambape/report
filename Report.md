@@ -2354,17 +2354,17 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
 <figure>
-  <img src="img/login.png" alt="Login Screen">
+  <img src="https://files.catbox.moe/naen5b.png" alt="Login Screen">
   <figcaption>Pantalla de Inicio de Sesión</figcaption>
 </figure>
 
 <figure>
-  <img src="img/sign-up.png" alt="Sign-up Screen">
+  <img src="https://files.catbox.moe/zar4rb.png" alt="Sign-up Screen">
   <figcaption>Pantalla de Registro de Usuario</figcaption>
 </figure>
 
 <figure>
-  <img src="img/password-recovery.png" alt="Pass Recovery Screen">
+  <img src="https://files.catbox.moe/q4dke2.png" alt="Pass Recovery Screen">
   <figcaption>Pantalla de Recuperación de Contraseña</figcaption>
 </figure>
 
@@ -2373,14 +2373,14 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios en el aplicación, abarcando desde la configuración de rutas hasta la lógica de negocio y la presentación de datos al usuario:
 
-1. Archivo de Rutas (Vue.js Routing)
+1. Archivo de Rutas 
    Archivo: router/index.js
    Función: Define la estructura de navegación de toda la aplicación, tanto para el cliente como para el trabajador.
   
 Importancia:
 -Permite acceder a las páginas donde se usan servicios como worker, customer, offers, etc.
 -Es el punto de entrada para mostrar componentes que a su vez usan servicios para obtener, actualizar o eliminar datos.
-<img src="img/routes.png" alt="Routes">
+<img src="https://files.catbox.moe/nelzps.png" alt="Routes">
 
 2. httpService (Implementation Service Class)
    Archivo: http.service.ts
@@ -2394,7 +2394,7 @@ Evita duplicar código al implementar métodos reutilizables para manejar recurs
 
 Permite manejar errores con catchError y hacer reintentos con retry.
 
-<img src="img/base-service.png" alt="base-service">
+<img src="https://files.catbox.moe/tdznni.png" alt="base-service">
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
@@ -2408,9 +2408,9 @@ Link de la aplicación desplegada: https://tuchamba-pe.netlify.app/
 
 Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
 
-<img src="img/network-graph.png" alt="Network Graph">
+<img src="https://files.catbox.moe/d596ph.png" alt="Network Graph">
 
-<img src="img/github-commits-over-time.png" alt="GitHub Commit Over Time">
+![Insights](./assets/images/chapter-5/Insights.PNG)
 
 
 
