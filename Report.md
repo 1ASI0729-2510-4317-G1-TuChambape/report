@@ -2002,6 +2002,70 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa en N
 
 ![Insights](./assets/images/chapter-5/Insights.PNG)
 
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
+
+En el marco de Scrum, un Sprint es un periodo de tiempo fijo y breve en el que un equipo se enfoca en completar el trabajo necesario para alcanzar el objetivo del proyecto, conocido como Product Goal. En el caso del proceso de desarrollo de la plataforma Champa.pe, se optó por optimizar tiempos en 5 sprints de 15 días calendario. El tercer sprint empezó el 01/06/2025, y su objetivo es crear un API que poermita conectar la landing page con una base datos sql.
+
+##### Sprint Planning Background
+**Date**: 2025-05-31
+**Time**: 3:00 PM  
+**Location**: Reunión virtual mediante el chat de whatsapp  
+**Prepare By**: Alejandro Oroncoy  
+
+**Attendees (to planning meeting)**: Alejandro Oroncoy, Diego Mora, Eduardo Cossar, Roy Fernández, Daniél Valdizan, Oliver Jonseck
+
+#### 5.2.3.2 Aspect leaders and collaboration
+#### 5.2.3.3 Sprint Backlog
+
+| Orden | User Story ID | Título                          | Descripción                                                                                                                | Story Points |
+| ----- | ------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | US29          | Visualización general de los servicios | Como visitante, quiero ver una descripción general de los servicios ofrecidos en la landing page, para entender rápidamente qué se ofrece. | 3            |
+| 2     | US30          | Visualización de beneficios      | Como visitante, quiero ver los beneficios de registrarme en la plataforma, para poder decidir unirme a ella.                | 2            |
+| 3     | US31          | Categorías de servicios          | Como visitante, quiero explorar las categorías de servicios disponibles (ej: plomería, electricidad), para conocer el alcance de la plataforma. | 3            |
+| 4     | US32          | Sección de beneficios            | Como visitante, quiero conocer los beneficios de registrarme (seguridad, ahorro de tiempo, etc.), para decidir unirme a la plataforma. | 2            |
+| 5     | US33          | Sección "Cómo funciona"          | Como visitante, quiero entender los pasos para usar la plataforma, tanto como cliente como trabajador, para saber cómo empezar. | 2            |
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+<table>
+  <tr>
+    <td colspan="8"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>User Story</strong></td>
+    <td colspan="8"><strong>Item</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr> 
+    <td rowspan="1">US02</td>
+    <td rowspan="1">	Inicio de sesión</td>
+    <td>T01</td>
+    <td>autentificación de cuenta</td>
+    <td>Se verifica la existencia de la cuenta</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US04</td>
+    <td rowspan="1">Creacion de perfil técnico</td>
+    <td>T01</td>
+    <td>lectura y edición de usuarios</td>
+    <td>Se pueden obtener los datos de un usuario y editarlos desde el backend.</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US10</td>
+    <td rowspan="1">Búsqueda por nombre</td>
+    <td>T01</td>
+    <td>Creación de metodos Get</td>
+    <td>Creación de los metodos getById, getByprofile.</td>
+  </tr>
+</table>
 # Conclusiones
 
 *6.1 Conclusiones y Recomendaciones*
