@@ -87,9 +87,9 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 
 | Criterio específico                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **TB1**<br><br>**Oliver Jonseck:** Durante el desarrollo del TB1, participé activamente en las reuniones grupales, donde compartí mis ideas y opiniones de forma oral. Además, colaboré en la redacción del documento, asegurándome de que todas las decisiones acordadas fueran plasmadas de manera clara y precisa.<br><br>**Diego Mora :** En el TB1, trabajé junto al equipo expresando mis propuestas durante las reuniones y escuchando las opiniones de los demás. También contribuí a la elaboración escrita del informe, donde dejamos constancia de las decisiones tomadas de manera colaborativa.<br><br>**Roy Fernandez :** Mi aporte en el TB1 se basó en mantener una comunicación fluida con el equipo, participando de manera activa en cada reunión. Posteriormente, ayudé en la redacción del documento, organizando las ideas de forma ordenada para una mejor comprensión de los acuerdos alcanzados.<br><br>**Eduardo Cossar:** Para el TB1, intervine en las reuniones grupales proponiendo ideas y discutiendo alternativas con mis compañeros. Asimismo, participé en la redacción del documento final, reflejando correctamente el consenso logrado entre todos.<br><br>**Alejandro Oroncoy :** Durante la preparación del TB1, contribuí expresando mis puntos de vista y escuchando las sugerencias de los demás en las reuniones orales. También colaboré en la comunicación escrita, detallando de forma clara las decisiones que se tomaron en equipo.<br><br>**Daniel Valdizan :** En el desarrollo del TB1, trabajé activamente en las reuniones, aportando ideas de forma oral y respetando las opiniones del grupo. Además, participé en la elaboración del documento escrito, asegurándome de que cada acuerdo estuviera debidamente registrado. <br><br>**TP1**<br><br>**Diego Mora** presentó en la reunión de equipo las vistas de “Iniciar sesión”, “Registrarse” y “Recuperar contraseña”, explicando el flujo de navegación y los mensajes de validación.<br> **Daniel Valdizan:** expuso la lógica y el diseño de la vista de “Buscar técnico” para el cliente y detalló el proceso de pago de los planes para el técnico.<br> **Roy Fernandez:** describió ante el grupo el diseño de las pantallas de inicio para cliente y trabajador, así como la funcionalidad de “Buscar oferta”.<br> **Oliver Jonseck** explicó el comportamiento y la estructura de todas las vistas de ofertas, tanto para el cliente como para el trabajador.<br> **Eduardo Cossar** mostró las pantallas de “Comparar perfiles de técnicos” y las vistas de configuración y perfil del trabajador, respondiendo preguntas sobre casos de uso.<br> **Alejandro Oroncoy:** presentó las vistas de configuración y perfil del cliente, aclarando estilos CSS y componentes reusables. |**TB1**<br>Para la TB1, el equipo trabajó colaborativamente y se logró una participación activa de cada uno de los integrantes. Se realizaron reuniones grupales en la que cada miembro compartió sus ideas de manera oral o escrita y, a partir de ello, se logró una toma de decisiones en conjunto la cual benefició al equipo en la toma de decisiones y en la ejecución de tareas.  <br>**TP1**<br> Durante TP1, el equipo demostró una comunicación oral clara y estructurada al exponer cada uno sus implementaciones, facilitando el feedback inmediato y la coordinación efectiva para alinear el diseño y la funcionalidad del producto.|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **TB1**<br><br>**Oliver Jonseck:** Durante el desarrollo del TB1, participé activamente en las reuniones grupales, donde compartí mis ideas y opiniones de forma oral. Además, colaboré en la redacción del documento, asegurándome de que todas las decisiones acordadas fueran plasmadas de manera clara y precisa.<br><br>**Diego Mora :** En el TB1, trabajé junto al equipo expresando mis propuestas durante las reuniones y escuchando las opiniones de los demás. También contribuí a la elaboración escrita del informe, donde dejamos constancia de las decisiones tomadas de manera colaborativa.<br><br>**Roy Fernandez :** Mi aporte en el TB1 se basó en mantener una comunicación fluida con el equipo, participando de manera activa en cada reunión. Posteriormente, ayudé en la redacción del documento, organizando las ideas de forma ordenada para una mejor comprensión de los acuerdos alcanzados.<br><br>**Eduardo Cossar:** Para el TB1, intervine en las reuniones grupales proponiendo ideas y discutiendo alternativas con mis compañeros. Asimismo, participé en la redacción del documento final, reflejando correctamente el consenso logrado entre todos.<br><br>**Alejandro Oroncoy :** Durante la preparación del TB1, contribuí expresando mis puntos de vista y escuchando las sugerencias de los demás en las reuniones orales. También colaboré en la comunicación escrita, detallando de forma clara las decisiones que se tomaron en equipo.<br><br>**Daniel Valdizan :** En el desarrollo del TB1, trabajé activamente en las reuniones, aportando ideas de forma oral y respetando las opiniones del grupo. Además, participé en la elaboración del documento escrito, asegurándome de que cada acuerdo estuviera debidamente registrado. <br><br>**TP1**<br><br>**Diego Mora** presentó en la reunión de equipo las vistas de “Iniciar sesión”, “Registrarse” y “Recuperar contraseña”, explicando el flujo de navegación y los mensajes de validación.<br> **Daniel Valdizan:** expuso la lógica y el diseño de la vista de “Buscar técnico” para el cliente y detalló el proceso de pago de los planes para el técnico.<br> **Roy Fernandez:** describió ante el grupo el diseño de las pantallas de inicio para cliente y trabajador, así como la funcionalidad de “Buscar oferta”.<br> **Oliver Jonseck** explicó el comportamiento y la estructura de todas las vistas de ofertas, tanto para el cliente como para el trabajador.<br> **Eduardo Cossar** mostró las pantallas de “Comparar perfiles de técnicos” y las vistas de configuración y perfil del trabajador, respondiendo preguntas sobre casos de uso.<br> **Alejandro Oroncoy:** presentó las vistas de configuración y perfil del cliente, aclarando estilos CSS y componentes reusables. <br><br>**TB2**<br><br>Alejandro Oroncoy: Durante el desarrollo del TB2, participé activamente en las reuniones grupales, donde compartí mis ideas y opiniones de forma oral. Además, colaboré en la redacción del documento, asegurándome de que todas las decisiones acordadas fueran plasmadas de manera clara y precisa.<br><br>Diego Mora: En el TB2, trabajé junto al equipo expresando mis propuestas durante las reuniones y escuchando las opiniones de los demás. También contribuí a la elaboración escrita del informe, donde dejamos constancia de las decisiones tomadas de manera colaborativa.<br><br>Roy Fernandez: Mi aporte en el TB2 se basó en mantener una comunicación fluida con el equipo, participando de manera activa en cada reunión. Posteriormente, ayudé en la redacción del documento, organizando las ideas de forma ordenada para una mejor comprensión de los acuerdos alcanzados.<br><br>Eduardo Cossar: Para el TB2, intervine en las reuniones grupales proponiendo ideas y discutiendo alternativas con mis compañeros. Asimismo, participé en la redacción del documento final, reflejando correctamente el consenso logrado entre todos.<br><br>Oliver Jonseck: En el desarrollo del TB2, trabajé activamente en las reuniones, aportando ideas de forma oral y respetando las opiniones del grupo. Además, participé en la elaboración del documento escrito, asegurándome de que cada acuerdo estuviera debidamente registrado.|**TB1**<br>Para la TB1, el equipo trabajó colaborativamente y se logró una participación activa de cada uno de los integrantes. Se realizaron reuniones grupales en la que cada miembro compartió sus ideas de manera oral o escrita y, a partir de ello, se logró una toma de decisiones en conjunto la cual benefició al equipo en la toma de decisiones y en la ejecución de tareas.  <br>**TP1**<br> Durante TP1, el equipo demostró una comunicación oral clara y estructurada al exponer cada uno sus implementaciones, facilitando el feedback inmediato y la coordinación efectiva para alinear el diseño y la funcionalidad del producto.  <br>**TB2**<br> Durante TB2, el equipo demostró tener una buena comunicación oral al proponer cada una de sus implementaciones, facilitando el feedback inmediato y la coordinación efectiva para alinear el diseño y la funcionalidad del producto.|
 |   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **TB1**<br><br>**Oliver Jonseck:** En el TB1, aporté en la redacción del documento, plasmando de manera clara las ideas que fueron acordadas en las reuniones.<br><br>**Diego Mora :** Durante el TB1, contribuí a la elaboración escrita del informe, explicando de forma precisa los acuerdos logrados en equipo.<br><br>**Roy Fernandez :** Mi participación en el TB1 incluyó el desarrollo de habilidades de comunicación escrita, dejando registradas las ideas consensuadas durante las reuniones.<br><br>**Eduardo Cossar:** En el desarrollo del TB1, colaboré en redactar el documento final, explicando adecuadamente las ideas discutidas en las sesiones de grupo.<br><br>**Alejandro Oroncoy :** Para el TB1, me enfoqué en la redacción de las ideas trabajadas en equipo, asegurando que estuvieran correctamente explicadas en el documento.<br><br>**Daniel Valdizan :** En el TB1, participé en la redacción del documento, comunicando de manera efectiva los acuerdos logrados en nuestras reuniones de trabajo.    <br><br>**TP1**<br><br>   **Diego Mora :** redactó la documentación técnica de las vistas de inicio de sesión, registro y recuperación de contraseña, incluyendo diagramas de flujo y validaciones.<br> **Daniel Valdizan :** elaboró el manual de usuario para la búsqueda de técnicos y el proceso de pago, con capturas de pantalla anotadas.<br> **Roy Fernandez :** documentó los casos de uso y los requisitos funcionales de las pantallas de inicio cliente/trabajador y la búsqueda de ofertas.<br> **Oliver Jonseck** preparó un Informe de Diseño de Interfaz para las vistas de ofertas, detallando la interacción y los componentes reutilizados.<br> **Eduardo Cossar** escribió especificaciones para la funcionalidad de “Comparar perfiles” y las pantallas de configuración y perfil de trabajador, con guías de estilo.<br> **Alejandro Oroncoy:** entregó un documento con las descripciones de las vistas de configuración y perfil del cliente, describiendo props y estados de los componentes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **TB1**<br>Para el TB1, el equipo comunicó las ideas tomadas en el documento de manera conjunta y equitativa, siendo todos parte y responsables del desarrollo del informe.  <br>**TB1**<br>   La comunicación escrita en TP1 fue efectiva: cada integrante produjo documentación clara y detallada de sus secciones, lo que aseguró la comprensión compartida de los requisitos y facilitó la continuidad del desarrollo por parte de todo el equipo.     
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **TB1**<br><br>**Oliver Jonseck:** En el TB1, aporté en la redacción del documento, plasmando de manera clara las ideas que fueron acordadas en las reuniones.<br><br>**Diego Mora :** Durante el TB1, contribuí a la elaboración escrita del informe, explicando de forma precisa los acuerdos logrados en equipo.<br><br>**Roy Fernandez :** Mi participación en el TB1 incluyó el desarrollo de habilidades de comunicación escrita, dejando registradas las ideas consensuadas durante las reuniones.<br><br>**Eduardo Cossar:** En el desarrollo del TB1, colaboré en redactar el documento final, explicando adecuadamente las ideas discutidas en las sesiones de grupo.<br><br>**Alejandro Oroncoy :** Para el TB1, me enfoqué en la redacción de las ideas trabajadas en equipo, asegurando que estuvieran correctamente explicadas en el documento.<br><br>**Daniel Valdizan :** En el TB1, participé en la redacción del documento, comunicando de manera efectiva los acuerdos logrados en nuestras reuniones de trabajo.    <br><br>**TP1**<br><br>   **Diego Mora :** redactó la documentación técnica de las vistas de inicio de sesión, registro y recuperación de contraseña, incluyendo diagramas de flujo y validaciones.<br> **Daniel Valdizan :** elaboró el manual de usuario para la búsqueda de técnicos y el proceso de pago, con capturas de pantalla anotadas.<br> **Roy Fernandez :** documentó los casos de uso y los requisitos funcionales de las pantallas de inicio cliente/trabajador y la búsqueda de ofertas.<br> **Oliver Jonseck** preparó un Informe de Diseño de Interfaz para las vistas de ofertas, detallando la interacción y los componentes reutilizados.<br> **Eduardo Cossar** escribió especificaciones para la funcionalidad de “Comparar perfiles” y las pantallas de configuración y perfil de trabajador, con guías de estilo.<br> **Alejandro Oroncoy:** entregó un documento con las descripciones de las vistas de configuración y perfil del cliente, describiendo props y estados de los componentes.   <br><br>**TB2**<br><br>   **Alejandro Oroncoy:** Durante el TB2, me encargué de elaborar el borrador del informe, plasmando con precisión las propuestas acordadas en las reuniones.<br><br>**Roy Fernandez:** Para el TB2, colaboré en la redacción del informe escrito, describiendo con exactitud los compromisos alcanzados por el equipo.<br><br>**Diego Mora:** En el TB2, aporté al fortalecimiento de la comunicación escrita, documentando las ideas consensuadas en cada sesión de trabajo.<br><br>**Eduardo Cossar:**  En la elaboración del TB2, participé en la redacción del informe final, detallando de forma clara los puntos debatidos en grupo.<br><br>**Oliver Jonseck:** Para el TB2, me centré en estructurar y redactar las ideas trabajadas en equipo, garantizando su claridad y coherencia en el documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **TB1**<br>Para el TB1, el equipo comunicó las ideas tomadas en el documento de manera conjunta y equitativa, siendo todos parte y responsables del desarrollo del informe.  <br>**TB1**<br>   La comunicación escrita en TP1 fue efectiva: cada integrante produjo documentación clara y detallada de sus secciones, lo que aseguró la comprensión compartida de los requisitos y facilitó la continuidad del desarrollo por parte de todo el equipo.  <br>**TB2**<br>  La redacción en TB2 resultó eficiente: cada miembro elaboró una documentación precisa y exhaustiva de su sección, garantizando un entendimiento común de los requisitos y permitiendo la continuidad del desarrollo por parte de todo el equipo.      
 
 # Capítulo I: Introducción
 
@@ -2412,6 +2412,213 @@ Durante el Sprint 2, se realizó la segmentación de tareas por features y se as
 
 ![Insights](./assets/images/chapter-5/Insights.PNG)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1.Sprint Planning 3
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma TuChamba, el Sprint #3 dio inicio el 29/05/2025, y su meta consiste en completar la aplicación web del lado frontend y comenzar con el backend . Durante este Sprint, se desarrollaron las funcionalidades esenciales para ambos segmentos objetivo - trabajadores técnicos independientes y usuarios que requieren servicios técnicos: los clientes pueden explorar perfiles de diferentes trabajadores técnicos y solicitar sus servicios de manera intuitiva, mientras que los trabajadores técnicos tienen acceso a herramientas de gestión que les permiten configurar sus tarifas, administrar sus servicios ofrecidos y visualizar las solicitudes de trabajo asignadas.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 3</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-05-05</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Alejandro Oroncoy</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Integrantes del equipo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 3 Review Summary</b></td>
+      <td colspan="1">Durante este sprint se implementó el backend de la aplicación, incorporando las funcionalidades principales para los roles de cliente y técnico.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 3 Retrospective Summary</b></td>
+      <td colspan="1">Se identificó la necesidad de mejorar la planificación de tareas y la integración temprana de pruebas para evitar retrabajos. También se destacó una mayor fluidez en la comunicación del equipo respecto al sprint anterior, lo que permitió avanzar con mayor claridad en los entregables.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing the full web application backend , addressing both customer and worker user roles.<br><b>We believe it delivers</b>a functional and responsive interface that supports key actions such as booking services for customers and managing appointments and pricing for workers.<br><b>This will be confirmed when</b> customers can successfully explore available workers and make reservations, and workers are able to configure their services, view appointments, and interact with their dashboards smoothly.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Velocity</b></td>
+      <td colspan="1">5</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">18</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Para este Sprint, se han identificado los principales aspectos del frontend web application de TuChamba.pe. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Team Member**                     | **GitHub Username** | **auth** | **offers** | **compare-profiles** | **public** | **shared** | **dashboard** | **profiles** | **search profiles** | **services** | **subscription** |
+|-------------------------------------|---------------------|----------|------------|----------------------|------------|------------|---------------|--------------|---------------------|--------------|------------------|
+| Fernandez, Roy            | rofy            | L        | C          | C                    | C          | C          | C             | C            | C                   | C            | C                |
+| Mora, Diego       | dmora             | C        | C          | L                    | C          | C          | C             | L            | C                   | C            | L                |
+| Oliver Jonseck    | oliverj           | C        | C          | C                    | C          | C          | L             | C            | C                   | C            | C                |
+| Oroncoy Almeyda, Alejandro Daniel   | alejooroncoy        | C        | L          | C                    | C          | C          | C             | C            | C                   | C            | C                |
+| Cossar Sanchez, Eduardo Jose        | coleeeee-dev        | C        | C          | C                    | L          | C          | C             | C            | L                   | C            | C                |
+|
+
+
+#### 5.2.3.3.Sprint Backlog 3.
+
+En el tercer sprint backlog, el equipo tuvo la intención de completar el desarrollo del backend de la aplicación web, tanto para el rol de cliente (customer) como de trabajador/técnico (worker). Por otro lado, se inicio con el proceso de desarrollo del backend. La herramienta utilizada para organizar y gestionar las tareas del equipo continuó siendo Trello, permitiendo dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades específicas. El objetivo principal del sprint fue implementar las funcionalidades clave de ambos roles, asegurando una interfaz intuitiva, responsiva y funcional.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td colspan="2" align="center"><b>Sprint #</b></td>
+    <td colspan="6" align="center"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Task Id</b></td>
+    <td><b>Task Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status (To-do/In-Process/To-Review/Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US01</td>
+    <td rowspan="2">Inicio de sesión</td>
+    <td>T1</td>
+    <td>Diseño de interfaz de login</td>
+    <td>Diseñar la interfaz de inicio de sesión con campos de usuario y contraseña.</td>
+    <td>4</td>
+    <td>Diego Mora</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   
+  </tr>
+  
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Recuperar contraseña</td>
+    <td>T1</td>
+    <td>Diseño de recuperación</td>
+    <td>Diseñar la interfaz para recuperación de contraseña.</td>
+    <td>4</td>
+    <td>Eduardo Cossar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Implementación de recuperación</td>
+    <td>Desarrollar el sistema de recuperación de contraseña.</td>
+    <td>5</td>
+    <td>Alejandro Oroncoy</td>
+    <td>In-Process</td>
+  </tr>
+ 
+  <tr>
+    <td>US09</td>
+    <td>Configuración</td>
+    <td>T1</td>
+    <td>Gestión de configuración</td>
+    <td>Permitir al usuario gestionar notificaciones, idioma, etc.</td>
+    <td>6</td>
+    <td>Roy Fernandez</td>
+    <td>In-progress</td>
+  </tr>
+  
+  <tr>
+    <td>US11</td>
+    <td>Sistema de reseñas y calificación</td>
+    <td>T1</td>
+    <td>Implementación de reseñas</td>
+    <td>Permitir dejar reseñas y calificaciones a los trabajadores.</td>
+    <td>6</td>
+    <td>Diego Mora </td>
+    <td>To-do</td>
+  </tr>
+ 
+  <tr>
+    <td>US15</td>
+    <td>Recomendación de perfil</td>
+    <td>T1</td>
+    <td>Sistema de recomendaciones</td>
+    <td>Recomendar trabajadores a los clientes.</td>
+    <td>8</td>
+    <td>Oliver Jonseck</td>
+    <td>To-do</td>
+  </tr>
+  
+  <tr>
+    <td>US24</td>
+    <td>Crear y enviar propuestas</td>
+    <td>T1</td>
+    <td>Envío de propuestas</td>
+    <td>Permitir al trabajador enviar propuestas personalizadas a los clientes.</td>
+    <td>8</td>
+    <td>Roy Fernandez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US26</td>
+    <td>Gestión de habilidades técnicas</td>
+    <td>T1</td>
+    <td>Actualizar habilidades</td>
+    <td>Permitir al trabajador mantener actualizada su lista de habilidades.</td>
+    <td>5</td>
+    <td>Eduardo Cossar</td>
+    <td>In-progress</td>
+  </tr>
+  <tr>
+</table>
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/invite/b/683a3962930000c3d5ef87f0/ATTI302ef236cfd65c123fb226b68a19bffeF566BB88/jobconnect-sprint-3)
+
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 
 # Conclusiones
