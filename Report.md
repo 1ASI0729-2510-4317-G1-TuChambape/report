@@ -2018,17 +2018,6 @@ En el marco de Scrum, un Sprint es un periodo de tiempo fijo y breve en el que u
 #### 5.2.3.2 Aspect leaders and collaboration
 #### 5.2.3.3 Sprint Backlog
 
-| Orden | User Story ID | Título                          | Descripción                                                                                                                | Story Points |
-| ----- | ------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1     | US29          | Visualización general de los servicios | Como visitante, quiero ver una descripción general de los servicios ofrecidos en la landing page, para entender rápidamente qué se ofrece. | 3            |
-| 2     | US30          | Visualización de beneficios      | Como visitante, quiero ver los beneficios de registrarme en la plataforma, para poder decidir unirme a ella.                | 2            |
-| 3     | US31          | Categorías de servicios          | Como visitante, quiero explorar las categorías de servicios disponibles (ej: plomería, electricidad), para conocer el alcance de la plataforma. | 3            |
-| 4     | US32          | Sección de beneficios            | Como visitante, quiero conocer los beneficios de registrarme (seguridad, ahorro de tiempo, etc.), para decidir unirme a la plataforma. | 2            |
-| 5     | US33          | Sección "Cómo funciona"          | Como visitante, quiero entender los pasos para usar la plataforma, tanto como cliente como trabajador, para saber cómo empezar. | 2            |
-
-#### 5.2.3.4. Development Evidence for Sprint Review.
-
-#### 5.2.4.5 Execution Evidence for Sprint Review
 <table>
   <tr>
     <td colspan="8"><strong>Sprint 3</strong></td>
@@ -2065,7 +2054,57 @@ En el marco de Scrum, un Sprint es un periodo de tiempo fijo y breve en el que u
     <td>Creación de metodos Get</td>
     <td>Creación de los metodos getById, getByprofile.</td>
   </tr>
+  <tr>
+    <td rowspan="1">US</td>
+  </tr>
 </table>
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+### 5.3 Validation Interviews
+
+### 5.3.1 Registro de entrevistas
+
+## Entrevista 1:
+
+Datos del entrevistador
+
+Nombres: Roy
+
+Apellidos: Fernández Remón
+
+
+Datos del entrevistado:
+
+Nombres: Jefry
+
+Apellidos: Prado
+
+Edad: 24
+
+Distrito de residencia: San Juan de Lurigancho 
+
+## Entrevista 2:
+
+Datos del entrevistador:
+
+Nombres: Roy
+
+Apellidos: Fernández Remón
+
+
+Datos de la entrevistada:
+
+Nombres: Maryori
+
+Apellidos: Atanacio
+
+Edad: 23
+
+Distrito de residencia: San Juan de Lurigancho
+
 # Conclusiones
 
 *6.1 Conclusiones y Recomendaciones*
