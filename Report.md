@@ -2054,14 +2054,15 @@ En el marco de Scrum, un Sprint es un periodo de tiempo fijo y breve en el que u
     <td>Creación de metodos Get</td>
     <td>Creación de los metodos getById, getByprofile.</td>
   </tr>
-  <tr>
-    <td rowspan="1">US</td>
-  </tr>
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
+<img src="assets/images/ImgResources/Database.jpeg" alt="Database evidence in github">
+
 #### 5.2.4.5 Execution Evidence for Sprint Review
+
+<img src="assets/images/ImgResources/Swagger.jpeg" alt="Swagger evidence in github">
 
 ### 5.3 Validation Interviews
 
