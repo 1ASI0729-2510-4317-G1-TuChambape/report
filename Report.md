@@ -134,6 +134,12 @@ Mi nombre es Oliver Jonseck Choque, estudio ingenieria de software y poseo 19 a�
 
 <img src="assets/images/profile-pictures/Integrante-Oliver.jpeg" width="180"/>
 
+#### 1.1.2.7 Osores Marchese Pietro
+
+Soy estudiante de Ingeniería de Software con un fuerte interés en la innovación tecnológica y el diseño centrado en el usuario. Me considero una persona organizada, con habilidades para liderar y analizar problemas de forma estructurada. En este proyecto, me encargué de definir los perfiles del equipo, analizar los antecedentes del problema y desarrollar todo el enfoque Lean UX, estableciendo así las bases conceptuales de nuestra solución.
+
+<img src="https://github.com/user-attachments/assets/3d5ba274-14f6-4c68-9a08-525ea633787b" alt="Foto de Pietro">
+
 ## 1.2. Solution Profile
 
 En esta sección, se presenta en detalle el perfil de la solución, respaldado por
