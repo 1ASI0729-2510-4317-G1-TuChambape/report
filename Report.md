@@ -38,7 +38,7 @@
 | Roy Linsh Fernandez Remon  | u20221b778 |
 | Jonseck Choque, Oliver | U202312912 |
 | Oroncoy Almeyda, Alejandro Daniel | U202313397 |
-
+| Osores Marchese, Pietro | U202310971 |
 
 </div>
 
