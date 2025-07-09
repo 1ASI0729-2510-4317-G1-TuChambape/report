@@ -884,6 +884,10 @@ Aquí se expone el análisis del escenario, organizando una tabla que detalla la
 | US22            | Chat interno entre técnico y cliente          | Como usuario quiero comunicarme con el otro para coordinar detalles del servicio.                | **Escenario 1:**<br>Dado que abro chat,<br>Cuando envío mensaje,<br>Entonces el destinatario lo recibe.<br><br>**Escenario 2:**<br>Dado que envío imagen o archivo,<br>Cuando se adjunta,<br>Entonces el otro usuario lo puede descargar,<br>Y visualizar en la app. | EP07                      |
 | US23            | Recordatorio de servicio vía notificación     | Como cliente quiero recibir recordatorios previos a la cita para no olvidarla.                  | **Escenario 1:**<br>Dado que falta 1 hora para la cita,<br>Cuando llega el momento,<br>Entonces se envía push recordatorio.<br><br>**Escenario 2:**<br>Dado que habilito email,<br>Cuando faltan 24 horas,<br>Entonces recibo correo de recordatorio,<br>Y opción de reprogramar. | EP07                      |
 
+## Technical Stories.
+
+
+
 ## 3.3. Impact Mapping.
 
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
