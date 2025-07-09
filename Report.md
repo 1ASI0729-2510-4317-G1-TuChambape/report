@@ -2901,7 +2901,7 @@ En el tercer sprint backlog, el equipo tuvo la intención de completar el desarr
   <tr>
 </table>
 
-Enlace para acceder al Trello: [Trello Sprint Backlog 4](https://trello.com/invite/b/683a3962930000c3d5ef87f0/ATTI302ef236cfd65c123fb226b68a19bffeF566BB88/jobconnect-sprint-3)
+Enlace para acceder al Trello: [Trello Sprint Backlog 4](https://trello.com/invite/b/686c39e648e55b980785c84e/ATTI25bfba3332858bdbd5cfd88ac1272bad3117A2AB/tuchamba-sprint-4)
 
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
