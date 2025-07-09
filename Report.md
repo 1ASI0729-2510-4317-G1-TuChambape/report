@@ -3028,15 +3028,6 @@ Tabla de Resumen
 
 Respecto a Registro e Inicio de Sesión: 
 
-![Captura de pantalla 2025-07-07 172020](https://github.com/user-attachments/assets/fc68861c-1513-4e84-a8b4-9d82340e2aed) 
-
-![Captura de pantalla 2025-07-07 172130](https://github.com/user-attachments/assets/b020c174-cef4-4625-b582-c956a72f21c8) 
-
-![Captura de pantalla 2025-07-07 172248](https://github.com/user-attachments/assets/6a04f6be-a743-4284-add6-82d1ab2bc66b) 
-
-![Captura de pantalla 2025-07-07 172305](https://github.com/user-attachments/assets/86bc5803-f574-4602-9c77-89be8fc4cb55) 
-
-
 Problema #1
 
 - Problema: En el formulario "Crear Cuenta", los dos campos de contraseña son idénticos ("Contraseña"). No se especifica que el segundo es para confirmación, lo que puede causar confusión.
@@ -3089,7 +3080,6 @@ Problema #5
 
 Respecto a Pantalla de vista del cliente: 
 
-![Captura de pantalla 2025-07-07 172810](https://github.com/user-attachments/assets/c62f4459-0690-4d50-a737-ec43060039a5) 
 
 ![Captura de pantalla 2025-07-07 172829](https://github.com/user-attachments/assets/e498e19e-9194-4654-92c3-071a8282464d) 
 
