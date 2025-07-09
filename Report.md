@@ -139,6 +139,7 @@ Soy estudiante de Ingeniería de Software con un fuerte interés en la innovaci�
 
 <img src="https://github.com/user-attachments/assets/3d5ba274-14f6-4c68-9a08-525ea633787b" alt="Foto de Pietro" style="width: 20%; height: auto;">
 <br><br>
+
 ## 1.2. Solution Profile
 
 En esta sección, se presenta en detalle el perfil de la solución, respaldado por
