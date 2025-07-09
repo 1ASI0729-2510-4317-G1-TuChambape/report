@@ -77,6 +77,20 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 | Daniel Valdizan |   Realizo la vista de configuracion y perfil para el cliente                                    |
 
 
+## **TF**
+
+Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+
+| Integrantes            | Tareas Asignadas                                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Oliver Jonseck            |    Realizo en workers context tanto en el frontend como en el backend                                                                            |
+| Diego Mora          |   Realizo en proposals context tanto en el frontend como en el backend   |
+|Roy Fernandez         |  Realizo en payments context tanto en el frontend como en el backend                                                                                               |
+| Alejandro Oroncoy      |   Realizo en ofers context tanto en el frontend como en el backend                                                                           |
+| Eduardo Cossar         |  Realizo en users context tanto en el frontend como en el backend                    |
+| Pietro Osores |    Realizo en users y payments context tanto en el frontend como en el backend                                    |
+
+
 # Tabla de contenidos
 
 1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
