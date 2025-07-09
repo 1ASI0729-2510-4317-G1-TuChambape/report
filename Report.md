@@ -829,7 +829,7 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 ### 2.3.2 User Task Matrix.
 
-### Segmento objetivo #1: Juan Carlos (Gasfitero Independiente)
+### Segmento objetivo #1: Juan Carlos (Tecnico)
 
 | Tarea                                                    | Frecuencia | Importancia |
 |----------------------------------------------------------|------------|-------------|
@@ -848,7 +848,7 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 | Resolver problemas imprevistos en trabajos               | Media      | Alta        |
 | Llevar el control de pagos recibidos y pendientes        | Media      | Alta        |
 
-### Segmento objetivo #2: Jesus Lujan (Usuario dependiente)
+### Segmento objetivo #2: Jesus Lujan (Usuario)
 
 | Tarea                                                    | Frecuencia | Importancia |
 |----------------------------------------------------------|------------|-------------|
@@ -955,9 +955,6 @@ Aquí se expone el análisis del escenario, organizando una tabla que detalla la
 | US21            | Notificación de nuevas solicitudes           | Como técnico quiero recibir alertas en tiempo real de nuevos pedidos de servicio.                | **Escenario 1:**<br>Dado que llega una solicitud,<br>Cuando activo notificaciones,<br>Entonces recibo alerta push.<br><br>**Escenario 2:**<br>Dado que estoy desconectado,<br>Cuando me conecto,<br>Entonces veo resumen de solicitudes pendientes,<br>Y notificaciones leídas. | EP07                      |
 | US22            | Chat interno entre técnico y cliente          | Como usuario quiero comunicarme con el otro para coordinar detalles del servicio.                | **Escenario 1:**<br>Dado que abro chat,<br>Cuando envío mensaje,<br>Entonces el destinatario lo recibe.<br><br>**Escenario 2:**<br>Dado que envío imagen o archivo,<br>Cuando se adjunta,<br>Entonces el otro usuario lo puede descargar,<br>Y visualizar en la app. | EP07                      |
 | US23            | Recordatorio de servicio vía notificación     | Como cliente quiero recibir recordatorios previos a la cita para no olvidarla.                  | **Escenario 1:**<br>Dado que falta 1 hora para la cita,<br>Cuando llega el momento,<br>Entonces se envía push recordatorio.<br><br>**Escenario 2:**<br>Dado que habilito email,<br>Cuando faltan 24 horas,<br>Entonces recibo correo de recordatorio,<br>Y opción de reprogramar. | EP07                      |
-
-## Technical Stories.
-
 
 
 ## 3.3. Impact Mapping.
