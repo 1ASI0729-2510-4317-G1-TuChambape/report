@@ -341,7 +341,7 @@ Hub digital que ofrece servicios profesionales en diversos rubros, como medicina
     </tr>
     <tr>
       <th></th>
-      <th>JobI</th>
+      <th>TuChamba</th>
       <th>Chambea</th>
       <th>Workana</th>
       <th>Clic</th>
