@@ -35,7 +35,6 @@
 | Cossar Sanchez, Eduardo Jose       | U202312109 |
 | Mora Blas,  Diego Alonzo             | U20231c069 |
 | Remon Fernandez, Roy  | u20221b778 |
-| Jonseck Choque, Oliver | U202312912 |
 | Oroncoy Almeyda, Alejandro Daniel | U202313397 |
 | Osores Marchese, Pietro | U202310971 |
 
@@ -69,7 +68,6 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 
 | Integrantes            | Tareas Asignadas                                                                                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Oliver Jonseck            |    Realizo las vistas de iniciar sesion, registrarse y recuperar contraseña                                                                          |
 | Diego Mora          |  Realizo las vistas de buscar tecnico para el cliente y el apartado del pago de los planes para el tecnico|
 |Roy Fernandez         |  Realizo el inicio para el cliente y el trabajador, tambien hizo la vista buscar oferta                                                                                                      |
 | Alejandro Oroncoy      |   Realizo las vistas de todo el apartado de ofertas para el cliente y para el trabajador                                                                         |
