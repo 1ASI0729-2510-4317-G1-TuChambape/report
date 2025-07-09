@@ -79,7 +79,7 @@ Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas pa
 
 ## **TF**
 
-Para el desarrollo de la TP1 nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
+Para el desarrollo de la TF nos hemos dividido como equipo diferentes tareas para cada seccion del informe.
 
 | Integrantes            | Tareas Asignadas                                                                                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2952,6 +2952,26 @@ Apellidos: Atanacio
 Edad: 23
 
 Distrito de residencia: San Juan de Lurigancho
+
+
+## Entrevista 3:
+
+Datos del entrevistador:
+
+Nombres: Eduardo
+
+Apellidos: Cossar Sanchez
+
+
+Datos de la entrevistada:
+
+Nombres: Maria Fernanda
+
+Apellidos: Mostajo Orosco
+
+Edad: 19
+
+Distrito de residencia: Santa Anita
 
 
 # Conclusiones
