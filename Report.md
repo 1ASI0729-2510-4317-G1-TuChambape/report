@@ -2976,6 +2976,258 @@ Distrito de residencia: Santa Anita
 
 **Link de las entrevistas**: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202312109_upc_edu_pe/EoNWINNJnKxLoXPb8j7mjIEBc3f7jQZg34YRkSVM9d6iSw?e=vXajg2
 
+### 5.3.3. Evaluaciones según heurísticas. 
+
+- Carrera: Ingeniería de Software 
+- Curso: SI729 
+- Profesor: Alberto Wilmer Sanchez Seña 
+- Auditor: "Grupo 1 - Tuchambape"  
+
+Tareas a Evaluar 
+- Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de una reserva
+- Adaptabilidad a dispositivos móviles
+- Edición de datos
+- Mostrar listado de reservas
+- Prueba de buscador
+- Eliminación de datos
+- Botones de redirección
+- Sistema de suscripción
+
+Escala de severidad Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+| :--- | :--- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente lanzamiento. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+Tabla de Resumen
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :-- | :--- | :--- | :--- |
+| 1 | En el formulario "Crear Cuenta", los dos campos de contraseña son idénticos ("Contraseña"). No se especifica que el segundo es para confirmación, lo que puede causar confusión. | 2 | **Consistencia y estándares:** La convención es usar "Confirmar contraseña" para el segundo campo. |
+| 2 | Las etiquetas de los campos ("Dirección de e-mail", "Contraseña") desaparecen al escribir. Si el usuario se distrae, debe borrar el campo para recordar qué información se le pedía. | 2 | **Reconocimiento en lugar de recuerdo (Recognition rather than recall):** El usuario no debería tener que memorizar la función de un campo. Las etiquetas deben ser visibles permanentemente. |
+| 3 | El mensaje de error en el inicio de sesión ("Contraseña incorrecta") es demasiado específico. Confirma que el e-mail ingresado sí existe en la base de datos, lo cual es una vulnerabilidad de seguridad que permite a un atacante adivinar usuarios registrados. | 3 | **Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores:** El mensaje debe ser genérico (ej. "El e-mail o la contraseña son incorrectos") para proteger los datos del usuario. |
+| 4 | No existe la opción de "mostrar/ocultar contraseña" en ninguno de los formularios. Esto aumenta la probabilidad de que el usuario cometa errores de tipeo al no poder ver lo que escribe. | 1 | **Prevención de errores:** Ofrecer visibilidad de la contraseña es una forma efectiva de prevenir errores comunes al crear una cuenta o iniciar sesión. |
+| 5 | El mensaje de error en "Crear Cuenta" ("¡Dato Obligatorio!") es genérico. No informa sobre otros posibles errores, como un formato de e-mail inválido (ej. "usuario@dominio"). | 2 | **Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores:** Los mensajes de error deben ser precisos para que el usuario pueda corregir el problema fácilmente. |
+| 6 | En la pantalla "Inicio", los datos de los paneles no son coherentes ni realistas. Por ejemplo, en "Técnicos Contactados", los números (4 contratados, 7 respondieron) no se reflejan de forma clara en el medidor gráfico, generando desconfianza. | 2 | **Coincidencia entre el sistema y el mundo real:** La información debe presentarse de forma lógica y creíble para el usuario. El medidor no representa los datos de forma intuitiva. |
+| 7 | El formulario para "Crear Oferta" es extenso y las casillas de autorización para notificaciones y tratamiento de datos usan texto legal muy pequeño y difícil de leer. No queda claro si son obligatorias para publicar. | 3 | **Diseño estético y minimalista:** Las interfaces no deben contener información irrelevante o que sea difícil de leer. El texto legal crucial debe ser claro y accesible. |
+| 8 | El proceso de pago se ejecuta sin que el usuario haya ingresado o seleccionado un método de pago. La pantalla de confirmación aparece automáticamente, lo cual es imposible en un escenario real y rompe por completo la confianza del usuario. | 4 | **Control y libertad del usuario:** El usuario no tiene ningún control sobre cómo se realiza el pago. Es un paso fundamental que falta por completo en el flujo de la aplicación. |
+| 9 | En la vista de "Ofertas Finalizadas", el contenido de la reseña está en inglés, habla sobre un servicio de cuidado de mascotas y no tiene ninguna relación con el trabajo de "Mantenimiento General", que es el contexto de la página. | 2 | **Coincidencia entre el sistema y el mundo real:** El contenido es irrelevante y rompe la inmersión y credibilidad de la plataforma. |
+| 10 | En la sección de "Comparar Perfiles", la información sobre los "Años de experiencia" se muestra dos veces para cada técnico (una como texto y otra en una caja de color). Esta duplicación es redundante y crea desorden visual. | 1 | **Diseño estético y minimalista:** Presentar la misma información dos veces en el mismo espacio es innecesario y dificulta la lectura rápida de los perfiles. |
+| 11 | La ventana de chat que aparece en la sección "Ofertas" es una imagen estática. Parece una funcionalidad real, pero no se puede interactuar con ella ni cerrarla, bloqueando la vista del contenido que está detrás. | 3 | **Control y libertad del usuario:** El usuario no puede descartar la ventana superpuesta, lo que le impide continuar interactuando con la página. |
+| 12 | En la pantalla de "Configuración", hay una mezcla de idiomas. Términos como "Account", "Facebook Connect", "Google+ Connect" y "Listening exercises" están en inglés, mientras que el resto de la interfaz está en español. | 3 | **Coincidencia entre el sistema y el mundo real:** Las etiquetas deben ser familiares para el usuario y consistentes en el idioma. |
+| 13 | Dentro de "Mi Perfil > Preferencias", cada filtro tiene sus propios botones de "Aplicar" y "Borrar", pero también existe un botón global de "Guardar cambios". No queda claro si "Aplicar" guarda los cambios o si se debe presionar ambos. | 3 | **Visibilidad del estado del sistema:** El sistema no comunica claramente el resultado de las acciones, lo que puede llevar a que no se guarden las preferencias seleccionadas. |
+| 14 | En "Configuración", la gestión de pagos está dividida en "FONDOS" e "INFORMACIÓN PERSONAL". No es intuitivo tener que ir a otra sección para agregar datos cruciales para la facturación como la dirección o el celular. | 2 | **Diseño estético y minimalista:** La arquitectura de la información no está bien organizada. Los datos relacionados deberían estar agrupados de forma más lógica. |
+| 15 | En "Mi Perfil > Datos", los íconos junto a las etiquetas son inconsistentes. El más confuso es el ícono de candado junto a "Correo electrónico", que universalmente significa "contraseña", lo que puede confundir al usuario. | 1 | **Consistencia y estándares:** Los íconos y símbolos deben seguir las convenciones establecidas para que su significado sea inmediatamente reconocible. |
+| 16 | En "Configuración", el enlace para verificar el correo ("Verify now") no tiene un estilo que lo diferencie del texto normal. No parece un elemento interactivo, por lo que el usuario podría no darse cuenta de que debe hacer clic. | 2 | **Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores:** La solución al problema (el enlace para verificar) no es evidente. |
+
+Respecto a Registro e Inicio de Sesión: 
+
+![Captura de pantalla 2025-07-07 172020](https://github.com/user-attachments/assets/fc68861c-1513-4e84-a8b4-9d82340e2aed) 
+
+![Captura de pantalla 2025-07-07 172130](https://github.com/user-attachments/assets/b020c174-cef4-4625-b582-c956a72f21c8) 
+
+![Captura de pantalla 2025-07-07 172248](https://github.com/user-attachments/assets/6a04f6be-a743-4284-add6-82d1ab2bc66b) 
+
+![Captura de pantalla 2025-07-07 172305](https://github.com/user-attachments/assets/86bc5803-f574-4602-9c77-89be8fc4cb55) 
+
+
+Problema #1
+
+- Problema: En el formulario "Crear Cuenta", los dos campos de contraseña son idénticos ("Contraseña"). No se especifica que el segundo es para confirmación, lo que puede causar confusión.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Consistencia y estándares.
+
+- Recomendación: Cambiar la etiqueta del segundo campo a "Confirmar contraseña". Esto sigue una convención universalmente entendida y elimina cualquier ambigüedad para el usuario durante el registro.
+
+Problema #2
+
+- Problema: Las etiquetas de los campos ("Dirección de e-mail", "Contraseña") desaparecen al escribir. Si el usuario se distrae, debe borrar el campo para recordar qué información se le pedía.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Reconocimiento en lugar de recuerdo (Recognition rather than recall).
+
+- Recomendación: Implementar "etiquetas flotantes" (floating labels). La etiqueta debe empezar dentro del campo y, cuando el usuario hace clic para escribir, esta se anima y se mueve a una posición por encima del campo, permaneciendo siempre visible.
+
+Problema #3
+
+- Problema: El mensaje de error en el inicio de sesión ("Contraseña incorrecta") es demasiado específico. Confirma que el e-mail ingresado sí existe en la base de datos, lo cual es una vulnerabilidad de seguridad.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Modificar el mensaje de error para que sea genérico y no revele qué campo fue el incorrecto. Utilizar un texto como: "El correo o la contraseña son incorrectos". Esto protege la privacidad y seguridad de los usuarios registrados.
+
+Problema #4
+
+- Problema: No existe la opción de "mostrar/ocultar contraseña". Esto aumenta la probabilidad de que el usuario cometa errores de tipeo al no poder ver lo que escribe.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Prevención de errores.
+
+- Recomendación: Añadir un ícono de ojo (o similar) al lado de los campos de contraseña. Al hacer clic en él, se debe permitir al usuario ver u ocultar el texto que ha escrito, reduciendo la fricción y los posibles errores.
+
+Problema #5
+
+- Problema: El mensaje de error en "Crear Cuenta" ("¡Dato Obligatorio!") es genérico. No informa sobre otros posibles errores, como un formato de e-mail inválido.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Implementar validaciones y mensajes de error específicos. Si el campo está vacío, "Campo obligatorio" es correcto. Si el formato es incorrecto, el mensaje debe ser "Por favor, ingrese un formato de correo válido".
+
+Respecto a Pantalla de vista del cliente: 
+
+![Captura de pantalla 2025-07-07 172810](https://github.com/user-attachments/assets/c62f4459-0690-4d50-a737-ec43060039a5) 
+
+![Captura de pantalla 2025-07-07 172829](https://github.com/user-attachments/assets/e498e19e-9194-4654-92c3-071a8282464d) 
+
+![Captura de pantalla 2025-07-07 172844](https://github.com/user-attachments/assets/f87cd124-9d66-4d75-bd63-dc13439c30f9) 
+
+![Captura de pantalla 2025-07-07 172859](https://github.com/user-attachments/assets/6745aff2-d6bc-498b-8f52-ad77b403c0b8) 
+
+![Captura de pantalla 2025-07-07 172911](https://github.com/user-attachments/assets/a3dc7d0e-b1fb-4f1b-94a2-4f964d8e3842)
+
+![Captura de pantalla 2025-07-07 172924](https://github.com/user-attachments/assets/1a64c227-90e6-4180-85ae-65c0f69d3400) 
+
+![Captura de pantalla 2025-07-07 172936](https://github.com/user-attachments/assets/6646f8a0-301a-411b-a06c-73dbb4112486)
+
+![Captura de pantalla 2025-07-07 172951](https://github.com/user-attachments/assets/1a823571-3052-4468-94d5-d7ae6cb260eb)
+
+![Captura de pantalla 2025-07-07 173005](https://github.com/user-attachments/assets/4d9c786e-7ffb-4890-9e1c-3b2fc811136a)
+
+![Captura de pantalla 2025-07-07 173020](https://github.com/user-attachments/assets/c217ccda-d3e1-4868-bf5d-900152a50a81)
+
+Problema #6
+
+- Problema: En la pantalla "Inicio", los datos de los paneles no son coherentes ni realistas (ej. el medidor gráfico de "Técnicos Contactados"), lo que genera desconfianza.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Asegurarse de que los datos de muestra (o reales) sean lógicos. Para el medidor, se podría usar un gráfico de barras o dos números claros ("Respondieron: 7", "Contratados: 4") en lugar de un medidor que no representa bien la relación.
+
+Problema #7
+
+- Problema: En el formulario "Crear Oferta", el texto legal de las casillas de autorización es muy pequeño y difícil de leer.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Aumentar el tamaño de la fuente del texto legal a un tamaño legible. Considerar mostrar un resumen breve y un enlace a una página de "Términos y Condiciones" para el texto completo, en lugar de ponerlo todo en la misma vista.
+
+Problema #8
+
+- Problema: El proceso de pago se ejecuta sin que el usuario haya ingresado o seleccionado un método de pago.
+
+- Severidad: 4 (Muy Grave).
+
+- Heurística violada: Control y libertad del usuario.
+
+- Recomendación: Diseñar e implementar un flujo de pago completo. Esto debe incluir: 1) Una sección para agregar y gestionar métodos de pago. 2) Permitir al usuario seleccionar un método de pago antes de confirmar. 3) Mostrar un resumen del pago antes de la confirmación final.
+
+Problema #9
+
+- Problema: En la vista de "Ofertas Finalizadas", el contenido de la reseña es irrelevante (habla de mascotas) y está en otro idioma.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Reemplazar todos los textos de muestra (lorem ipsum o placeholders) con contenido que sea coherente y relevante para el contexto de la aplicación, incluso si son datos ficticios.
+
+Problema #10
+
+- Problema: En "Comparar Perfiles", la información sobre los "Años de experiencia" se muestra dos veces de forma redundante.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Eliminar la redundancia. Mantener una sola visualización para los años de experiencia. La opción más limpia sería el texto simple ("14 años") sin la caja de color adicional.
+
+Problema #11
+
+- Problema: La ventana de chat en "Ofertas" es una imagen estática que bloquea el contenido de detrás y no se puede cerrar.
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Control y libertad del usuario.
+
+- Recomendación: Si la funcionalidad de chat no está implementada, se debe eliminar el botón que la activa. Si es solo un prototipo visual, debe ser reemplazado por la funcionalidad real o, como mínimo, permitir que el usuario la cierre (ej. con un ícono "X").
+
+Respecto a Configuración: 
+
+![Captura de pantalla 2025-07-07 173034](https://github.com/user-attachments/assets/c0b5b6c1-bb1d-4f04-a39d-17955493013d)
+
+![Captura de pantalla 2025-07-07 173715](https://github.com/user-attachments/assets/42f3c669-ed8d-4483-92fd-6af90a6d6855)
+
+![Captura de pantalla 2025-07-07 173724](https://github.com/user-attachments/assets/0072817d-aa41-4216-a2cb-9fce6fa12290)
+
+Problema #12
+
+- Problema: En "Configuración", hay una mezcla de idiomas (español e inglés) y opciones obsoletas ("Google+") o irrelevantes ("Listening exercises").
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Coincidencia entre el sistema y el mundo real.
+
+- Recomendación: Estandarizar todo el texto de la interfaz a un solo idioma (español). Revisar y eliminar todas las opciones que sean de relleno, obsoletas o que no correspondan a la funcionalidad de la aplicación.
+
+Problema #13
+
+- Problema: En "Mi Perfil > Preferencias", no queda claro si el botón "Aplicar" de cada filtro guarda los cambios o si, además, se debe presionar "Guardar cambios".
+
+- Severidad: 3 (Mayor).
+
+- Heurística violada: Visibilidad del estado del sistema.
+
+- Recomendación: Eliminar los botones "Aplicar" y "Borrar" de cada filtro individual. Dejar únicamente el botón global "Guardar cambios" al final de la página para que el usuario guarde todas sus preferencias de una sola vez, creando un punto de guardado único y claro.
+
+Problema #14
+
+- Problema: La gestión de pagos en "Configuración" está fragmentada y su arquitectura no es intuitiva.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Diseño estético y minimalista.
+
+- Recomendación: Reorganizar la página "Configuración". Crear una sección única llamada "Pagos y Facturación" donde se agrupen la gestión de métodos de pago, la dirección de facturación, el historial de transacciones y las configuraciones de seguridad relacionadas (como el PIN).
+
+Problema #15
+
+- Problema: En "Mi Perfil", el ícono de candado junto a "Correo electrónico" es confuso, ya que universalmente se asocia a contraseñas.
+
+- Severidad: 1 (Superficial).
+
+- Heurística violada: Consistencia y estándares.
+
+- Recomendación: Reemplazar el ícono de candado por un ícono de arroba (@) o un sobre, que son los símbolos convencionales para representar un correo electrónico. Asegurar que todos los íconos sean consistentes y aporten valor.
+
+Problema #16
+
+- Problema: En "Configuración", el enlace "Verify now" no tiene un estilo que lo haga parecer un elemento interactivo.
+
+- Severidad: 2 (Menor).
+
+- Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores.
+
+- Recomendación: Darle al enlace un estilo visual claro que indique que se puede hacer clic. Como mínimo, debe tener el color azul estándar de los hipervínculos y, preferiblemente, un subrayado para máxima claridad.
+
+
 # Conclusiones
 
 *6.1 Conclusiones y Recomendaciones*
