@@ -2722,17 +2722,7 @@ En el tercer sprint backlog, el equipo tuvo la intención de completar el desarr
     <td><b>Assigned To</b></td>
     <td><b>Status (To-do/In-Process/To-Review/Done)</b></td>
   </tr>
-  <tr>
-    <td rowspan="2">US01</td>
-    <td rowspan="2">Inicio de sesión</td>
-    <td>T1</td>
-    <td>Diseño de interfaz de login</td>
-    <td>Diseñar la interfaz de inicio de sesión con campos de usuario y contraseña.</td>
-    <td>4</td>
-    <td>Diego Mora</td>
-    <td>Done</td>
-  </tr>
-  <tr>
+
    
   </tr>
   
@@ -2752,6 +2742,18 @@ En el tercer sprint backlog, el equipo tuvo la intención de completar el desarr
     <td>Desarrollar el sistema de recuperación de contraseña.</td>
     <td>5</td>
     <td>Alejandro Oroncoy</td>
+    <td>Done</td>
+  </tr>
+ 
+  
+  <tr>
+    <td>US07</td>
+    <td>Personalización de perfil técnico</td>
+    <td>T1</td>
+    <td>Personalización de perfil</td>
+    <td>Permitir al trabajador personalizar su perfil con habilidades y experiencia.</td>
+    <td>6</td>
+    <td>Roy Fernandez</td>
     <td>Done</td>
   </tr>
  
