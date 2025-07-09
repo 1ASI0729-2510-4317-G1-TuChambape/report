@@ -52,11 +52,11 @@
 
 # Project Report Collaboration Insights
 
-**Repositorio de git hub: ** https://github.com/1ASI0729-2510-4317-G1-TuChambape
-**Repositorio de git hub - repositorio: **https://github.com/1ASI0729-2510-4317-G1-TuChambape/report
-**Repositorio de git hub - landing page: **https://github.com/1ASI0729-2510-4317-G1-TuChambape/landing
-**Repositorio de git hub - frontend: **https://github.com/1ASI0729-2510-4317-G1-TuChambape/frontend
-**Repositorio de git hub - backend: **https://github.com/1ASI0729-2510-4317-G1-TuChambape/backend-tuchamba
+**Repositorio de git hub:** https://github.com/1ASI0729-2510-4317-G1-TuChambape
+**Repositorio de git hub-repositorio:**https://github.com/1ASI0729-2510-4317-G1-TuChambape/report
+**Repositorio de git hub-landing page:**https://github.com/1ASI0729-2510-4317-G1-TuChambape/landing
+**Repositorio de git hub-frontend:**https://github.com/1ASI0729-2510-4317-G1-TuChambape/frontend
+**Repositorio de git hub-backend:**https://github.com/1ASI0729-2510-4317-G1-TuChambape/backend-tuchamba
 
 
 ## **TP1**
