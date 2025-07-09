@@ -2118,7 +2118,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Diseño de interfaz de login</td>
     <td>Diseñar la interfaz de inicio de sesión con campos de usuario y contraseña.</td>
-    <td>2</td>
+    <td>5</td>
     <td>Oliver Jonseck</td>
     <td>Done</td>
   </tr>
@@ -2126,7 +2126,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T2</td>
     <td>Implementación de autenticación</td>
     <td>Desarrollar la lógica de autenticación y manejo de sesiones.</td>
-    <td>3</td>
+    <td>5</td>
     <td>Alejandro Oroncoy</td>
     <td>Done</td>
   </tr>
@@ -2136,7 +2136,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Diseño del formulario de registro</td>
     <td>Crear la interfaz del formulario de registro con validaciones.</td>
-    <td>2</td>
+    <td>5</td>
     <td>Diego Mora</td>
     <td>Done</td>
   </tr>
@@ -2144,7 +2144,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T2</td>
     <td>Implementación del registro</td>
     <td>Desarrollar la lógica de registro y almacenamiento de usuarios.</td>
-    <td>3</td>
+    <td>5</td>
     <td>Roy Fernandez</td>
     <td>Done</td>
   </tr>
@@ -2154,7 +2154,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Diseño de recuperación</td>
     <td>Diseñar la interfaz para recuperación de contraseña.</td>
-    <td>1</td>
+    <td>5</td>
     <td>Eduardo Cossar</td>
     <td>Done</td>
   </tr>
@@ -2162,7 +2162,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T2</td>
     <td>Implementación de recuperación</td>
     <td>Desarrollar el sistema de recuperación de contraseña.</td>
-    <td>2</td>
+    <td>5</td>
     <td>Daniel Valdizan</td>
     <td>In-Process</td>
   </tr>
@@ -2172,7 +2172,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Implementación de cambio de vista</td>
     <td>Permitir al usuario alternar entre vista de cliente y trabajador.</td>
-    <td>3</td>
+    <td>5</td>
     <td>Alejandro Oroncoy</td>
     <td>Done</td>
   </tr>
@@ -2182,7 +2182,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Diseño de navegación cliente</td>
     <td>Diseñar la navegación para que el cliente explore y contrate trabajadores.</td>
-    <td>3</td>
+    <td>7</td>
     <td>Oliver Jonseck</td>
     <td>Done</td>
   </tr>
@@ -2192,7 +2192,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Diseño de navegación trabajador</td>
     <td>Diseñar la navegación para que el trabajador gestione sus servicios y clientes.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Eduardo Cossar</td>
     <td>Done</td>
   </tr>
@@ -2222,7 +2222,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Gestión de configuración</td>
     <td>Permitir al usuario gestionar notificaciones, idioma, etc.</td>
-    <td>2</td>
+    <td>5</td>
     <td>Oliver Jonseck</td>
     <td>In-progress</td>
   </tr>
@@ -2292,7 +2292,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Actualizar disponibilidad</td>
     <td>Permitir al trabajador actualizar sus horarios disponibles.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Alejandro Oroncoy</td>
     <td>Done</td>
   </tr>
@@ -2312,7 +2312,7 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
     <td>T1</td>
     <td>Actualizar habilidades</td>
     <td>Permitir al trabajador mantener actualizada su lista de habilidades.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Eduardo Cossar</td>
     <td>In-progress</td>
   </tr>
