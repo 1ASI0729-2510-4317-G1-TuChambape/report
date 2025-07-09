@@ -2905,3 +2905,12 @@ Se ha logrado un progreso significativo en la creación de una base sólida, tan
 - Evaluar críticamente los avances realizados, comparándolos con los entregables definidos en el sílabo del curso, garantizando que cada parte del proyecto cumpla con los criterios de evaluación establecidos.
 
 
+# Anexos
+
+Anexo A:
+URL del Prototypes Navigation / Product Navigation:
+https://www.figma.com/design/WlekroBucuWBKJj4jiPD7T/OPEN-SOURCE?node-id=0-1&t=ayrC0lqPtUj7QamG-1
+
+Anexo B:
+URL de las entrevistas:
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u202312109_upc_edu_pe/EoNWINNJnKxLoXPb8j7mjIEBc3f7jQZg34YRkSVM9d6iSw?e=vXajg2
