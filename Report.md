@@ -3008,3 +3008,16 @@ https://www.figma.com/design/WlekroBucuWBKJj4jiPD7T/OPEN-SOURCE?node-id=0-1&t=ay
 Anexo B:
 URL de las entrevistas:
 https://upcedupe-my.sharepoint.com/:f:/g/personal/u202312109_upc_edu_pe/EoNWINNJnKxLoXPb8j7mjIEBc3f7jQZg34YRkSVM9d6iSw?e=vXajg2
+
+Anexo C:
+URL del Backend:
+
+
+Anexo D:
+URL del Frontend:
+
+
+Anexo E:
+URL del Landing Page:
+
+
