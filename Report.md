@@ -2622,6 +2622,221 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/invi
 
 <img src="https://files.catbox.moe/ja3eej.jpeg" alt="Swagger evidence in github">
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1.Sprint Planning 4
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma TuChamba, el Sprint #3 dio inicio el 29/05/2025, y su meta consiste en completar la aplicación web del lado frontend y comenzar con el backend . Durante este Sprint, se desarrollaron las funcionalidades esenciales para ambos segmentos objetivo - trabajadores técnicos independientes y usuarios que requieren servicios técnicos: los clientes pueden explorar perfiles de diferentes trabajadores técnicos y solicitar sus servicios de manera intuitiva, mientras que los trabajadores técnicos tienen acceso a herramientas de gestión que les permiten configurar sus tarifas, administrar sus servicios ofrecidos y visualizar las solicitudes de trabajo asignadas.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 4</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-06-28</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Alejandro Oroncoy</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Integrantes del equipo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 4 Review Summary</b></td>
+      <td colspan="1">Durante este sprint se realizaron mejoras en el frontend y en el backend de la aplicación, realizando al 100% las funcionalidades principales para los roles de cliente y técnico.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 4 Retrospective Summary</b></td>
+      <td colspan="1">Se identificó la necesidad de mejoraras en tareas ya hechas y la integración de pruebas para evitar retrabajos. También se destacó una mayor fluidez en la comunicación del equipo respecto al sprint anterior, lo que permitió avanzar con mayor claridad en los entregables.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 4 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing the full web application frontend and backend , addressing both customer and worker user roles.<br><b>We believe it delivers</b>a functional and responsive interface that supports key actions such as booking services for customers and managing appointments and pricing for workers.<br><b>This will be confirmed when</b> customers can successfully explore available workers and make reservations, and workers are able to configure their services, view appointments, and interact with their dashboards smoothly.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 4 Velocity</b></td>
+      <td colspan="1">5</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">18</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+Para este Sprint, se han identificado los principales aspectos del frontend web application de TuChamba.pe. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Team Member**                     | **GitHub Username** | **auth** | **offers** | **compare-profiles** | **public** | **shared** | **dashboard** | **profiles** | **search profiles** | **services** | **subscription** |
+|-------------------------------------|---------------------|----------|------------|----------------------|------------|------------|---------------|--------------|---------------------|--------------|------------------|
+| Fernandez, Roy            | rofy            | L        | C          | C                    | C          | C          | C             | C            | C                   | C            | C                |
+| Mora, Diego       | dmora             | C        | C          | L                    | C          | C          | C             | L            | C                   | C            | L                |
+| Oliver Jonseck    | oliverj           | C        | C          | C                    | C          | C          | L             | C            | C                   | C            | C                |
+| Oroncoy Almeyda, Alejandro Daniel   | alejooroncoy        | C        | L          | C                    | C          | C          | C             | C            | C                   | C            | C                |
+| Cossar Sanchez, Eduardo Jose        | coleeeee-dev        | C        | C          | C                    | L          | C          | C             | C            | L                   | C            | C                |
+|
+
+
+#### 5.2.4.3.Sprint Backlog 4.
+
+En el tercer sprint backlog, el equipo tuvo la intención de completar el desarrollo del backend de la aplicación web, tanto para el rol de cliente (customer) como de trabajador/técnico (worker). Por otro lado, se inicio con el proceso de desarrollo del backend. La herramienta utilizada para organizar y gestionar las tareas del equipo continuó siendo Trello, permitiendo dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades específicas. El objetivo principal del sprint fue implementar las funcionalidades clave de ambos roles, asegurando una interfaz intuitiva, responsiva y funcional.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td colspan="2" align="center"><b>Sprint #</b></td>
+    <td colspan="6" align="center"><b>Sprint 4</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Task Id</b></td>
+    <td><b>Task Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status (To-do/In-Process/To-Review/Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US01</td>
+    <td rowspan="2">Inicio de sesión</td>
+    <td>T1</td>
+    <td>Diseño de interfaz de login</td>
+    <td>Diseñar la interfaz de inicio de sesión con campos de usuario y contraseña.</td>
+    <td>4</td>
+    <td>Diego Mora</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   
+  </tr>
+  
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Recuperar contraseña</td>
+    <td>T1</td>
+    <td>Diseño de recuperación</td>
+    <td>Diseñar la interfaz para recuperación de contraseña.</td>
+    <td>4</td>
+    <td>Eduardo Cossar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Implementación de recuperación</td>
+    <td>Desarrollar el sistema de recuperación de contraseña.</td>
+    <td>5</td>
+    <td>Alejandro Oroncoy</td>
+    <td>Done</td>
+  </tr>
+ 
+  <tr>
+    <td>US09</td>
+    <td>Configuración</td>
+    <td>T1</td>
+    <td>Gestión de configuración</td>
+    <td>Permitir al usuario gestionar notificaciones, idioma, etc.</td>
+    <td>6</td>
+    <td>Roy Fernandez</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td>US11</td>
+    <td>Sistema de reseñas y calificación</td>
+    <td>T1</td>
+    <td>Implementación de reseñas</td>
+    <td>Permitir dejar reseñas y calificaciones a los trabajadores.</td>
+    <td>6</td>
+    <td>Diego Mora </td>
+    <td>Done</td>
+  </tr>
+ 
+  <tr>
+    <td>US15</td>
+    <td>Recomendación de perfil</td>
+    <td>T1</td>
+    <td>Sistema de recomendaciones</td>
+    <td>Recomendar trabajadores a los clientes.</td>
+    <td>8</td>
+    <td>Oliver Jonseck</td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td>US24</td>
+    <td>Crear y enviar propuestas</td>
+    <td>T1</td>
+    <td>Envío de propuestas</td>
+    <td>Permitir al trabajador enviar propuestas personalizadas a los clientes.</td>
+    <td>8</td>
+    <td>Roy Fernandez</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <tr>
+    <td rowspan="2">US25</td>
+    <td rowspan="2">Pago seguro dentro de la app</td>
+    <td>T1</td>
+    <td>Diseño de interfaz de payment</td>
+    <td>Diseñar la interfaz con los campos requeridos.</td>
+    <td>4</td>
+    <td>Pietro Osores</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+
+
+
+  <tr>
+    <td>US26</td>
+    <td>Gestión de habilidades técnicas</td>
+    <td>T1</td>
+    <td>Actualizar habilidades</td>
+    <td>Permitir al trabajador mantener actualizada su lista de habilidades.</td>
+    <td>5</td>
+    <td>Eduardo Cossar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+</table>
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 4](https://trello.com/invite/b/683a3962930000c3d5ef87f0/ATTI302ef236cfd65c123fb226b68a19bffeF566BB88/jobconnect-sprint-3)
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+
+
 ### 5.3 Validation Interviews
 
 ### 5.3.1 Registro de entrevistas
