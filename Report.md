@@ -2974,6 +2974,8 @@ Edad: 19
 Distrito de residencia: Santa Anita
 
 
+**Link de las entrevistas**: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202312109_upc_edu_pe/EoNWINNJnKxLoXPb8j7mjIEBc3f7jQZg34YRkSVM9d6iSw?e=vXajg2
+
 # Conclusiones
 
 *6.1 Conclusiones y Recomendaciones*
