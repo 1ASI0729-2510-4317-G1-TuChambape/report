@@ -191,13 +191,13 @@ Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, 
 
 <img src="assets/images/profile-pictures/Roy%20Fernandez%20Remon.jpg"  width="180" />
 
-#### 1.1.2.5 Daniel Valdizán Grijalba
+#### 1.1.2.5 Daniel Valdizán Grijalba (retirado)
 
 Mi nombre es Daniel Valdizán Grijalba, tengo 19 años y estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona que trabaja bien en equipo y maneja estar bajo presión. Me comprometo a apoyar de la mejor manera al grupo en este trabajo.
 
 <img src="assets/images/profile-pictures/DanielV.PNG"  width="180" />
 
-#### 1.1.2.6 Oliver Jonseck Choque
+#### 1.1.2.6 Oliver Jonseck Choque (retirado)
 
 Mi nombre es Oliver Jonseck Choque, estudio ingenieria de software y poseo 19 años. Soy una persona algo distraida, pero sin embargo siempre trato de dar lo mejor que puedo. Soy autodidacta, alegre y llego a ser responsable.
 
