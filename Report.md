@@ -2907,7 +2907,9 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 4](https://trello.com/invi
 #### 5.2.4.5 Execution Evidence for Sprint Review
 
  <img src="https://files.catbox.moe/vwtjwt.png" alt="kevin image" width="600">
- 
+
+<img src="https://files.catbox.moe/5ilwyz.png" alt="kevin image" width="600">
+
 
 ### 5.3 Validation Interviews
 
@@ -3229,13 +3231,12 @@ https://upcedupe-my.sharepoint.com/:f:/g/personal/u202312109_upc_edu_pe/EoNWINNJ
 
 Anexo C:
 URL del Backend:
-
+https://backend-tuchamba.onrender.com/swagger-ui/index.html
 
 Anexo D:
 URL del Frontend:
-
+https://tuchambafrontend.netlify.app/
 
 Anexo E:
 URL del Landing Page:
-
-
+https://tuchamba.netlify.app/
