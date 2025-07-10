@@ -2901,10 +2901,13 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 4](https://trello.com/invi
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
+ <img src="https://files.catbox.moe/9j7s1o.png" alt="kevin image" width="600">
+
 
 #### 5.2.4.5 Execution Evidence for Sprint Review
 
-
+ <img src="https://files.catbox.moe/vwtjwt.png" alt="kevin image" width="600">
+ 
 
 ### 5.3 Validation Interviews
 
@@ -3076,24 +3079,6 @@ Problema #5
 Respecto a Pantalla de vista del cliente: 
 
 
-![Captura de pantalla 2025-07-07 172829](https://github.com/user-attachments/assets/e498e19e-9194-4654-92c3-071a8282464d) 
-
-![Captura de pantalla 2025-07-07 172844](https://github.com/user-attachments/assets/f87cd124-9d66-4d75-bd63-dc13439c30f9) 
-
-![Captura de pantalla 2025-07-07 172859](https://github.com/user-attachments/assets/6745aff2-d6bc-498b-8f52-ad77b403c0b8) 
-
-![Captura de pantalla 2025-07-07 172911](https://github.com/user-attachments/assets/a3dc7d0e-b1fb-4f1b-94a2-4f964d8e3842)
-
-![Captura de pantalla 2025-07-07 172924](https://github.com/user-attachments/assets/1a64c227-90e6-4180-85ae-65c0f69d3400) 
-
-![Captura de pantalla 2025-07-07 172936](https://github.com/user-attachments/assets/6646f8a0-301a-411b-a06c-73dbb4112486)
-
-![Captura de pantalla 2025-07-07 172951](https://github.com/user-attachments/assets/1a823571-3052-4468-94d5-d7ae6cb260eb)
-
-![Captura de pantalla 2025-07-07 173005](https://github.com/user-attachments/assets/4d9c786e-7ffb-4890-9e1c-3b2fc811136a)
-
-![Captura de pantalla 2025-07-07 173020](https://github.com/user-attachments/assets/c217ccda-d3e1-4868-bf5d-900152a50a81)
-
 Problema #6
 
 - Problema: En la pantalla "Inicio", los datos de los paneles no son coherentes ni realistas (ej. el medidor gráfico de "Técnicos Contactados"), lo que genera desconfianza.
@@ -3156,11 +3141,7 @@ Problema #11
 
 Respecto a Configuración: 
 
-![Captura de pantalla 2025-07-07 173034](https://github.com/user-attachments/assets/c0b5b6c1-bb1d-4f04-a39d-17955493013d)
 
-![Captura de pantalla 2025-07-07 173715](https://github.com/user-attachments/assets/42f3c669-ed8d-4483-92fd-6af90a6d6855)
-
-![Captura de pantalla 2025-07-07 173724](https://github.com/user-attachments/assets/0072817d-aa41-4216-a2cb-9fce6fa12290)
 
 Problema #12
 
