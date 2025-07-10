@@ -1758,7 +1758,7 @@ Enlace: https://youtu.be/9PC1qOfyiXI
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![C4 Context Diagram](https://files.catbox.moe/w8d272.png)
+![C4 Context Diagram](https://files.catbox.moe/p4bxr5.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
